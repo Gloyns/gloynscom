@@ -63,7 +63,7 @@ logos:
 logo__items:
   - name: Google
     link: "https://www.google.com/"
-    image: "{{ site.baseurl }}/images/google.svg"
+    image: "/images/google.svg"
 
   - name: Spotify
     link: "https://www.spotify.com/"
