@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: ag
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Creative Portfolio Theme for Jekyll.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -34,7 +34,7 @@ menu__settings:
 author:
   author__name: Jason Hill
   author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
-  author__avatar: '/images/01.jpg'
+  author__avatar:
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com"}
@@ -53,7 +53,7 @@ social:
 hero:
   enable: true
   hero__title: Hi, I’m Andrew
-  hero__description: I’m an SEO Consultant with a proven track record in delivering organic growth to mainly ASX listed and fast-growing businesses over the past 15 years. \n I do this by working closely with product, marketing, content, development & UX teams to provide expert, transparent direction and support on all things SEO. \n I also offer project work to assist with once off requirements such as site migrations, auditing, helping with traffic loss and as an expert witness. \n Schedule a call or get in touch if you'd like to chat.
+  hero__description:
   hero__image: "/images/01-1.jpg"
 
 
