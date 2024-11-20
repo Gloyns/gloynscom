@@ -53,7 +53,7 @@ social:
 hero:
   enable: true
   hero__title: Hi, I’m Andrew
-  hero__description: I’m an SEO Consultant with a proven track record in delivering organic growth to mainly ASX listed and fast-growing businesses. I do this by working closely with product, marketing, content, development & UX teams to provide expert, transparent direction and support on all things SEO. I also offer project work to assist with once off requirements such as site migrations, auditing, helping with traffic loss and as an expert witness. Learn more about my approach or get in touch to chat!I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  hero__description: I’m an SEO Consultant with a proven track record in delivering organic growth to mainly ASX listed and fast-growing businesses. \I do this by working closely with product, marketing, content, development & UX teams to provide expert, transparent direction and support on all things SEO. I also offer project work to assist with once off requirements such as site migrations, auditing, helping with traffic loss and as an expert witness.Learn more about my approach or get in touch to chat!I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
   hero__image: "/images/01-1.jpg"
 
 
