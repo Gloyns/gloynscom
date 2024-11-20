@@ -101,8 +101,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: My Work
+  work__description: My collaborative approach drives effective, long-term growth for brands ready to explore new possibilies.
 
 
 #-------------------------------
