@@ -37,6 +37,19 @@
     }
   }
 
+  &--secondary {
+    padding: 20px 32px;
+    color: var(--button-background-color); // Text matches the primary button background
+    background-color: var(--white); // Inverse to primary button's text color
+
+    &:hover {
+        background: var(--button-background-hover); // Matches primary button's hover effect for cohesion
+        color: var(--white); // Ensure contrast on hover
+    }
+
+    border: 2px solid var(--button-background-color); // Optional: Adds a border for a more distinct inverse style
+}
+
   &--small {
     padding: 20px 24px;
   }
