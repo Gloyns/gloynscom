@@ -31,11 +31,21 @@
     padding: 20px 32px;
     color: var(--white);
     background-color: var(--button-background-color);
+    text-decoration: none; // Ensures no underline appears for links
 
     &:hover {
-      background: var(--button-background-hover);
+        background: var(--button-background-hover);
     }
-  }
+
+    a {
+        color: inherit; // Inherits the white color from the button
+        text-decoration: none; // Removes underline on the link
+    }
+
+    a:hover {
+        color: inherit; // Ensures the hover state of the link matches the button
+    }
+}
 
   &--secondary {
     padding: 20px 32px;
