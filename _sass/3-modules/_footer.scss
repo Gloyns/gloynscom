@@ -74,6 +74,16 @@
   }
 }
 
+.footer__acknowledgement {
+  margin-bottom: 0;
+  font-size: 20px;
+  opacity: .6;
+
+  @media (max-width: $desktop) {
+    font-size: inherit;
+  }
+}
+
 .social {
   margin-bottom: 32px;
 
