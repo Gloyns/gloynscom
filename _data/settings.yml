@@ -12,21 +12,21 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Services'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+ #   - title: 'Services'
+  #    submenu:
+   #   - url: '/contact/'
+    #    title: 'Contact'
+     # - url: '/elements/'
+      #  title: 'Elements'
 
     - title: 'SEO Consulting'
-      url: '/seo-consulting/'
+      url: '/consulting/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Writing'
-      url: '/blog/'
+    #- title: 'Writing'
+     # url: '/blog/'
 
 
 #-------------------------------
@@ -59,9 +59,9 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
+  - name: SEEK
+    #link: "https://www.seek.com.au/"
+    image: "/images/seek.svg"
 
   - name: Spotify
     link: "https://www.spotify.com/"
