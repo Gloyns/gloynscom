@@ -60,8 +60,8 @@ logos:
 
 logo__items:
   - name: SEEK
-    #link: "https://www.seek.com.au/"
-    image: "/images/seek.svg"
+    link: "https://www.seek.com.au/"
+    image: "/images/google.svg"
 
   - name: Spotify
     link: "https://www.spotify.com/"
