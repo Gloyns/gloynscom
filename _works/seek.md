@@ -30,7 +30,7 @@ SEEK needed a strategy that could rapidly build a competitive product while scal
 
 One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value both now and in the future.
 
-### Iterative Development with a Test-and-Learn Approach<
+### Iterative Development with a Test-and-Learn Approach
 
 Instead of waiting to launch the perfect product, we adopted a good-better-best content strategy:
 
@@ -50,7 +50,7 @@ Incorporating real-life insights from SEEK profile users added authenticity and 
 
 The moment the platform became part of SEEK’s nationwide marketing campaign, 'The SEEKRET' was a proud achievement. The campaign showcased SEEK’s ability to provide detailed career insights, making the platform an integral part of SEEK’s brand message.
 
-<p><iframe src="https://www.youtube.com/watch?v=P5xE9dH57vo" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P5xE9dH57vo?si=Qdxdq7dosYF08PVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## The Results
 
