@@ -11,12 +11,14 @@ image_caption: ''
 <ul>
   <li>Embedded SEO Expert (Monthly Retainer)</li>
   <li>Project-Based SEO Support (Set Fee)</li>
-  <li>SEO Strategy</li>
-   <li>Site Migration</li>
-   <li>Organic Traffic Reduction</li>
-  <li>Adhoc Consultancy (Hourly Fee)</li>
-  <li>SEO Expert Witness (Hourly Fee)</li>
-    </ul>
+  <ul>
+    <li>SEO Strategy</li>
+    <li>Site Migration</li>
+    <li>Organic Traffic Reduction</li>
+  </ul>
+  <li>Adhoc Consultancy (Hourly Rate)</li>
+  <li>SEO Expert Witness (Hourly Rate)</li>
+</ul>
 
 <h2>Embedded SEO Expert</h2>
 <p>Many organisations struggle to gain cut through or momentum in organic growth due to low level of internal expertise and/or ineffective support from agencies.</p>
