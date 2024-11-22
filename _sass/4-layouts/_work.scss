@@ -119,19 +119,26 @@
 
 .client-info {
   display: flex;
-  align-items: center;
+  align-items: center; /* Aligns items vertically in the center */
   margin-bottom: 20px; /* Adds spacing below the client info section */
 }
 
-.client-logo img {
-  max-width: 150px; /* Adjust the size of the logo */
-  height: auto;
+.client-logo {
+  display: flex;
+  align-items: center; /* Ensures the image is vertically aligned */
+  justify-content: center; /* Optional: Center-align the logo horizontally within its container */
+  max-width: 400px; /* Adjust the size of the logo container */
   margin-right: 20px; /* Adds spacing between the logo and the description */
+}
+
+.client-logo img {
+  max-width: 100%; /* Ensures the logo scales proportionally */
+  height: auto;
 }
 
 .client-description {
   flex: 1; /* Ensures the description takes up the remaining space */
-  font-size: 16px; /* Adjust the font size if needed */
+  font-size: 20px; /* Adjust the font size if needed */
   line-height: 1.5; /* Improves readability */
 }
 
