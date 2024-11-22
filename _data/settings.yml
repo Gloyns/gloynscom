@@ -12,22 +12,12 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Services'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
-
     - title: 'SEO Consulting'
-      url: '/seo-consulting/'
+      url: '/consulting/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Writing'
-      url: '/blog/'
-
 
 #-------------------------------
 # Author Settings
