@@ -90,6 +90,8 @@
       display: inline-block;
       width: 60px;
       font-weight: 500;
+      flex-shrink: 0;
+      margin-right: 10px;
     }
 
     span {
