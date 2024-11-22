@@ -5,7 +5,7 @@ services: 'SEO Strategy, SEO Training, Site Migration'
 industry: 'Publishing'
 client: ArtsHub
 region: 'Australia, UK'
-image: '/images/artshub-m.png'
+image: '/images/artshub-m.webp'
 image_caption: 'Credit: The CodeCo'
 ---
 
@@ -13,7 +13,9 @@ ArtsHub is a leading membership-based platform in the arts and culture publishin
 
 ## The Challenge
 
-ArtsHub faced low organic traffic and struggled to compete in Google search results. The site’s fragmented subdomain structure diluted authority, JavaScript reliance hindered crawling, and paywalled content limited visibility. These issues not only affected discoverability but also impacted membership growth, as new audiences couldn’t experience ArtsHub’s high-quality content. A more strategic approach was needed to address these barriers while balancing visibility and revenue considerations.
+ArtsHub faced low organic traffic and struggled to compete in Google search results. The site’s fragmented subdomain structure diluted authority, JavaScript reliance hindered crawling, and paywalled content limited visibility. 
+
+These issues not only affected discoverability but also impacted membership growth, as new audiences couldn’t experience ArtsHub’s high-quality content. A more strategic approach was needed to address these barriers while balancing visibility and revenue considerations.
 
 
 ## The Strategy
@@ -35,8 +37,8 @@ My partnership with ArtsHub has delivered an 8x increase in organic traffic, dem
 
 The successful strategy supported growth into related platforms:
 
-* ScreenHub: Focused on the screen and media industries.
-* GamesHub: A newly launched platform targeting the gaming sector.
+* <strong>ScreenHub:</strong> Focused on the screen and media industries.
+* <strong>GamesHub:</strong> A newly launched platform targeting the gaming sector.
 
 ### Smooth CMS Migration
 
