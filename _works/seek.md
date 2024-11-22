@@ -26,7 +26,7 @@ SEEK needed a strategy that could rapidly build a competitive product while scal
 
 ### Strategic Data Use
 
-One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value whilst aggresively targeting competitors most valuable content.
+One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value whilst aggresively gaining market share.
 
 ### Iterative Development with a Test-and-Learn Approach
 
@@ -54,7 +54,7 @@ The moment the platform became part of SEEK’s nationwide marketing campaign, '
 
 This project delivered significant and measurable outcomes:
 
-1. <strong>Traffic Growth:</strong> Organic clicks grew from zero to one million monthly clicks within the first few years, establishing SEEK as a major player in the career advice space.
+1. <strong>Traffic Growth:</strong> Organic clicks grew from zero to one million monthly clicks within the first few years, establishing SEEK as the market leader in the career advice space.
 2. <strong>Increased Conversions:</strong> Users who visited role pages were significantly more likely to apply for jobs, directly contributing to SEEK’s business objectives.
 3. <strong>High Engagement:</strong> The platform achieved exceptional user engagement, with role pages becoming a valuable resource for both job seekers and employers.
 4. <strong>Scalability:</strong> The strategy was successfully scaled across Asia-Pacific markets, replicating the approach in other regions with similar success.
