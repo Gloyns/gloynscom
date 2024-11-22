@@ -16,7 +16,7 @@ SEEK is a Australia's leading employment marketplace, headquartered in Melbourne
 SEEK aimed to create a brand-new career advice section to help users understand various roles, explore pathways into those careers, and access salary data and employer insights. The project presented significant challenges:
 
 
-* SEEK had no existing content, traffic, or market presence in the career advice space.
+* SEEK had no existing role-specific content, organic traffic, or market presence in the career advice space.
 * Established platforms already held substantial market share, making it difficult for SEEK to break through.
 * Creating high-quality content for hundreds of roles was a resource-heavy and time-intensive process, limiting the speed of growth.
 
@@ -26,7 +26,7 @@ SEEK needed a strategy that could rapidly build a competitive product while scal
 
 ### Strategic Data Use
 
-One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value both now and in the future.
+One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value whilst aggresively targeting competitors most valuable content.
 
 ### Iterative Development with a Test-and-Learn Approach
 
