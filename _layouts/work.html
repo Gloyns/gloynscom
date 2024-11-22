@@ -21,9 +21,6 @@ layout: default
 
       <div class="col col-7 col-d-12">
         <div class="work-head__right">
-          {% if page.client %}
-          <div class="work-category"><strong>Case Study:</strong> <span>{{ page.client }}</span></div>
-          {% endif %}
           <h1 class="page-title">{{ page.title }}</h1>
           {% if page.description %}
           <p class="page-description">{{ page.description }}</p>
@@ -67,13 +64,6 @@ layout: default
     {{ content }}
   </div>
   
-  <div class="page">
-    {{ content }}
-  </div>
-
-  <div class="page">
-    {{ content }}
-  </div>
 
   <section class="section work-navigation">
     <div class="row">
