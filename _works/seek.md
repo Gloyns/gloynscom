@@ -1,10 +1,11 @@
 ---
 title: From 0 to 1+ Million Monthly Clicks For SEEK
 description: Discover how SEEK grew from zero to 1M organic clicks with a data-driven SEO strategy, user-centric design, and impactful career advice content.
-logo: '/images/seek.webp'
+category: Enterprise SEO
+client: SEEK
+country: APAC
 date: 2024-11-22 08:01:35 +0300
-industry: Jobs & Education
-services: Content Strategy, Programmatic SEO, International SEO
+role: SEO Consultant
 image: '/images/seekret.jpg'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
 ---
