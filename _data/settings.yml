@@ -49,9 +49,9 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
-  - name: Google
-    link: "https://www.google.com/"
-    image: "/images/google.svg"
+  - name: SEEK
+    link: ""
+    image: "/images/seek.svg"
 
   - name: Spotify
     link: "https://www.spotify.com/"
@@ -167,6 +167,7 @@ blog__settings:
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
+footer_acknowledgment: hello
 
 #-------------------------------
 # Contact Settings
