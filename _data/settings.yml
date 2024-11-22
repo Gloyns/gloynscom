@@ -167,7 +167,7 @@ blog__settings:
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-footer_acknowledgment: hello
+footer_acknowledgement: I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live, learn and work. I honour and pay my respects to elders past, present and future. Australia was and always will be Aboriginal land.
 
 #-------------------------------
 # Contact Settings
