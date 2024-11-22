@@ -14,6 +14,8 @@ menu__settings:
       url: '/'
     - title: 'SEO Consulting'
       url: '/consulting/'
+    - title: 'Case Studies'
+      url: '/work/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
