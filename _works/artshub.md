@@ -1,6 +1,6 @@
 ---
 title: Showcasing ArtsHub’s Content to Google for 8x Organic Growth
-description: RateMyAgent faced a decline in organic traffic, threatening its growth as a platform for real estate agents to manage their personal branding. Through strategic programmatic SEO, technical improvements, and innovative solutions like structured data and Google Posts, I helped double organic traffic in just 12 months, scaling to over 10 million annual clicks and securing RateMyAgent’s position as the market leader in real estate agent reviews.
+description: ArtsHub, a membership-based platform for the arts and culture sector, faced significant challenges with low organic traffic and limited visibility on Google. As much of its valuable content was behind a paywall, showcasing this to a broader audience while maintaining subscription exclusivity was a delicate balance. By implementing strategic SEO improvements, including Flexible Sampling, structured data, and a seamless CMS migration in collaboration with CodeCo, we unlocked ArtsHub’s potential for growth, achieving an 8x increase in organic traffic and positioning it for long-term success.
 services: 'SEO Strategy, SEO Training, Site Migration'
 industry: 'Publishing'
 client: ArtsHub
