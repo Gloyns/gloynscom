@@ -1,16 +1,17 @@
 ---
-title: From 0 to 1+ Million Monthly Clicks For SEEK
-description: Discover how SEEK grew from zero to 1M organic clicks with a data-driven SEO strategy, user-centric design, and impactful career advice content.
-category: Enterprise SEO
+title: From 0 to 1+ Million Monthly Clicks to SEEK’s Career Advice
+description: How I worked with SEEK to deliver over 1 million monthly organic clicks to its career advice section using data-driven SEO, user-focused design, and truly helpful content.
+services: Programmatic SEO, Content Strategy, Enterprise SEO
+industry: Jobs & Education
 client: SEEK
-country: APAC
+region: APAC
 date: 2024-11-22 08:01:35 +0300
 role: SEO Consultant
 image: '/images/seekret.jpg'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
 ---
 
->SEEK is one of Australia’s leading platforms in the jobs and employment industry, headquartered in Melbourne. Known for connecting millions of job seekers with employers. Beyond job listings, SEEK identified an opportunity to deepen its relationship with users by providing career advice and insights that help people make informed decisions about their future.
+SEEK is a Australia's leading employment marketplace, headquartered in Melbourne. Beyond job listings, SEEK identified an opportunity to deepen its relationship with users by providing career advice and insights to help people make informed decisions about their future.
 
 ## The Challenge
 
@@ -18,8 +19,8 @@ SEEK aimed to create a brand-new career advice section to help users understand 
 
 
 * SEEK had no existing content, traffic, or market presence in the career advice space.
-** Established platforms already held substantial market share, making it difficult for SEEK to break through.
-** Creating high-quality content for hundreds of roles was a resource-heavy and time-intensive process, limiting the speed of growth.
+* Established platforms already held substantial market share, making it difficult for SEEK to break through.
+* Creating high-quality content for hundreds of roles was a resource-heavy and time-intensive process, limiting the speed of growth.
 
 SEEK needed a strategy that could rapidly build a competitive product while scaling efficiently and driving tangible results.
 
@@ -27,27 +28,27 @@ SEEK needed a strategy that could rapidly build a competitive product while scal
 
 ### Strategic Data Use
 
-One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, and salary insights from SEEK’s database, we could target roles that had both user interest and business value.
+One of the highlights of this project was the way we combined reverse-engineering competitors with SEEK’s own first-party data. By identifying the highest-traffic roles on competitor sites and overlaying that with search volume, job listings, projected job growth and salary insights from SEEK’s database, we could target roles that had both user interest and business value both now and in the future.
 
 ### Iterative Development with a Test-and-Learn Approach<
 
 Instead of waiting to launch the perfect product, we adopted a good-better-best content strategy:
 
-* Pages were initially launched with minimal data (titles, salaries, and user reviews).</li>
-* We monitored the performance of these “Good” pages and prioritised high-performing roles for further content development./li>
-* This iterative approach not only sped up growth but also ensured resources were focused where demand was evident.</li>
+* Pages were initially launched with minimal data (titles, salaries, and user reviews).
+* We monitored the performance of these 'Good' pages and prioritised high-performing roles for further content development.
+* This iterative approach not only sped up growth but also ensured resources were focused where demand was evident.
 
 ### Collaborative Excellence
 
-The collaboration between SEO, UX, and content teams was a standout aspect of this project. The UX team conducted user interviews with employees and candidates to understand what users valued most on role pages. This input ensured the platform was both user-centric and search-optimised, a balance that proved essential to the project’s success.
+The collaboration between SEO, UX, dev and content teams was a standout aspect of this project. The UX team conducted user interviews with employees and candidates to understand what users valued most on role pages. This input ensured the platform was both user-centric and search-optimised, a balance that proved essential to the project’s success.
 
 ### User-Generated Content
 
-Incorporating real-life insights from SEEK profile users added authenticity and depth to the content. This not only enriched the platform but also gave it a competitive edge by offering unique, user-driven perspectives on different careers.
+Incorporating real-life insights from SEEK profile users added authenticity and depth to the content. This not only enriched the platform but also gave it a competitive edge by offering unique, user-driven perspectives on different careers at a scale and frequency that competitors could not match.
 
 ### Seeing It Go National
 
-The moment the platform became part of SEEK’s nationwide marketing campaign, "The SEEKRET" was a proud achievement. The campaign showcased SEEK’s ability to provide detailed career insights, making the platform an integral part of SEEK’s brand message.
+The moment the platform became part of SEEK’s nationwide marketing campaign, 'The SEEKRET' was a proud achievement. The campaign showcased SEEK’s ability to provide detailed career insights, making the platform an integral part of SEEK’s brand message.
 
 <p><iframe src="https://www.youtube.com/watch?v=P5xE9dH57vo" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
 
@@ -63,6 +64,6 @@ This project delivered significant and measurable outcomes:
 
 ## Don’t Just Take My Word for It
 
->"The insight gained from Andrew informed our strategic roadmap to grow our audience, and provided us with an approach on how we should tailor our customer experience to balance acquisition and usability. Andrew also assisted in the execution and can engage with stakeholders at all levels, from influencing key decision-makers, to assisting software developers navigate the complexity of SEO development. Andrew is a pleasure to work with and integrated seamlessly into our team over the course of our engagement."
+>"The insight gained from Andrew informed our strategic roadmap to grow our audience, and provided us with an approach on how we should tailor our customer experience to balance acquisition and usability. Andrew also assisted in the execution and can engage with stakeholders at all levels, from influencing key decision-makers, to assisting developers navigate the complexity of SEO development. Andrew is a pleasure to work with and integrated seamlessly into our team over the course of our engagement."
 
 <cite>Franco Trimboli – Head of Product, SEEK Learning</cite>

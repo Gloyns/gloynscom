@@ -21,22 +21,22 @@ layout: default
 
       <div class="col col-7 col-d-12">
         <div class="work-head__right">
-          {% if page.category %}
-          <div class="work-category">{{ page.category }}</div>
+          {% if page.client %}
+          <div class="work-category">{{ page.client }}</div>
           {% endif %}
           <h1 class="page-title">{{ page.title }}</h1>
           {% if page.description %}
           <p class="page-description">{{ page.description }}</p>
           {% endif %}
           <ul class="work-meta list-reset">
-            {% if page.date %}
-            <li class="work-meta__item"><strong>Date:</strong> <span>{{ page.date | date_to_string }}</span></li>
+            {% if page.region %}
+            <li class="work-meta__item"><strong>Region:</strong> <span>{{ page.region }}</span></li>
             {% endif %}
-            {% if page.client %}
-            <li class="work-meta__item"><strong>Client:</strong> <span>{{ page.client }}</span></li>
+            {% if page.industry %}
+            <li class="work-meta__item"><strong>Industry:</strong> <span>{{ page.industry }}</span></li>
             {% endif %}
-            {% if page.role %}
-            <li class="work-meta__item"><strong>Role:</strong> <span>{{ page.role }}</span></li>
+            {% if page.services %}
+            <li class="work-meta__item"><strong>Services:</strong> <span>{{ page.services }}</span></li>
             {% endif %}
           </ul>
         </div>
