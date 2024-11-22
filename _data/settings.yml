@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: ag
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
+title: Andrew Gloyns - SEO Consultant
+logo: '/images/ag-logo.png'
+description: Helping businesses achieve a step-change in organic search performance with industry-leading expert strategy and support.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -23,11 +23,11 @@ menu__settings:
 # Author Settings
 author:
   author__name: Andrew Gloyns
-  author__bio: Hi, I'm Jason – Graphic Designer. I'm a creative and curious person who has a lot of experience and fond moments working with design, websites, and marketing.
+  author__bio: Helping businesses achieve a step-change in organic search performance with industry-leading expert strategy and support.
   author__avatar:
 
 social:
-- {icon: "ion-logo-linkedin", link: "https://twitter.com"}
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/andrewgloyns/"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -50,28 +50,28 @@ logos:
 
 logo__items:
   - name: SEEK
-    link: ""
+    link: 
     image: "/images/seek.svg"
 
-  - name: Spotify
-    link: "https://www.spotify.com/"
-    image: "/images/spotify.svg"
+  - name: Vic Gov
+    link: 
+    image: "/images/vic-gov.svg"
 
-  - name: Pinterest
-    link: "https://www.pinterest.com/"
-    image: "/images/pinterest.svg"
+  - name: NewsCorp
+    link: 
+    image: "/images/newscorp.svg"
 
-  - name: Netlify
-    link: "https://www.netlify.com/"
-    image: "/images/netlify.svg"
+  - name: Medibank
+    link: 
+    image: "/images/medibank.svg"
 
-  - name: Apple
-    link: "https://www.apple.com/"
-    image: "/images/apple.svg"
+  - name: ANZ
+    link: 
+    image: "/images/anz.svg"
 
-  - name: Adobe
-    link: "https://www.adobe.com/"
-    image: "/images/adobe.svg"
+  - name: True
+    link: 
+    image: "/images/true.svg"
 
 #-------------------------------
 # Newsletter
