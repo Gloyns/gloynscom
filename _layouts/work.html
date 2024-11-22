@@ -21,8 +21,8 @@ layout: default
 
       <div class="col col-7 col-d-12">
         <div class="work-head__right">
-          {% if page.logo %}
-          <div class="work-category"><img class="lazy" data-src="{{site.baseurl}}{{page.logo}}" alt="{{page.title}}"></div>
+          {% if page.category %}
+          <div class="work-category">{{ page.category }}</div>
           {% endif %}
           <h1 class="page-title">{{ page.title }}</h1>
           {% if page.description %}
@@ -30,10 +30,13 @@ layout: default
           {% endif %}
           <ul class="work-meta list-reset">
             {% if page.date %}
-            <li class="work-meta__item"><strong>Industry:</strong> <span>{{ page.industry | date_to_string }}</span></li>
+            <li class="work-meta__item"><strong>Date:</strong> <span>{{ page.date | date_to_string }}</span></li>
             {% endif %}
             {% if page.client %}
-            <li class="work-meta__item"><strong>Services:</strong> <span>{{ page.services }}</span></li>
+            <li class="work-meta__item"><strong>Client:</strong> <span>{{ page.client }}</span></li>
+            {% endif %}
+            {% if page.role %}
+            <li class="work-meta__item"><strong>Role:</strong> <span>{{ page.role }}</span></li>
             {% endif %}
           </ul>
         </div>
