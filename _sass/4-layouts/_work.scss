@@ -117,8 +117,27 @@
   }
 }
 
+.client-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px; /* Adds spacing below the client info section */
+}
+
+.client-logo img {
+  max-width: 150px; /* Adjust the size of the logo */
+  height: auto;
+  margin-right: 20px; /* Adds spacing between the logo and the description */
+}
+
+.client-description {
+  flex: 1; /* Ensures the description takes up the remaining space */
+  font-size: 16px; /* Adjust the font size if needed */
+  line-height: 1.5; /* Improves readability */
+}
+
 /* Work Navigation */
 .work-navigation {
   max-width: 840px;
   margin: 0 auto;
 }
+

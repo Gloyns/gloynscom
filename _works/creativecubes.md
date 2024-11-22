@@ -5,11 +5,12 @@ services: 'SEO Strategy, Local SEO, Paid Search'
 industry: 'Flexible Office Space'
 client: CreativeCubes
 region: 'Australia'
+logo: '/images/cc.png'
+clientdescription: CreativeCubes is a leading provider of co-working spaces, serviced offices, and flexible office solutions in Melbourne, Australia. With a focus on fostering community, productivity, and collaboration, CreativeCubes offers beautifully designed office spaces in prime locations, catering to businesses of all sizes.
 image: '/images/cubes-dyt.webp'
 image_caption: 'Credit: CreativeCubes.Co'
----
 
-![CreativeCubes]({{site.baseurl}}/images/cc.png)CreativeCubes is a leading provider of co-working spaces, serviced offices, and flexible office solutions in Melbourne, Australia. With a focus on fostering community, productivity, and collaboration, CreativeCubes offers beautifully designed office spaces in prime locations, catering to businesses of all sizes.
+---
 
 ## The Challenge
 

@@ -48,6 +48,29 @@ layout: default
 
 <div class="container animate">
 
+  {% if page.logo or page.clientdescription %}
+  <div class="client-info">
+    {% if page.logo %}
+    <div class="client-logo">
+      <img src="{{ page.logo }}" alt="Logo">
+    </div>
+    {% endif %}
+    {% if page.clientdescription %}
+    <div class="client-description">
+      <p>{{ page.clientdescription }}</p>
+    </div>
+    {% endif %}
+  </div>
+  {% endif %}
+  
+  <div class="page">
+    {{ content }}
+  </div>
+  
+  <div class="page">
+    {{ content }}
+  </div>
+
   <div class="page">
     {{ content }}
   </div>
