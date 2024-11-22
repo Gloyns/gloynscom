@@ -14,7 +14,7 @@ menu__settings:
       url: '/'
  #   - title: 'Services'
   #    submenu:
-   #   - url: '/contact/'
+  #   - url: '/contact/'
     #    title: 'Contact'
      # - url: '/elements/'
       #  title: 'Elements'
