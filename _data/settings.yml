@@ -88,8 +88,8 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: My Work
-  work__description: My collaborative approach drives effective, long-term growth for brands ready to explore new possibilies.
+  work__title: Case Studies
+  work__description: See how I help businesses achieve exceptional organic growth with tailored SEO strategies and proven results.
 
 
 #-------------------------------
