@@ -9,7 +9,7 @@ image: '/images/cubes-dyt.webp'
 image_caption: 'Credit: CreativeCubes.Co'
 ---
 
-CreativeCubes is a leading provider of co-working spaces, serviced offices, and flexible office solutions in Melbourne, Australia. With a focus on fostering community, productivity, and collaboration, CreativeCubes offers beautifully designed office spaces in prime locations, catering to businesses of all sizes. Each location features premium amenities, including high-speed internet, wellness studios, meeting rooms, and on-site cafés.
+![CreativeCubes]({{site.baseurl}}/images/cc.png)CreativeCubes is a leading provider of co-working spaces, serviced offices, and flexible office solutions in Melbourne, Australia. With a focus on fostering community, productivity, and collaboration, CreativeCubes offers beautifully designed office spaces in prime locations, catering to businesses of all sizes.
 
 ## The Challenge
 
