@@ -1,12 +1,10 @@
 ---
 title: From 0 to 1+ Million Monthly Clicks to SEEK’s Career Advice
 description: How I worked with SEEK to deliver over 1 million monthly organic clicks to its career advice section using data-driven SEO, user-focused design, and truly helpful content.
-services: Programmatic SEO, Content Strategy, Enterprise SEO
-industry: Jobs & Education
+services: 'Programmatic SEO, Content Strategy, Enterprise SEO'
+industry: 'Jobs & Education'
 client: SEEK
-region: APAC
-date: 2024-11-22 08:01:35 +0300
-role: SEO Consultant
+region: 'APAC'
 image: '/images/seekret.jpg'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
 ---
