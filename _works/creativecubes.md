@@ -58,7 +58,7 @@ This allowed me to work directly with Co-founders Tobi & Gawen, gaining first-ha
 
 Within 12 months, the Richmond office achieved 100% occupancy, successfully filling desks and meeting the urgent goals set by the founder.
 
-#### Scaled Expansion Across Melbourne
+### Scaled Expansion Across Melbourne
 
 The success at Richmond laid the foundation for CreativeCubes to expand into new locations, including Hawthorn, Carlton, Collingwood, and South Melbourne. Today, CreativeCubes operates across 8 locations in Melbourne, cementing its position as a leader in flexible workspaces.
 
