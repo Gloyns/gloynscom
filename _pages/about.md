@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andrew Gloyns - About Me
+title: About Me
 description: Get to know Andrew Gloyns - SEO consultant with over a decade of experience helping clients achieve organic growth. Independent, transparent, and results-driven.
 permalink: /about/
 image: ''

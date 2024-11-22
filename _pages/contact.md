@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Andrew Gloyns
+title: Contact
 description: Call me on 0416 694 979 or email andrew@gloyns.com
 permalink: /contact/
 image: ''

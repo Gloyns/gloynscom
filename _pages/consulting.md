@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Approach to SEO Consultancy - Andrew Gloyns
+title: My Approach
 description: I provide SEO direction across technical development, content strategy, creation and digital PR to drive growth. Learn more about my approach...
 permalink: /consulting/
 image: ''
