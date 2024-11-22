@@ -1,5 +1,5 @@
 ---
-title: 10x Organic Traffic Growth and Dominating Real Estate Agent Reviews
+title: 10x Organic Growth to Dominate Real Estate Agent Reviews
 description: RateMyAgent faced a decline in organic traffic, threatening its growth as a platform for real estate agents to manage their personal branding. Through strategic programmatic SEO, technical improvements, and innovative solutions like structured data and Google Posts, I helped double organic traffic in just 12 months, scaling to over 10 million annual clicks and securing RateMyAgent’s position as the market leader in real estate agent reviews.
 services: 'Programmatic SEO, Enterprise SEO'
 industry: 'Real Estate'
