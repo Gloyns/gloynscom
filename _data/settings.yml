@@ -12,13 +12,23 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Services'
+      submenu:
+      - url: '/contact/'
+        title: 'Contact'
+      - url: '/elements/'
+        title: 'Elements'
+
     - title: 'SEO Consulting'
-      url: '/consulting/'
+      url: '/seo-consulting/'
     - title: 'About'
       url: '/about/'
     - title: 'Contact'
       url: '/contact/'
- 
+    - title: 'Writing'
+      url: '/blog/'
+
+
 #-------------------------------
 # Author Settings
 author:
@@ -27,7 +37,7 @@ author:
   author__avatar:
 
 social:
-- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/andrewgloyns/"}
+- {icon: "ion-logo-linkedin", link: "https://twitter.com"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -49,8 +59,8 @@ logos:
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
-  - name: SEEK
-    link: "https://www.seek.com.au/"
+  - name: Google
+    link: "https://www.google.com/"
     image: "/images/google.svg"
 
   - name: Spotify
@@ -167,7 +177,6 @@ blog__settings:
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-footer_acknowledgement: I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live, learn and work. I honour and pay my respects to elders past, present and future. Australia was and always will be Aboriginal land.
 
 #-------------------------------
 # Contact Settings
