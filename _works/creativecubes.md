@@ -1,8 +1,6 @@
 ---
 title: Helping CreativeCubes To Achieve 100% Occupancy and Scale Effectively
-description: "Fill the space! Fill the space!" was a simple remit from Tobi, co-Founder of CreativeCubes.
-
-CreativeCubes needed a cost-effective strategy to drive occupancy while addressing limited Google visibility, a lack of conversion tracking, and an underperforming paid search campaign. By implementing targeted local SEO, structured data enhancements, and a collaborative approach to paid search, I helped CreativeCubes achieve 100% occupancy within 12 months and lay the foundation for their expansion across Melbourne.
+description: Fill the space! Fill the space! CreativeCubes needed a cost-effective strategy to drive occupancy while addressing limited Google visibility, a lack of conversion tracking, and an underperforming paid search campaign. By implementing targeted local SEO, structured data enhancements, and a collaborative approach to paid search, I helped CreativeCubes achieve 100% occupancy within 12 months and lay the foundation for their expansion across Melbourne.
 services: 'SEO Strategy, Local SEO, Paid Search'
 industry: 'Flexible Office Space'
 client: CreativeCubes
