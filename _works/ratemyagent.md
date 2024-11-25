@@ -7,40 +7,18 @@ client: RateMyAgent
 region: 'Australia, New Zealand, USA'
 image: '/images/rma-g.png'
 image_caption: 'Credit: RMA Global Annual Report FY24'
+logo: '/images/rma-logo.png'
+clientdescription: RateMyAgent connects real estate agents with consumers, offering tools to help agents manage their personal branding and build credibility through client reviews. By providing consumers with a transparent way to evaluate agents, RateMyAgent helps them make informed decisions when buying or selling property.
 ---
 
-RateMyAgent is a leading platform in the real estate industry, headquartered in Melbourne, Victoria. The platform connects real estate agents with consumers, offering tools to help agents manage their personal branding and build credibility through client reviews. By providing consumers with a transparent way to evaluate agents, RateMyAgent helps them make informed decisions when buying or selling property. With a presence in Australia, New Zealand, and the USA, RateMyAgent has become an essential tool for agents looking to stand out in a competitive market.
 
 ## The Challenge
 
-### Stalled Organic Growth
-
 After experiencing impressive growth since its inception, RateMyAgent’s organic traffic had stalled and begun to decline dramatically. The platform faced a significant challenge in maintaining visibility in Google search results.
-
-### Lack of Strategic SEO Support
 
 The agency supporting RateMyAgent at the time lacked both the strategic advice and the technical expertise needed to address these issues. Without the right guidance, RateMyAgent struggled to regain momentum, putting its growth trajectory at risk
 
-SEEK needed a strategy that could rapidly build a competitive product while scaling efficiently and driving tangible results.
-
-## Why I Love This Case Study
-
-### Balancing Technical and User-Centric SEO
-
-This project combined technical SEO fixes with a deep understanding of user needs. It wasn’t just about making the site work for Google—it was about creating a platform that served both agents and consumers, ensuring it delivered value at every level.
-
-### Innovative Use of Structured Data
-
-Implementing large-scale structured data through JSON-LD across the platform was a highlight. This enhancement allowed RateMyAgent profiles to appear in enriched formats, including Google’s Knowledge Graph and SERP features, elevating the visibility of agents and their reviews.
-
-### Empowering Agents Through SEO
-
-By integrating Google visibility metrics into the backend platform, RateMyAgent turned SEO into a tangible product feature. Agents could see their performance metrics, helping them understand how they were appearing online. This not only added value to the platform but also gave agents a clear incentive to engage.
-
-### A Collaborative Approach
-
-Working closely with RateMyAgent’s UX team, I helped ensure that every aspect of the platform—from technical structure to content quality—was aligned with both Google’s requirements and user expectations. This collaboration was key to delivering long-term results.
-
+RateMyAgent needed a strategy that could rapidly build a competitive product while scaling efficiently and driving tangible results.
 
 ## The Strategy
 

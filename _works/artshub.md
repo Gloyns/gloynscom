@@ -7,11 +7,10 @@ client: ArtsHub
 region: 'Australia, UK'
 image: '/images/artshub-m.webp'
 image_caption: 'Credit: The CodeCo'
+logo: '/images/artshub-logo.png'
+clientdescription: ArtsHub is a leading membership-based platform in the arts and culture publishing industry, headquartered in Melbourne, Australia. It provides a wealth of resources for artists, cultural organisations, and enthusiasts, including news, reviews, job listings, events, and courses. 
+
 ---
-
-ArtsHub is a leading membership-based platform in the arts and culture publishing industry, headquartered in Melbourne, Australia. It provides a wealth of resources for artists, cultural organisations, and enthusiasts, including news, reviews, job listings, events, and courses. 
-
-With a focus on supporting the creative industries, ArtsHub operates alongside related platforms like ScreenHub, which focuses on screen and media, and the newly launched GamesHub, serving the gaming industry.
 
 ## The Challenge
 

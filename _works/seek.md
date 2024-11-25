@@ -7,9 +7,10 @@ client: SEEK
 region: 'APAC'
 image: '/images/seekret.jpg'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
----
+logo: '/images/seek-logo.png'
+clientdescription: SEEK is a Australia's leading employment marketplace, headquartered in Melbourne. Beyond job listings, SEEK identified an opportunity to deepen its relationship with users by providing career advice and insights to help people make informed decisions about their future.
 
-SEEK is a Australia's leading employment marketplace, headquartered in Melbourne. Beyond job listings, SEEK identified an opportunity to deepen its relationship with users by providing career advice and insights to help people make informed decisions about their future.
+---
 
 ## The Challenge
 
