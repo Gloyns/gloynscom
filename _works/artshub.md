@@ -1,6 +1,6 @@
 ---
 title: Showcasing ArtsHub’s Content to Google for 8x Organic Growth
-description: ArtsHub, a membership-based platform for the arts and culture sector, faced significant challenges with low organic traffic and limited visibility on Google. As much of its valuable content was behind a paywall, showcasing this to a broader audience while maintaining subscription exclusivity was a delicate balance. By implementing strategic SEO improvements, including Flexible Sampling, structured data, and a seamless CMS migration in collaboration with CodeCo, we unlocked ArtsHub’s potential for growth, achieving an 8x increase in organic traffic and positioning it for long-term success.
+description: ArtsHub struggled with low organic traffic and limited Google visibility due to its paywalled content. By implementing strategic SEO measures; flexible sampling, structured data, and a seamless CMS migration with CodeCo, we achieved an 8x organic traffic increase, balancing audience growth with subscription exclusivity for long-term success.
 services: 'SEO Strategy, SEO Training, Site Migration'
 industry: 'Publishing'
 client: ArtsHub
