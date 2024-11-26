@@ -8,16 +8,18 @@ image_caption: ''
 ---
 
 <h1>About me</h1>
-Outside of work I’m a Dad to 2 wonderful kids, 22 chickens, 2 goats and many mob of roos. Spare time is very quickly filled.
+Outside of work I’m a Dad to 2 wonderful kids, a dog, cat, 22 chickens, 2 goats and many mob of roos. Spare time is very quickly filled.
 
 <h2>My Background</h2>
 
-From 2010-2016 I worked in-agency as a Head of/Director of SEO leading highly skilled SEO teams across Melbourne & Sydney to work with blue-chip clients.
+From 2010 to 2015, I worked in-agency as a Head of/Director of SEO, leading highly skilled teams across Melbourne and Sydney to deliver exceptional results for blue-chip clients.
 
-Towards the end of this time I noticed how the agency model was an increasingly awkward fit for clients. Their in-house teams were becoming more digitally skilled and SEO was changing from being something we could ‘do’ for the client to more of an outcome of what the client did. They just wanted direction.
+During this time, I noticed a shift in how businesses approached SEO. As in-house teams became more digitally mature, the traditional agency model started to feel outdated. SEO was evolving from a service that could be entirely outsourced to a collaborative process. 
 
-In 2016 I started my consultancy in order to provide that strategic support to client teams. This worked well for clients as they just needed to know what to consider for SEO and what activities they could factor into their quarterly planning to achieve the growth they needed.
+Clients no longer needed someone to 'do' SEO for them; they needed strategic direction to guide their efforts.
 
-I’m a proudly independent and work with just a handful of clients, valuing a high-engagement model to achieve results my client’s and I can be both proud of.
+In 2015, I launched my consultancy to fill this gap, providing tailored strategic support to client teams. My focus was - and still is - on helping businesses understand what to prioritise for SEO and how to align these activities with their quarterly planning to achieve sustainable growth.
 
-I still work with clients who have been with me since day dot and have an average client tenure of 7 years which, 9 years in, I’m proud of!
+I’m proudly independent and work with a select group of clients, valuing high-engagement partnerships that drive results we can both be proud of.
+
+Many of my clients have been with me since the beginning. Nine years on, I’m proud to maintain an average client tenure of 7 years - testament to the trust, results, and relationships we’ve built together.
