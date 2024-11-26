@@ -22,4 +22,4 @@ In 2015, I launched my consultancy to fill this gap, providing tailored strategi
 
 I’m proudly independent and work with a select group of clients, valuing high-engagement partnerships that drive results we can both be proud of.
 
-Many of my clients have been with me since the beginning. Nine years on, I’m proud to maintain an average client tenure of 7 years - testament to the trust, results, and relationships we’ve built together.
+Many of my clients have been with me since the beginning. Nine years on, I’m proud to maintain an average client tenure of seven years - testament to the trust, results, and relationships we’ve built together.
