@@ -2,7 +2,7 @@
 layout: post
 title: How often should you update content? It depends.
 description:
-date: 2024-11-27 15:01:35 +0300
+date: 2024-11-27 15:01:35 +0500
 image: ''
 image_caption: ''
 tags:
