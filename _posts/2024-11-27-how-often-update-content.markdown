@@ -81,7 +81,8 @@ This doesn't work, because Content Hashing.
 WTF is content hashing you ask.
 
 When Google indexes your content, it creates a hash. A hash is a digital fingerprint of the content. It can detect how much has actually changed. Superficial edits, like swapping dates or reordering sentences, won't fool the system.
-User Signals Matter:
+
+<h3>User Signals Matter</h3>
 
 If your updates don't genuinely improve the content, users won't stay, engage, or convert. 
 
