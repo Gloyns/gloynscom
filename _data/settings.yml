@@ -26,7 +26,7 @@ menu__settings:
 author:
   author__name: Andrew Gloyns
   author__bio: Helping businesses achieve a step-change in organic search performance with industry-leading expert strategy and support.
-  author__avatar:
+  author__avatar: "/images/andrew-gloyns.webp"
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/andrewgloyns/"}
