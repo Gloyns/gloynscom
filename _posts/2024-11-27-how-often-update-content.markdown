@@ -42,22 +42,26 @@ For example, if someone searches for 'how to grow tomatoes', the best content on
 
 The quality, depth, and relevance of the content take precedence over when it was last updated. The ranking article might be several years old, and that's OK for Google and users if it's still the most helpful.
 
+<img src="/images/growing-tomatoes.png" loading="lazy" alt="Google SERP for query earthquake">
+*OK, so the most recent article is ranking here (!) but the majority of the top articles are several years old*
+
 <h2>Why Relevance Matters More Than Freshness</h2>
 
 Updating content is less about making it 'fresh' and more so ensuring the information is accurate, relevant, and reflective of the latest knowledge. 
 
 If there's nothing to add to a page then it really is a waste of time making superficial updates as Google only values content that offers new insights or aligns with evolving user needs.
 
-We can refer to this concept as 'information gain', the idea that content should offer something new or unique that wasn't previously available on the page or within the broader competitive landscape.
-
-This introduces another common misconception about 'unique' content. Being unique isn't sufficient is the information provided doesn't offer information gain.
+We can refer to this concept as <a href="https://www.clearscope.io/blog/information-gain-seo" target="_blank">'information gain'</a> - the idea that content should offer something new or unique that wasn't previously available within the broader competitive landscape.
 
 For example, if your page discusses a topic like sustainable gardening, a meaningful update might include new research on climate-resilient plants or recently published techniques that improve soil health. These additions provide users with fresh, valuable information they didn't already have access to, aligning with Google's goal of delivering the most useful and comprehensive answers to search queries.
 
 Superficial changes, like rephrasing sentences or tweaking the headline, won't satisfy this requirement. 
 
-Instead, it's imperative to focus on enhancing the content's depth and relevance to ensure it continues to serve evolving user needs and offers something… different, helpful and interesting.
+Instead, it's imperative to focus on improving content depth and relevance to ensure it continues to serve evolving user needs and offers something…well, different.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJYyEuP9LOU?si=kIMLB06Jgcc8f1b9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Little...yellow...different*
 
 <h2>Examples of Relevance in Action</h2>
 
@@ -73,6 +77,8 @@ Users expect content to reflect the most accurate, up-to-date information. Irrel
 I'm often asked if changing the published date or the opening sentence/paragraph to an article will be enough to trick Google into thinking content is refreshed.
 
 This doesn't work, because Content Hashing.
+
+WTF is content hashing you ask.
 
 When Google indexes your content, it creates a hash. A hash is a digital fingerprint of the content. It can detect how much has actually changed. Superficial edits, like swapping dates or reordering sentences, won't fool the system.
 User Signals Matter:
@@ -101,7 +107,7 @@ A good way to gain these insights is to review what's already ranking well (and 
 
 <h3>Focus on Value, Not Freshness</h3>
 
-'Google loves fresh content' is a myth. 
+'Google loves fresh content' is a myth.
 
 Don't waste time making superficial updates or changing dates in the hope of improving rankings. 
 
