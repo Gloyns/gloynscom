@@ -162,7 +162,7 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: It depends...
+  blog__title: Writing
   blog__description: SEO is full of subjective nuances, where the correct answer to most questions inevitably starts with, "It depends…". Every website, audience, and situation is unique, which means theres rarely a one-size-fits-all solution. In this section, I cover common SEO questions I receive, explaining why 'it depends'.
 
 #-------------------------------

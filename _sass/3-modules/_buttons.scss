@@ -32,7 +32,6 @@
     color: var(--white);
     background-color: var(--button-background-color);
     text-decoration: none; // Ensures no underline appears for links
-    margin-left: 15px;
 
     &:hover {
         background: var(--button-background-hover);
