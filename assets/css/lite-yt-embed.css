@@ -7,6 +7,8 @@ lite-youtube {
     background-size: cover;
     cursor: pointer;
     max-width: 720px;
+    border-radius: 15px; /* Adjust this value to control how rounded the edges are */
+    overflow: hidden; /* Ensures the video content doesn't overflow the rounded edges */
 }
 
 /* gradient */
