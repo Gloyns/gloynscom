@@ -49,8 +49,7 @@ Incorporating real-life insights from SEEK profile users added authenticity and 
 
 The moment the platform became part of SEEK’s nationwide marketing campaign, 'The SEEKRET' was a proud achievement. The campaign showcased SEEK’s ability to provide detailed career insights, making the platform an integral part of SEEK’s brand message.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P5xE9dH57vo?si=Qdxdq7dosYF08PVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<lite-youtube videoid="P5xE9dH57vo"></lite-youtube>
 
 ## The Results
 
