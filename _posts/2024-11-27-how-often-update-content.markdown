@@ -117,4 +117,4 @@ Instead, focus on creating the best possible answer to your audience's questions
 When your content consistently (and genuinely) serves users better than anyone else's, the traffic and revenue follows. Every time.
 
 
-<lite-youtube videoid="IKiSPUc2Jc" params="start=53"></lite-youtube>
+<lite-youtube videoid="IKiSPUc2Jck" params="start=53"></lite-youtube>
