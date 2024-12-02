@@ -43,7 +43,7 @@ For example, if someone searches for 'how to grow tomatoes', the best content on
 The quality, depth, and relevance of the content take precedence over when it was last updated. The ranking article might be several years old, and that's OK for Google and users if it's still the most helpful.
 
 <img src="/images/growing-tomatoes.png" loading="lazy" alt="Google SERP for query earthquake">
-*OK, so the most recent article is ranking here (!) but the majority of the top articles are several years old*
+*OK, so the most recent article is ranking here (!) but the majority of the top articles are several years old and there are hundreds of examples that are newer but don't rank on page 1*
 
 <h2>Why Relevance Matters More Than Freshness</h2>
 
@@ -108,7 +108,7 @@ A good way to gain these insights is to review what's already ranking well (and 
 
 <h3>Focus on Value, Not Freshness</h3>
 
-'Google loves fresh content' is a myth.
+The weight that SEO places on regularly updating content is misleading and a burden on resources that could be better used elsewhere for far better ROI.
 
 Don't waste time making superficial updates or changing dates in the hope of improving rankings. 
 
