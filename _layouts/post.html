@@ -27,8 +27,16 @@ layout: default
             <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
           </a>
           <div class="post-meta__bottom">
-            <a class="post-author-name" href="{{site.baseurl}}/about/">{{ site.data.settings.author.author__name }}</a>
-            <span class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time> – {% assign words = page.content | number_of_words %} {% if words < 360 %} 1 min read {% else %} {{ words | divided_by:180 }} min read {% endif %}</span>
+            <a class="post-author-name" href="{{ site.baseurl }}/about/">{{ site.data.settings.author.author__name }}</a>
+            <span class="post-date">
+              Published: <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
+              {% if page.updated %}
+                <br>
+                Updated: <time datetime="{{ page.updated | date_to_xmlschema }}">{{ page.updated | date_to_string }}</time>
+              {% endif %}
+               – {% assign words = page.content | number_of_words %}
+              {% if words < 360 %} 1 min read {% else %} {{ words | divided_by:180 }} min read {% endif %}
+            </span>
           </div>
         </div>
 
