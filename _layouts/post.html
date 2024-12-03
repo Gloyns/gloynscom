@@ -130,6 +130,12 @@ layout: default
 
 <div id="bsky-comments" data-thread-id="{{ page.bluesky }}"></div>
 
+<script>
+  import { BlueskyComments } from 'bsky-comments-svelte';
+</script>
+
+<BlueskyComments uri="https://bsky.app/profile/polemicdigital.com/post/3lccyoiqm2p2c" />
+
 <!--{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
 <div class="container animate">
   {% include disqus-comments.html %}

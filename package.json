@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "bsky-comments-svelte": "^0.0.2"
+  }
+}
