@@ -132,7 +132,7 @@ layout: default
 <div id="bluesky-comments">
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      const uri = 'https://bsky.app/profile/coryzue.com/post/3lbrko5zsgk24';
+      const uri = '{{ page.bluesky_post_uri }}';
       if (uri) {
         initBlueskyComments('bluesky-comments', uri);
       }
