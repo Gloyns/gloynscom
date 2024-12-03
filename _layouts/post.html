@@ -129,17 +129,15 @@ layout: default
 </div>
 
 
-<div id="bluesky-comments">
-  <script>
-    document.addEventListener('DOMContentLoaded', function() {
-      const uri = '{{ page.bluesky_post_uri }}';
-      if (uri) {
-        initBlueskyComments('bluesky-comments', uri);
-      }
-    });
-  </script>
-</div>
-
+<div id="bluesky-comments"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const uri = 'https://bsky.app/profile/coryzue.com/post/3lbrko5zsgk24';
+    if (uri) {
+      initBlueskyComments('bluesky-comments', uri);
+    }
+  });
+</script>
 
 
 {% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
@@ -150,3 +148,4 @@ layout: default
 {% endif %}
 
 {% include related-posts.html %}
+
