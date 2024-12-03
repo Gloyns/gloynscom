@@ -7,7 +7,7 @@ updated: 2024-12-03 12:11:35 +0500
 image: '/images/jules-a-NvFkYV2ngOk-unsplash.jpg'
 image_caption: 'Photo by <a href="https://unsplash.com/@julesea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jules a.</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-brother-typewriter-NvFkYV2ngOk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [content]
-bluesky: 'https://bsky.app/profile/polemicdigital.com/post/3lccyoiqm2p2c'
+bluesky-comments: 'https://bsky.app/profile/polemicdigital.com/post/3lccyoiqm2p2c'
 ---
 
 I often get asked by clients how often they should be updating their content.
