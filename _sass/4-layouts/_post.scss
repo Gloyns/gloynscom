@@ -216,6 +216,14 @@
   }
 }
 
+.share__link.share__bluesky svg {
+  transition: fill 0.3s ease; /* Smooth transition */
+}
+
+.share__link.share__bluesky:hover svg {
+  fill: white; /* Change the icon colour to white on hover */
+}
+
 .post-image,
 .page-image {
   position: relative;
