@@ -129,10 +129,7 @@ layout: default
 </div>
 
 
-
-
-{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
-<div class="container animate">
+<div id="bluesky-comments">
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       const uri = 'https://bsky.app/profile/coryzue.com/post/3lbrko5zsgk24';
@@ -141,7 +138,13 @@ layout: default
       }
     });
   </script>
+</div>
 
+
+
+{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
+<div class="container animate">
+ 
   {% include disqus-comments.html %}
 </div>
 {% endif %}
