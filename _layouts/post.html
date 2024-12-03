@@ -92,7 +92,6 @@ layout: default
   </article>
 </div>
 <!-- end post -->
-
 <div class="container animate">
   <div class="post__navigation">
     {% if page.previous.url %}
@@ -129,10 +128,12 @@ layout: default
   </div>
 </div>
 
-{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
+<div id="bsky-comments" data-thread-id="{{ page.bluesky }}"></div>
+
+<!--{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
 <div class="container animate">
   {% include disqus-comments.html %}
 </div>
-{% endif %}
+{% endif %}-->
 
 {% include related-posts.html %}
