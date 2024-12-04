@@ -17,6 +17,7 @@ Listen to this article as a podcast:
   Your browser does not support the audio element.
 </audio>
 
+
 I often get asked by clients how often they should be updating their content.
 
 As a consultant, I frustratingly preface 90% of responses with, "Well...it depends" but in this case it really does.
@@ -25,9 +26,11 @@ While the notion that 'Google loves fresh content' holds some truth, I believe i
 
 <h2>Cut to the chase Andrew, whats the go?</h2>
 
-If you ask a Librarian what the best book is on a topic, do they give you the best book or the most recent?
+If you ask a Librarian what the best book is on a topic, do they give you the best book or the newest?
 
-Really old books can become outdated vs newer available information. Those books might not be as relevant over time, so thats when recency might be a consideration.
+Very old books can become outdated vs newer available information. Those books might not be as relevant over time, so thats when recency might be a consideration.
+
+Good books often have 'revisions' where additional information in added, outdated info removed etc. This is positive, and the newer, more relevant information (if good) is what could make it better than another book - not necessarily just because it was updated recently.
 
 <h2>When Fresh Content Does (and Doesn't) Matter</h2>
 
