@@ -10,11 +10,24 @@ tags: [content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 
+Listen to this article as a podcast:
+
+<audio controls>
+  <source src="/audio/content-freshness.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 I often get asked by clients how often they should be updating their content.
 
 As a consultant, I frustratingly preface 90% of responses with, "Well...it depends" but in this case it really does.
 
 While the notion that 'Google loves fresh content' holds some truth, I believe it's often misunderstood, with many SEOs compounding the confusion by offering misguided recommendations.
+
+<h2>Cut to the chase Andrew, whats the go?</h2>
+
+If you ask a Librarian what the best book is on a topic, do they give you the best book or the most recent?
+
+Really old books can become outdated vs newer available information. Those books might not be as relevant over time, so thats when recency might be a consideration.
 
 <h2>When Fresh Content Does (and Doesn't) Matter</h2>
 
