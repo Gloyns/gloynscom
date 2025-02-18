@@ -8,7 +8,7 @@ image_caption: ''
 ---
 
 <h1>About me</h1>
-Outside of work I’m a Dad to 2 wonderful kids, a dog, cat, 22 chickens, 2 goats and many mob of roos. Spare time is very quickly filled.
+Outside of work I’m a Dad to 2 wonderful kids, a dog, cat, 22 chickens, 6 goats and many mob of roos. Spare time is very quickly filled.
 
 <h2>My Background</h2>
 
