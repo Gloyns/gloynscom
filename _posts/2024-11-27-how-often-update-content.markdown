@@ -67,7 +67,7 @@ Updating content is less about making it 'fresh' and more so ensuring the inform
 
 If there's nothing to add to a page then it really is a waste of time making superficial updates as Google only values content that offers new insights or aligns with evolving user needs.
 
-We can refer to this concept as <a href="https://www.clearscope.io/blog/information-gain-seo" target="_blank">'information gain'</a> - the idea that content should offer something new or unique that wasn't previously available within the broader competitive landscape.
+We can refer to this concept as <a href="https://www.animalz.co/blog/information-gain/" target="_blank">'information gain'</a> - the idea that content should offer something new or unique that wasn't previously available within the broader competitive landscape.
 
 For example, if your page discusses a topic like sustainable gardening, a meaningful update might include new research on climate-resilient plants or recently published techniques that improve soil health. These additions provide users with fresh, valuable information they didn't already have access to, aligning with Google's goal of delivering the most useful and comprehensive answers to search queries.
 
