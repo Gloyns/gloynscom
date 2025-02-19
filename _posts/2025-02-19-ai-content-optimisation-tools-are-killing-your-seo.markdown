@@ -126,15 +126,15 @@ Once you dig into the keywords these articles are ranking for, things start to l
 
 <img src="/images/toasttab-articles.png" loading="lazy">
 
-In fact, 20-25% of their traffic seems to be coming from these types of pages alone. Other high-traffic posts include ‘What time does alcohol stop selling?’ and ‘Best low-calorie alcoholic drinks to order at a bar.’
+In fact, 20-25% of their traffic seems to be coming from food quote listacles alone. Other high-traffic posts include ‘What time does alcohol stop selling?’ and ‘Best low-calorie alcoholic drinks to order at a bar.’
 
-Now, let’s step back. ToastTab is a restaurant software provider. Does content about coffee quotes really align with their audience at any point in their journey? Is someone reading ‘Best low-calorie alcoholic drinks’ likely to convert into a paying customer at any point in time?
+Now, let’s step back. Toast is a restaurant software provider. Does content about coffee quotes really align with their audience at any point in their journey? Is someone reading ‘Best low-calorie alcoholic drinks’ likely to convert into a paying customer at any point in time?
 
 To be fair, some of their content - like ‘How much is a food truck?’ - makes sense for their audience. But much of their strategy seems focused on scaling traffic at all costs, rather than creating content that directly serves their target market.
 
 The problem with AI-driven optimisation is that it often focuses on finding gaps in search rather than aligning content with audience needs. Yes, ToastTab has successfully identified and filled these gaps, but the result is a flood of generic content that doesn’t reinforce their credibility in the restaurant software space.
 
-So, is their traffic strategy working? If the goal was pure traffic growth, then yes. But if the goal was to build a sustainable content ecosystem that aligns with their business and converts into actual customers? That’s a much bigger question.
+So, is Toast's traffic strategy working? If the goal was pure traffic growth, then yes. But if the goal was to build a sustainable content ecosystem that aligns with their business and converts into actual customers? That’s a much bigger question.
 
 <h2>My Biggest Bugbear: A Lack of Empathy</h2>
 
