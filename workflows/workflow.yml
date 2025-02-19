@@ -7,20 +7,34 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04  # Use Ubuntu 22.04 instead of 24.04 for stability
+    runs-on: ubuntu-24.04  # GitHub keeps forcing this, so let's handle it
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.2.2'  # Ensure Ruby is installed
-          bundler-cache: true  # Caches Ruby gems for faster builds
+      - name: Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y curl git
 
-      - name: Install Jekyll and dependencies
-        run: bundle install
+      - name: Install rbenv and Ruby
+        run: |
+          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+          source ~/.bashrc
+          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+          ~/.rbenv/bin/rbenv install 3.2.2
+          ~/.rbenv/bin/rbenv global 3.2.2
+
+      - name: Verify Ruby Installation
+        run: ruby -v  # This should now return Ruby 3.2.2
+
+      - name: Install Bundler and Jekyll
+        run: |
+          gem install bundler jekyll
+          bundle install
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
