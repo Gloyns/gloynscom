@@ -10,17 +10,9 @@ tags: [content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 
-Listen to this article as a podcast:
-
-<audio controls>
-  <source src="/audio/content-freshness.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
-
-
 I often get asked by clients how often they should be updating their content.
 
-As a consultant, I frustratingly preface 90% of responses with, "Well...it depends" but in this case it really does.
+As a consultant, I frustratingly (and perhaps a little by habit) preface 90% of responses with, "Well...it depends" but in this case it really does.
 
 While the notion that 'Google loves fresh content' holds some truth, I believe it's often misunderstood, with many SEOs compounding the confusion by offering misguided recommendations.
 
