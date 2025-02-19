@@ -14,7 +14,7 @@ Imagine stepping through a mysterious portal, only to find yourself inside John 
 
 You’re no longer the awkward one in the corner, nervously sipping your drink and playing with your puppet strings. You haven’t said the wrong thing because, well, there is no wrong thing...everyone is saying the exact same thing. 
 
-It’s a perfectly optimised content experience… and it’s absolutely blody awful.
+It’s a perfectly optimised content experience… and it’s absolutely bloody awful.
 
 This is what’s happening to SEO with AI content optimisation tools such as Clearscope, Surfer SEO and MarketMuse. 
 
@@ -40,7 +40,7 @@ Bear with me for a minute while I go a little technical to give you some context
 
 For years, many SEOs relied heavily on something called ‘TF-IDF’ (Term Frequency-Inverse Document Frequency) - a statistical method that calculates how important a word is within a document compared to a larger set of documents. 
 
-This approach helped search engines determine keyword relevance and allowed content optimisation tools to tell content creators exactly which terms they were ‘missing’ to match top-ranking pages. 
+This approach was believed to help search engines determine keyword relevance and allowed content optimisation tools to tell content creators exactly which terms they were ‘missing’ to match top-ranking pages. 
 
 Then came BERT in 2018, which improved how Google understood context, intent, and natural language. This meant that it was important to also consider user intent -  making sure content matched user queries in a more meaningful way.
 
@@ -74,12 +74,12 @@ In practice, it is hard to ignore that many of the sites that have adopted these
 
 Conversely, there are also sites that have seen a dramatic increase in organic traffic however, if you look under the hood, this content is somewhat formulaic, bland and I question whether it will stand the test of time.
 
-Here’s a few examples of Customer case stufies from teh Clearscope website and looked into how this approach has fared for them over time. Again, this isn’t targeted at Clearscope, Im just using their customer stories as examples of implementation and results.
+To assist, I've reviewed a few examples of Customer case studies from the Clearscope website. Again, this isn’t targeted at Clearscope, Im just using their customer stories as examples of implementation and results.
 
 
 <h2>G2.com: El Colapso</h2>
 
-According to their <a href="https://www.clearscope.io/customers/g2" rel="nofollow">case study</a>, prior to engaging a content-optimisation tool, G2 aggressively chased organic traffic at all costs but then used to tool to shift focus toward user intent, aiming for a more meaningful content approach. 
+According to their <a href="https://www.clearscope.io/customers/g2" rel="nofollow">case study</a>, prior to engaging a content-optimisation tool, G2 aggressively chased organic traffic at all costs but then used the tool to shift focus toward user intent, aiming for a more meaningful content approach. 
 
 In theory, this sounds like a great move. However, looking at the data and the content being published, the implementation and results tell a different story.
 
@@ -87,15 +87,15 @@ In theory, this sounds like a great move. However, looking at the data and the c
 
 Back in 2020, G2’s Learning Hub was estimated to be pulling in around 900,000 organic visits. Fast forward to today, and that number has plummeted to around 55,000 - a drop of 94%.
 
-It appears some of this traffic was shifted over to the articles section of the site which enjoyed some gains….until the Helpful Content Update came along in September 23 and shot it in the knees.
+It appears some of this traffic was shifted over to the articles section of the site which enjoyed some gains….until the Helpful Content Update came along in September 23 and also shot it in the knees.
 
 So what happened? A closer look at their content strategy raises some questions. While the shift to user intent sounds logical, their execution is debatable. For example, one of their top-ranking articles is ‘What Is Cached Data?’ - a topic that, while informational, seems disconnected from G2’s core authority as a software comparison platform. 
 
-Is this really the kind of content that aligns with their users’ intent, or is it just another attempt to capture generic search queries? Isnt’ this what they were supposed to not be doing?
+Is this really the kind of content that aligns with their users’ intent, or is it just another attempt to capture generic search queries? Isn't this what they were supposed to not be doing?
 
 In other words, G2 may have tried to optimise for search, but in doing so, they created content that doesn’t align with their actual expertise. The result? A massive decline in organic visibility.
 
-Now, strategies, personnel and people change but 5 years is a reasonable period of time to demonstrate the effectiveness of a content strategy.
+Now, strategies, personnel and people change over time however 5 years is a reasonable period of time to demonstrate the effectiveness of a content strategy.
 
 <h2>Hotjar: Chasing Scores, Losing Traffic</h2>
 
@@ -103,14 +103,13 @@ Hotjar’s blog provides another clear example of how AI-driven content optimisa
 
 <a href="https://www.clearscope.io/customers/hotjar" rel="nofollow">Their strategy</a> involved identifying gaps in their existing content, making it more ‘evergreen’, and adjusting their content to achieve higher ClearScope scores - believing that improving these scores would directly translate to better performance.
 
-And for a while, it did. From 2020 to 2023, Hotjar saw growth, suggesting their approach was working. But then, in March 2023, everything changed. Since then, their organic traffic has dropped by 50%.
+And for a while, it did. From 2020-2023, Hotjar saw growth, suggesting their approach was working. But then, in March 2023, everything changed. Since then, their organic traffic has dropped by 50%.
 
 <img src="/images/hubspot-traffic.png" loading="lazy">
 
-So what happened? Well, March 2023 lines up with Google’s  E-E-A-T (Experience, Expertise, Authoritativeness, and Trust) update.
+So what happened? Well, March 2023 lines up with Google’s E-E-A-T (Experience, Expertise, Authoritativeness, and Trust) update.
 
 The problem with Hotjar’s approach was that they weren’t creating truly authoritative, differentiated content. When Google prioritised real expertise and originality, this strategy collapsed.
-
 
 <h2>ToastTab.com: A Traffic Success Story with a Relevance Problem</h2>
 
@@ -118,7 +117,7 @@ I have to admit, when I first saw Toast, I got excited - unfortunately, this isn
 
 Instead, ToastTab is a genuine SEO success story in traffic at all costs.
 
-Between March 2020 and now, their blog has exploded in size, growing from 900 pages and 70,000 clicks to 3,300 pages and nearly half a million clicks. That’s a huge increase, and by the numbers alone, it looks like a job well done. 
+Between March 2020 and now, their blog has exploded in size, growing from 900 pages and 70,000 clicks to 3,300 pages and nearly 500,000 clicks. That’s a huge increase, and by the numbers alone, it looks like a job well done. 
 
 <img src="/images/toasttab-traffic.png" loading="lazy">
 
@@ -134,7 +133,7 @@ In fact, 20-25% of their traffic seems to be coming from food quote listacles al
 
 Now, let’s step back. Toast is a restaurant software provider. Does content about coffee quotes really align with their audience at any point in their journey? Is someone reading ‘Best low-calorie alcoholic drinks’ likely to convert into a paying customer at any point in time?
 
-To be fair, some of their content - like ‘How much is a food truck?’ - makes sense for their audience. But much of their strategy seems focused on scaling traffic at all costs, rather than creating content that directly serves their target market.
+To be fair, some of their content - like ‘How much is a food truck?’ - does make some sense for their audience. But much of their strategy seems focused on scaling traffic at all costs, rather than creating content that directly serves their target market.
 
 The problem with AI-driven optimisation is that it often focuses on finding gaps in search rather than aligning content with audience needs. Yes, ToastTab has successfully identified and filled these gaps, but the result is a flood of generic content that doesn’t reinforce their credibility in the restaurant software space.
 
@@ -162,10 +161,10 @@ AI-powered optimisation tools don’t create new ideas; they scan what’s ranki
 
 <h2>Be the One Who Stands Out</h2>
 
-In Being John Malkovich, when Craig takes control of Malkovich’s mind, he believes he has unlocked ultimate success—only to realise he has lost himself in the process. 
+In Being John Malkovich, when Craig takes control of Malkovich’s mind, he believes he has unlocked ultimate success...only to realise he has lost himself in the process. 
 
 The same can be said for SEO today. If you blindly follow AI-driven optimisation tools, tweaking your content to fit what’s already ranking, you may see short-term gains, but in the long run, you’re just another version of the same thing.
 
-Google isn’t looking for more of the same—it’s looking for originality, expertise, and real value. If your content doesn’t challenge the norm, add fresh insights, or engage your audience in a meaningful way, it will eventually be ignored.
+Google isn’t looking for more of the same. It’s looking for originality, expertise, and real value. If your content doesn’t challenge the norm, add fresh insights, or engage your audience in a meaningful way, it will eventually be ignored.
 
 So, ask yourself: Are you creating something worth reading, or are you just another Malkovich in a world of Malkoviches?
