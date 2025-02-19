@@ -26,10 +26,9 @@ Google, like a frustrated John Malkovich stuck in a room of endless versions of 
 
 Or, as Malkovich himself would say:
 
->It’s MY head, Schwartz! It’s MY head!”
-
 <lite-youtube videoid="luZ9IQO980o"></lite-youtube>
 
+>It’s MY head, Schwartz! It’s MY head!
 
 If your content strategy is just about mirroring what’s already ranking, then you’re just another Malkovich in a world of Malkoviches, not offering anything unique, just repeating what’s already there.
 
