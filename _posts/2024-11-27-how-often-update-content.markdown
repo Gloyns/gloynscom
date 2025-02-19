@@ -46,12 +46,12 @@ This is QDF in action - Google serving fresh content when the context or intent 
 
 We can evidently see for ourselves that freshness isn't valued by Google for the majority of searches. 
 
-For example, if someone searches for 'how to grow tomatoes', the best content on the topic will rank, not necessarily the newest. 
+For example, if someone searches for 'how to grow cucumbers', the best content on the topic will rank, not necessarily the newest or most recently updated.
 
 The quality, depth, and relevance of the content take precedence over when it was last updated. The ranking article might be several years old, and that's OK for Google and users if it's still the most helpful.
 
-<img src="/images/growing-tomatoes.png" loading="lazy" alt="Google SERP for query earthquake">
-*OK, so the most recent article is ranking here (!) but the majority of the top articles are several years old and there are hundreds of examples that are newer but don't rank on page 1*
+<img src="/images/growing-cucumber-serp.png" loading="lazy" alt="Google SERP for query how to grow cucumbers">
+*The top ranking article here hasn't been updated in 5 years, the top ranking video is 7 years old*
 
 <h2>Why Relevance Matters More Than Freshness</h2>
 
