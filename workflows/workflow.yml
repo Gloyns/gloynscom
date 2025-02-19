@@ -3,38 +3,24 @@ name: Build Jekyll Site
 on:
   push:
     branches:
-      - main  # Change this if your default branch is different
+      - main
 
 jobs:
   build:
-    runs-on: ubuntu-24.04  # GitHub keeps forcing this, so let's handle it
+    runs-on: ubuntu-latest  # ✅ Ensures we use a GitHub-hosted runner
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Dependencies
-        run: |
-          sudo apt update
-          sudo apt install -y curl git
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2'  # ✅ Installs Ruby automatically
+          bundler-cache: true  # ✅ Speeds up gem installation
 
-      - name: Install rbenv and Ruby
-        run: |
-          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
-          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
-          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
-          source ~/.bashrc
-          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
-          ~/.rbenv/bin/rbenv install 3.2.2
-          ~/.rbenv/bin/rbenv global 3.2.2
-
-      - name: Verify Ruby Installation
-        run: ruby -v  # This should now return Ruby 3.2.2
-
-      - name: Install Bundler and Jekyll
-        run: |
-          gem install bundler jekyll
-          bundle install
+      - name: Install Jekyll and dependencies
+        run: bundle install
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
