@@ -7,20 +7,34 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Let GitHub choose, as this now supports Ruby correctly
+    runs-on: ubuntu-24.04  # GitHub is forcing Ubuntu 24.04, so let's handle it manually
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@086ffb1a2090c870a3f881cc91ea83aa4243d408  # ✅ Latest stable version
-        with:
-          ruby-version: '3.2.2'
-          bundler-cache: true  # ✅ Caches Ruby gems for faster builds
+      - name: Install Dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y curl git build-essential libssl-dev libreadline-dev zlib1g-dev autoconf bison libyaml-dev libgmp-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev
 
-      - name: Install Jekyll and dependencies
-        run: bundle install
+      - name: Install rbenv and Ruby
+        run: |
+          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+          source ~/.bashrc
+          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+          ~/.rbenv/bin/rbenv install 3.2.2
+          ~/.rbenv/bin/rbenv global 3.2.2
+
+      - name: Verify Ruby Installation
+        run: ruby -v  # Should output Ruby 3.2.2
+
+      - name: Install Bundler and Jekyll
+        run: |
+          gem install bundler jekyll
+          bundle install
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
