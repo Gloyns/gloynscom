@@ -10,23 +10,26 @@ tags: [content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 
-Imagine stepping through a mysterious portal, only to find yourself inside John Malkovich - except instead of inhabiting the mind of a famous actor, you’re trapped in an SEO landscape where every piece of content looks, sounds, and reads the same.
+Imagine stepping through a mysterious portal, only to find yourself inside John Malkovich - except instead of inhabiting the mind of Malkovich, you’re trapped in an SEO landscape where every piece of content looks, sounds, and reads the same.
 
 You’re no longer the awkward one in the corner, nervously sipping your drink and playing with your puppet strings. You haven’t said the wrong thing because, well, there is no wrong thing...everyone is saying the exact same thing. 
 
 It’s a perfectly optimised content experience… and it’s absolutely blody awful.
 
-This is what’s happening to SEO with AI content optimisation tools. They take what’s already ranking, identify the gaps, and tell you to fill them in, ensuring your content blends seamlessly into the mix. The result? A SERP full of clones, indistinguishable from one another.
+This is what’s happening to SEO with AI content optimisation tools such as Clearscope, Surfer SEO and MarketMuse. 
+
+They take what’s already ranking, identify the gaps, and tell you to fill them in, ensuring your content blends seamlessly into the mix. The result? A SERP full of clones, indistinguishable from one another.
 
 And when everything looks and sounds the same, nothing stands out. 
 
-Google, like a frustrated John Malkovich stuck in a room of endless versions of himself—starts searching for something, anything, different.
+Google, like a frustrated John Malkovich stuck in a room of endless versions of himself, starts searching for something, anything, different.
 
 Or, as Malkovich himself would say:
 
 >It’s MY head, Schwartz! It’s MY head!”
 
 <lite-youtube videoid="luZ9IQO980o"></lite-youtube>
+
 
 If your content strategy is just about mirroring what’s already ranking, then you’re just another Malkovich in a world of Malkoviches, not offering anything unique, just repeating what’s already there.
 
@@ -36,13 +39,13 @@ And that’s a problem.
 
 Bear with me for a minute while I go a little technical to give you some context.
 
-For years, many SEOs relied heavily on something called ‘TF-IDF’- a method that calculates how important a word is within a document compared to a larger set of documents. 
+For years, many SEOs relied heavily on something called ‘TF-IDF’ (Term Frequency-Inverse Document Frequency) - a statistical method that calculates how important a word is within a document compared to a larger set of documents. 
 
 This approach helped search engines determine keyword relevance and allowed content optimisation tools to tell content creators exactly which terms they were ‘missing’ to match top-ranking pages. 
 
 Then came BERT in 2018, which improved how Google understood context, intent, and natural language. This meant that it was important to also consider user intent -  making sure content matched user queries in a more meaningful way.
 
-At this point, content optimisation tools became super popular. They scanned the top-ranking pages, identified “gaps” in content, and told writers to add those missing terms to improve search performance. The idea was simple: if Google’s algorithm was rewarding pages that contained certain words, then making your content match those patterns should make it rank better.
+At this point, content optimisation tools became super popular. They scanned the top-ranking pages, identified gaps in content, and told writers to add those missing terms to improve search performance. The idea was simple: if Google’s algorithm was rewarding pages that contained certain words, then making your content match those patterns should make it rank better.
 
 And for a while, this approach worked really well. AI-driven content tools helped businesses scale content production efficiently, and Google rewarded well-structured, well-optimised content. But there was a problem - everyone started doing it. The Internet became flooded with algorithmically fine-tuned but utterly generic and boring content.
 
@@ -82,7 +85,9 @@ Back in 2020, G2’s Learning Hub was estimated to be pulling in around 900,000 
 
 It appears some of this traffic was shifted over to the articles section of the site which enjoyed some gains….until the Helpful Content Update came along in September 23 and shot it in the knees.
 
-So what happened? A closer look at their content strategy raises some questions. While the shift to user intent sounds logical, their execution is debatable. For example, one of their top-ranking articles is ‘What Is Cached Data?’ - a topic that, while informational, seems disconnected from G2’s core authority as a software comparison platform. Is this really the kind of content that aligns with their users’ intent, or is it just another attempt to capture generic search queries? Isnt’ this what they were supposed to not be doing?
+So what happened? A closer look at their content strategy raises some questions. While the shift to user intent sounds logical, their execution is debatable. For example, one of their top-ranking articles is ‘What Is Cached Data?’ - a topic that, while informational, seems disconnected from G2’s core authority as a software comparison platform. 
+
+Is this really the kind of content that aligns with their users’ intent, or is it just another attempt to capture generic search queries? Isnt’ this what they were supposed to not be doing?
 
 In other words, G2 may have tried to optimise for search, but in doing so, they created content that doesn’t align with their actual expertise. The result? A massive decline in organic visibility.
 
@@ -145,7 +150,7 @@ Search Engines and LLMs have already been trained on vast amounts of publicly av
 
 What they need now is fresh perspectives, new insights, and evolving conversations to continue learning and improving. 
 
-That’s why Google partnered with Reddit and why Reddit discussions are increasingly being surfaced in search results. The content on Reddit isn’t rehashed articles, taking keywords and trying to game TDIDF or BERT formulas to chase an ‘A’ score, it’s people sharing their lived experiences, opinions, and insights. Sometimes questionable expertise, granted, but I’d argue you get more unique views in Reddit than most articles.
+That’s why Google partnered with Reddit and why Reddit discussions are increasingly being surfaced in search results. The content on Reddit isn’t rehashed articles, taking keywords and trying to game TD-IDF or BERT formulas to chase an ‘A’ score, it’s people sharing their lived experiences, opinions, and insights. Sometimes questionable expertise, granted, but I’d argue you get more unique views in Reddit than most articles.
 
 This is the opposite of what most AI content optimisation tools are doing. 
 
