@@ -1,0 +1,26 @@
+name: Build Jekyll Site
+
+on:
+  push:
+    branches:
+      - main  # Change this if your default branch is different
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04  # Use Ubuntu 22.04 instead of 24.04 for stability
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2.2'  # Ensure Ruby is installed
+          bundler-cache: true  # Caches Ruby gems for faster builds
+
+      - name: Install Jekyll and dependencies
+        run: bundle install
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
