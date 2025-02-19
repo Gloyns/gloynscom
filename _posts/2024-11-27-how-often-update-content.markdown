@@ -50,7 +50,7 @@ For example, if someone searches for 'how to grow cucumbers', the best content o
 
 The quality, depth, and relevance of the content take precedence over when it was last updated. The ranking article might be several years old, and that's OK for Google and users if it's still the most helpful.
 
-<img src="/images/growing-cucumber-serp.png" loading="lazy" alt="Google SERP for query how to grow cucumbers">
+<img src="/images/cucumber-serp.png" loading="lazy" alt="Google SERP for query how to grow cucumbers">
 *The top ranking article here hasn't been updated in 5 years, the top ranking video is 7 years old*
 
 <h2>Why Relevance Matters More Than Freshness</h2>
