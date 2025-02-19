@@ -47,7 +47,12 @@ Then came BERT in 2018, which improved how Google understood context, intent, an
 
 At this point, content optimisation tools became super popular. They scanned the top-ranking pages, identified gaps in content, and told writers to add those missing terms to improve search performance. The idea was simple: if Google’s algorithm was rewarding pages that contained certain words, then making your content match those patterns should make it rank better.
 
-And for a while, this approach worked really well. AI-driven content tools helped businesses scale content production efficiently, and Google rewarded well-structured, well-optimised content. But there was a problem - everyone started doing it. The Internet became flooded with algorithmically fine-tuned but utterly generic and boring content.
+<img src="/images/clearscope-matrix.png" loading="lazy">
+*An example of Clearscope's tool identifying the missing terms from an article vs ranking sites*
+
+And for a while, this approach worked really well. AI-driven content tools helped businesses scale content production efficiently, and Google rewarded well-structured, well-optimised content. But there was a problem - everyone started doing it. 
+
+The Internet became flooded with algorithmically fine-tuned but utterly generic and boring content.
 
 <h2>From Keyword Matching to Value-Driven Content</h2>
 
