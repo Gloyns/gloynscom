@@ -4,7 +4,7 @@ title: There’s No Such Thing as Generative Engine Optimisation. It’s Just SE
 description: 
 date: 2025-03-28 09:30:35 +0500
 updated: 2025-03-28 09:30:35 +0500
-image: '/images/luke.webp'
+image: '/images/luke.jpg'
 tags: [ai] [geo]
 ---
 
