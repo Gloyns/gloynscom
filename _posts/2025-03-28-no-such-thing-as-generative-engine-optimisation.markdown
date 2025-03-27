@@ -5,8 +5,6 @@ description:
 date: 2025-03-28 09:30:35 +0500
 updated: 2025-03-28 09:30:35 +0500
 image: '/images/luke.jpg'
-image_caption: ''
-tags: [ai, geo]
 ---
 
 SEOs love a good buzzword. Especially ones that make it look like they are cutting edge and have the upper hand on others. The latest I'd like to unpack today (and prove as total BS) is GEO – Generative Engine Optimisation.
