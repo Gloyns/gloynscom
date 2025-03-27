@@ -5,6 +5,8 @@ description:
 date: 2025-03-27 09:30:35 +0500
 updated: 2025-03-27 09:30:35 +0500
 image: '/images/luke.jpg'
+image_caption: ''
+tags: [ai, geo]
 ---
 
 SEOs love a good buzzword. Especially ones that make it look like they are cutting edge and have the upper hand on others. The latest I'd like to unpack today (and prove as total BS) is GEO – Generative Engine Optimisation.
@@ -17,7 +19,7 @@ But, if you want to stay ahead of the competition you don’t need a new acronym
 
 The biggest mistake SEOs keep making (and it’s been happening for decades) is designing for the engine instead of the person.
 
-Whether it’s Google in 2011 or GPT-5 in 2025, the strategy stays the same: find the flaw, fire your shot, and hope it lands — like Luke Skywalker taking out the Death Star by hitting the exhaust port. It’s classic DSEO — Death Star Engine Optimisation.
+Whether it’s Google in 2011 or GPT-5 in 2025, the strategy stays the same: find the flaw, fire your shot, and hope it lands — like Luke Skywalker taking out the Death Star by hitting  exhaust port. It’s classic DSEO — Death Star Engine Optimisation.
 
 Exposing flaws worked really well for a while, especially when the engines were relatively simple and easy to game. You could climb the rankings with exact match domains, keyword-stuffing content or building links that you wouldn't share with your Mum. I remember one Saturday morning I bought an exact match domain name, whacked up a templated site with some basic copy, threw some links at it and I was ranking #1 by lunchtime!
 
