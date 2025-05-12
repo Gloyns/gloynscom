@@ -9,66 +9,60 @@ image_caption: ''
 tags: [ai, geo]
 ---
 
-SEOs love a good buzzword. Especially ones that make it look like they are cutting edge and have the upper hand on others. The latest I'd like to unpack today (and prove as total BS) is GEO – Generative Engine Optimisation.
+I’ve had a number of people ask me recently about 'GEO', or 'Generative Engine Optimisation' — how to get their content/brand into tools like GPT, Perplexity, and whatever’s next. 
 
-GEO is a shiny rebrand for an old idea: tweaking your content so it shows up in more places. Only now, instead of targeting good old Google, the focus has shifted to AI systems like ChatGPT, Perplexity, and whatever else comes next.
+Whilst I can completely understand where this is coming from, a small part of me dies inside as it just feels like the same misguided mindset that plagued the early days of SEO - chasing algorithms instead of serving people.
 
-But, if you want to stay ahead of the competition you don’t need a new acronym. Just a better mindset.
+What we've learnt over the years is that these systems will always evolve and on every, single iteration they are designed to align more and more closely with what people actually want, rather than what's been gamed into their results.
+
+So, yes, you might get some short-term visibility with some clever tactics. But if your focus is on manipulating a system rather than creating something genuinely useful, that visibility won’t last.
 
 <h2>The Engine Is Not Your Audience</h2>
 
-The biggest mistake SEOs keep making (and it’s been happening for decades) is designing for the engine instead of the person.
+What we’ve learnt over the years is that these systems always evolve. And with every iteration, they get better at aligning with what people actually want rather than what’s been gamed into their results. The gap between trickery and trust gets smaller each time.
 
-Whether it’s Google in 2011 or GPT-5 in 2025, the strategy stays the same: find the flaw, fire your shot, and hope it lands — like Luke Skywalker taking out the Death Star by hitting  exhaust port. It’s classic DSEO — Death Star Engine Optimisation.
+Still, the temptation is real. You might get a spike in visibility from some clever tactic or exploit. But if your focus is on manipulating the system instead of creating something genuinely useful, that visibility will fade — fast.
 
-Exposing flaws worked really well for a while, especially when the engines were relatively simple and easy to game. You could climb the rankings with exact match domains, keyword-stuffing content or building links that you wouldn't share with your Mum. I remember one Saturday morning I bought an exact match domain name, whacked up a templated site with some basic copy, threw some links at it and I was ranking #1 by lunchtime!
+It’s a mistake SEOs have been making for decades: designing for the engine instead of the person.
 
-But those days are long gone. And now, chasing the quirks of AI engines is the same empty game in a different wrapper.
+Whether it was Google in 2011 or GPT-5 in 2025, the mindset has often been the same — find the flaw, fire your shot, and hope it lands. Like Luke Skywalker taking out the Death Star by nailing the exhaust port. That’s what I call DSEO: Death Star Engine Optimisation.
 
-<h2>Generative AI Isn’t Static</h2>
+And hey, back then, it worked. I remember one Saturday morning I bought an exact match domain, spun up a templated site with some basic copy, threw a few shady links at it, and by lunchtime, I was ranking #1. It was absurd. But the engines were simple, and the tricks were cheap.
 
-AI isn’t Google in 2008. It evolves fast - constantly retraining, fine-tuning, and learning from human interaction. So even if you figure out that it prefers a certain tone or structure today, that could, and most probably will, change tomorrow.
+Those days are over. Today’s AI systems are smarter, faster, and learning directly from how people interact with content. Chasing the quirks of these models is just the same hollow game in a shinier wrapper. And the real win — the sustainable win — still comes from the same place it always has: being genuinely useful to real people.
 
-Optimising for AI quirks is like playing whack-a-mole. You might win a few quick hits, but the target’s always shifting and you’re stuck reacting instead of building something meaningful.
+<h2>The Pace of Change Is Only Accelerating</h2>
 
-And let’s be honest: nobody brags about being cited in a response to a prompt no one’s typing.
+Outside of some intense periods, we've generally become accustomed to Google algorithm updates every few months. Sometimes the biggeer updates forced us to adapt, but we had time. We could run tests, observe patterns, reverse engineer, reflect and gradually shift strategies.
 
+That luxury is gone.
 
-<h2>Users Don’t Care About GEO, so Neither Should You</h2>
+With AI systems, we’re not dealing with quarterly updates anymore. These models are being retrained, fine-tuned, and reinforced at a rate we’ve never seen before. 
 
-When someone asks an AI, “What should I eat before a marathon?” they’re not looking for your nutrition brand or your blog post on carb loading. They want a quick, trustworthy answer — something that helps them feel prepared for race day.
+These models adapt based on how people interact with their outputs. If someone skips a response, rephrases their question, or asks for a source, that’s feedback. The model learns. The loop is tighter, the turnaround faster. And that means even if you manage to 'optimise' your way into visibility today, you’ll drop out just as fast if the content doesn’t deliver value to the user.
 
-If the AI delivers that? That’s it. Their question is answered. No click. No scroll. No brand impression.
-
-You might be mentioned. Maybe your site is one of the sources. But in their mind? You’re invisible.
-
-Being part of the answer isn’t the same as being remembered.
-
+Trying to stay one step ahead by guessing what the model wants is a race you’ll lose — because what the model wants is what people want. And people don’t reward fluff, misdirection, or content built purely to game a system. They reward usefulness.
 
 <h2>Mid-Funnel Is the New Battleground</h2>
 
 <img src="/images/ai-seo-marketing-funnel.png" loading="lazy">
 
-Top-of-funnel content? AI can churn it out all day. Surface-level stuff is its bread and butter.
+For years, content strategies have obsessed over top-of-funnel visibility — ranking for broad, high-volume queries to capture attention — and bottom-of-funnel conversion — optimising landing pages to close the deal. 
 
-Bottom of funnel? Sure, if someone already knows they want what you’re selling, AI might still point them in your direction. But if you didn’t show up earlier, you won’t be part of that conversation.
+But AI is collapsing those stages, and it’s the middle — the mid-funnel — where the real battle is happening.
 
-Mid-funnel or ‘the messy middle’ is the real opportunity. The point where people have a rough idea of the problem but still need a solution that fits them and their context.
+This is where people are comparing, questioning, validating, and getting closer to making decisions. They’re not just asking 'what is X?' or 'where do I buy Y?' — they’re asking which one is better for me, why does this matter, how do I weigh my options, what do others say about this, what should I watch out for? The context layer.
 
-That’s where your content should live. Not just blog posts with keywords, but actual answers. Real help. Designed for the user, not the engine.
+AI systems can do teh top funnel stuff all day long and way better than you can. They're also stepping in to answer those layered, contextual, comparative queries. They’re scanning, synthesising, and presenting condensed insights across multiple sources. If your content doesn’t help someone move forward in this decision-making process — if it’s vague, shallow, or transparently self-serving — it won’t surface. Or worse, it’ll be summarised in a way that strips out your brand entirely.
 
+This shift is a huge opportunity for those willing to invest in useful, trustworthy content. Not clickbait. Not fluff. Not keyword-stuffed filler. But clear, relevant, human-first content that helps people weigh up their choices. That’s the stuff AI models are looking for — because it’s what people actually want.
 
+<h2>So, What to Do Next?</h2>
 
-<h2>Stop Optimising for Algorithms. Start Solving for Humans</h2>
+Ignore the hype. Forget trying to reverse-engineer language models or squeeze your way into GPT through tricks and trends. The fundamentals haven’t changed — they’ve just become more important, more visible, and harder to fake.
 
-Generative AI doesn’t kill SEO. But it does expose weak strategy. If your content doesn’t serve a real purpose or if it’s just there to feed the system… it won’t matter how ‘optimised’ it is.
+Focus on creating content that earns its place — content that answers real questions, guides real decisions, and builds real trust. That means understanding your audience deeply, showing up in the messy middle with clarity and confidence, and being useful in a way no shortcut can replicate.
 
-Visibility without action is worthless. Ranking without relevance is noise.
+You don’t need to optimise for the engine. You need to optimise for the person the engine is trying to serve.
 
-The future of SEO is the same thing its always been; a deep understanding of your audience and creating solutions for them.
-
-That means asking better questions. What are they struggling with? What decision are they trying to make? What’s confusing or overwhelming or urgent in their world?
-
-Answer that with clarity and care — and the engines (AI or otherwise) will follow.
-
-So, no, you don’t need to learn a new acronym to keep up. You just need to care more about people than platforms.
+That’s the work that lasts. Always has, always will.
