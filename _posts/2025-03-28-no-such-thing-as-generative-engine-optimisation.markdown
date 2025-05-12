@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There’s No Such Thing as Generative Engine Optimisation. It’s Just SEO
+title: There’s No Such Thing as Generative Engine Optimisation
 description: 
 date: 2025-03-19 09:30:35 +0500
 updated: 2025-03-21 09:30:35 +0500
