@@ -13,10 +13,6 @@ I’ve had a number of people ask me recently about 'GEO', or 'Generative Engine
 
 Whilst I can completely understand where this is coming from, a small part of me dies inside as it just feels like the same misguided mindset that plagued the early days of SEO - chasing algorithms instead of serving people.
 
-What we've learnt over the years is that these systems will always evolve and on every, single iteration they are designed to align more and more closely with what people actually want, rather than what's been gamed into their results.
-
-So, yes, you might get some short-term visibility with some clever tactics. But if your focus is on manipulating a system rather than creating something genuinely useful, that visibility won’t last.
-
 <h2>The Engine Is Not Your Audience</h2>
 
 What we’ve learnt over the years is that these systems always evolve. And with every iteration, they get better at aligning with what people actually want rather than what’s been gamed into their results. The gap between trickery and trust gets smaller each time.
