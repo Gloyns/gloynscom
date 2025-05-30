@@ -2,14 +2,15 @@
 layout: post
 title: The Future of Publishing Revenue in an LLM World
 description: 
-date: 2025-05-31 09:30:35 +0500
-updated: 2025-05-31 09:30:35 +0500
+date: 2025-05-31
 image: '/images/nyt.jpg'
 image_caption: 'Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/the-new-york-times-cXy1xkMVD2g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [ai, content]
 ---
 
-I had a call last week with a long-standing publishing client. One of their sites — a project we’d invested heavily in — is now shifting commercial direction, prompting a review of the search strategy. But the conversation quickly moved beyond domain decisions and into something deeper: an existential shift in content strategy, driven by the rise of LLMs, specifically Google AI mode, and the collapse of the traditional revenue model.
+I had a call last week with a long-standing publishing client. One of their sites — a project we’d invested heavily in — is now shifting commercial direction, prompting a review of the search strategy. 
+
+But the conversation quickly moved beyond domain strategy adn tagging and into something much deeper: an existential shift in content strategy driven by the rise of LLMs and the impending collapse in the revenue model. Eek.
 
 <h2>Change was coming anyway</h2>
 
