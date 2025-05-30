@@ -1,9 +1,9 @@
 ---
 layout: post
-title: There’s No Such Thing as Generative Engine Optimisation
+title: There’s No Such Thing as Generative Engine Optimisation, it's just SEO
 description: 
 date: 2025-03-19 09:30:35 +0500
-updated: 2025-03-21 09:30:35 +0500
+updated: 2025-05-21 08:00:35 +0500
 image: '/images/luke.jpg'
 image_caption: ''
 tags: [ai, geo]
@@ -41,19 +41,21 @@ Trying to stay one step ahead by guessing what the model wants is a race you’l
 
 <h2>Mid-Funnel Is the New Battleground</h2>
 
-<img src="/images/ai-seo-marketing-funnel.png" loading="lazy">
+<img src="/images/funnel.png" loading="lazy">
 
-For years, content strategies have obsessed over top-of-funnel visibility — ranking for broad, high-volume queries to capture attention — and bottom-of-funnel conversion — optimising landing pages to close the deal. The top and bottom funnel are easy sells for budgets due to a simpler sell of more eyeballs or more leads.
+For years, content strategies have focused on two things: top-of-funnel visibility — chasing high-volume, broad awareness queries — and bottom-of-funnel conversion, optimising landing pages to generate leads or close sales. These stages have always been an easy sell for budget allocation: more traffic at the top, more conversions at the bottom.
 
-But AI is collapsing the top and bottom funnel stages. The middle, the mid-funnel, and messy middle - that's where the focus should be. That's the advice I can try to give people wanting to understand what to focus on.
+But AI is collapsing both ends of that funnel.
 
-The middle is where our audience are comparing, validating, and getting closer to making decisions. In the past we would chase users in those top funnel queries where they're asking 'what is X?' etc because these were high volume terms where we wanted to be seen and to be considered. But AI systems can do the top funnel stuff all day long and way better than Google.
+Top-of-funnel needs are now being handled by AI systems like Google’s AI Mode and ChatGPT. These tools can answer 'what is' or 'best X for Y' queries instantly, often better than traditional web content ever could. They summarise, contextualise, and personalise responses (without needing to scroll through a load of banner ads) — making much of that informational content redundant.
 
-They're also stepping in to answer those layered, contextual, comparative queries. They’re scanning, aggregating and presenting condensed insights from multiple sources. 
+Bottom-of-funnel queries — brand terms, pricing, transactional intent — are also being absorbed. AI Mode can surface these directly with links, brand panels, or instant answers. In many cases, branded content or PPC is more effective here than organic search.
 
-So, if your content doesn’t help someone move forward in the decision-making process — if it’s vague, thin, or transparently self-serving — it won’t surface. In short, if an LLM can describe something better than you can then its not worth putting pen to paper. You really need to get that expertise across.
+This leaves the middle of the funnel — the messy middle — as the real opportunity. This is where users are weighing options, validating choices, comparing products, and building trust. These are the nuanced, high-intent, context-heavy queries that AI can’t fully answer — where people still need to explore, read, think, and decide.
 
-This shift is a huge opportunity for those willing to invest in useful, trustworthy content. No clickbait, no keyword-stuffed filler. Clear, relevant, human-first, useful content that helps people. That’s the stuff AI models are looking for because it’s what people actually want (and its also what Google wants btw).
+If your content doesn’t help users make progress in that decision-making process — if it’s vague, shallow, or transparently self-serving — it won’t get surfaced. If an LLM can explain something better than you can (and do it in 5 seconds), you’re wasting your time. But if your content reflects real-world experience, user understanding, and helpful detail, you’ll stand out — not just to users, but to the systems themselves.
+
+This is the shift. Away from volume, toward value. Away from content designed to rank, toward content designed to help.
 
 <h2>So, What to Do Next?</h2>
 
@@ -63,6 +65,4 @@ Forget trying to reverse-engineer language models or squeeze your way into GPT t
 
 Focus on creating content that earns its place — content that answers real questions, guides real decisions, and builds real trust. That means understanding your audience deeply, showing up in the messy middle with clear, in-depth advice, and being useful in a way that is difficult for others to replicate.
 
-You don’t need to optimise for the engine. You need to optimise for the person the engine is trying to serve.
-
-That’s the work that lasts. Always has, always will.
+You don’t need to optimise for the engine. You need to optimise for the person the engine is trying to serve. The best strategies have always centred on understanding users, solving real problems, and helping people make confident decisions. The rise of AI and LLMs just reinforces that approach.
