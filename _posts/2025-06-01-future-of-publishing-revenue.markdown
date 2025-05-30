@@ -9,7 +9,9 @@ image_caption: 'Photo by <a href="https://unsplash.com/@visuals?utm_content=cred
 tags: [ai, content]
 ---
 
-I had a call last week with a long-standing publishing client. One of their sites — a project we’d invested heavily in — is now shifting commercial direction, prompting a review of the search strategy. But the conversation quickly moved beyond domain decisions and into something deeper: an existential shift in content strategy, driven by the rise of LLMs, specifically Google AI mode, and the collapse of the traditional revenue model.
+I had a call last week with a long-standing publishing client. One of their sites — a project we’d invested heavily in — is now shifting commercial direction, prompting a review of the search strategy. 
+
+But the conversation quickly moved beyond domain strategy adn tagging and into something much deeper: an existential shift in content strategy driven by the rise of LLMs and the impending collapse in the revenue model. Eek.
 
 <h2>Change was coming anyway</h2>
 
