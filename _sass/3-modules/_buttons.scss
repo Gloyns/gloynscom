@@ -9,10 +9,17 @@
   border: none;
   outline: none;
   cursor: pointer;
-  transition: all .2s;
+  transition: all 0.2s;
   will-change: transform;
   color: var(--dark);
   background-color: var(--primary-color);
+
+  /* Accessibility: Minimum size */
+  min-width: 48px;
+  min-height: 48px;
+
+  /* Ensure spacing between adjacent buttons */
+  margin: 0 6px; /* 12px total spacing between buttons */
 
   &:hover {
     color: var(--white);
@@ -29,48 +36,58 @@
 
   &--primary {
     padding: 20px 15px;
-    margin-left: 20px;
     color: var(--white);
     background-color: var(--button-background-color);
-    text-decoration: none; // Ensures no underline appears for links
+    text-decoration: none;
 
     &:hover {
-        background: var(--button-background-hover);
+      background: var(--button-background-hover);
     }
 
     a {
-        color: inherit; // Inherits the white color from the button
-        text-decoration: none; // Removes underline on the link
+      color: inherit;
+      text-decoration: none;
     }
 
     a:hover {
-        color: inherit; // Ensures the hover state of the link matches the button
+      color: inherit;
     }
-}
+  }
 
   &--secondary {
     padding: 20px 15px;
-    color: var(--button-background-color); // Text matches the primary button background
-    background-color: var(--white); // Inverse to primary button's text color
+    color: var(--button-background-color);
+    background-color: var(--white);
+    border: 2px solid var(--button-background-color);
 
     &:hover {
-        background: var(--button-background-hover); // Matches primary button's hover effect for cohesion
-        color: var(--white); // Ensure contrast on hover
+      background: var(--button-background-hover);
+      color: var(--white);
     }
 
     a:hover {
-      color: var(--white); // Ensure contrast on hover
+      color: var(--white);
+    }
   }
 
-    border: 2px solid var(--button-background-color); // Optional: Adds a border for a more distinct inverse style
-}
-
   &--small {
-    padding: 20px 24px;
+    padding: 12px 20px;
+    font-size: 16px;
+
+    /* Ensure minimum size */
+    min-width: 48px;
+    min-height: 48px;
   }
 
   &--big {
     display: block;
     width: 100%;
   }
+}
+
+/* Optional: Spacing between grouped buttons */
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
