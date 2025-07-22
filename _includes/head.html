@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
   <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
+  <meta name="google-site-verification" content="W2J3aYUPOWpUQIXZ8fDLX7j94F-qSeeibz57HLQmtaw" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
@@ -25,7 +26,6 @@
 
   <!-- Ionicons -->
   <link rel="preload" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" as="style">
-
   <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
   <script>
     {% if site.data.settings.color_scheme == "auto" %}
@@ -56,4 +56,5 @@
 <link rel="preload" rel="stylesheet" href="/assets/css/lite-yt-embed.css" as="style" onload="this.rel='stylesheet'">
 <link rel="preload" rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.rel='stylesheet'">
 <script defer src="https://cdn.overtracking.com/t/tMBJYEJ8xpY2BBlfX/"></script>
+
 </head>
