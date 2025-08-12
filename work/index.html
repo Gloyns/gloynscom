@@ -20,12 +20,9 @@ description: See how I help businesses achieve exceptional organic growth with t
     {% for work in site.works reversed %}
       <article class="work col col-4 col-d-6 col-t-12">
         <div class="work__content">
-          <a href="{{ work.url | relative_url }}" class="work__image">
-  <img class="lazy work__thumb" data-src="{{ work.image | relative_url }}" alt="{{ work.title }}">
-  {% if work.logo_white %}
-    <img class="work__logo" src="{{ work.logo_white | relative_url }}" alt="{{ work.client | default: work.title }} logo">
-  {% endif %}
-</a>
+          <a href="{{ work.url }}" class="work__image">
+            <img class="lazy" data-src="{{ work.image }}" alt="{{ work.title }}">
+          </a>
           <div class="work__info">
             {% if work.category %}
             <div class="work__category">{{ work.category }}</div>

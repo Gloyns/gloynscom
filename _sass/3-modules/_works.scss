@@ -8,67 +8,34 @@
   position: relative;
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 1/1;
   border-radius: $global-radius;
   user-select: none;
+  transform: translate(0);
   overflow: hidden;
   background-color: var(--background-alt-color);
-  transition: background-color 250ms ease-in-out;
 
-  /* remove the lift */
-  transform: none;
+  &:hover {
+    transform: translateY(-4px);
 
-  /* default thumbnail fills tile */
-  .work__thumb {
+    img {
+      transition: $global-transition;
+    }
+  }
+
+  img {
     position: absolute;
-    inset: 0;
+    top: 0;
+    left: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
     border-radius: $global-radius;
     pointer-events: none;
-    transition: opacity 200ms ease-in-out; // swap speed
-    opacity: 1;
   }
 
-  /* centred logo, hidden until hover */
-  .work__logo {
-    position: absolute;
-    inset: 0;
-    margin: auto;          // centre
-    width: 60%;
-    height: 60%;
-    object-fit: contain;
-    pointer-events: none;
-    opacity: 0;
-    transform: scale(.98); // tiny settle-in
-    transition: opacity 200ms ease-in-out, transform 250ms ease-in-out;
-    // no border-radius so it stays crisp against bg
-  }
-
-  &:hover {
-    /* keep the tile in place */
-    transform: none;
-
-    /* fade bg to brand colour and swap images */
-    background-color: var(--primary-color);
-
-    .work__thumb { opacity: 0; }
-    .work__logo  { opacity: 1; transform: scale(1); }
-  }
-
-  /* old fallback for browsers without aspect-ratio */
-  @supports not (aspect-ratio: 1 / 1) {
+  @supports not (aspect-ratio: 1/1) {
     padding-bottom: 100%;
-  }
-}
-
-/* Respect reduced motion */
-@media (prefers-reduced-motion: reduce) {
-  .work__image,
-  .work__image .work__thumb,
-  .work__image .work__logo {
-    transition: none;
   }
 }
 
