@@ -4,7 +4,6 @@ title: The Future of Publishing Revenue in an LLM World
 description: 
 date: 2025-05-30 23:59:59 +0000
 image: '/images/life-aquatic-ag.jpg'
-image_caption: 'Photo by <a href="https://unsplash.com/@visuals?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">visuals</a> on <a href="https://unsplash.com/photos/the-new-york-times-cXy1xkMVD2g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [ai, content]
 ---
 
