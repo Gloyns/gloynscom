@@ -92,7 +92,7 @@ The user is looking for clear, reliable guidance on what to wear for their upcom
 
 The user is feeling anxious and under considerable pressure to make a great first impression. After all the effort it took to get the interview, they are concerned that the wrong outfit choice could undermine their chances. They are looking for expert advice to boost their confidence and provide a sense of control.
 
-<h3>Rethink Your Hooks and Internal Links<h3>
+<h3>Rethink Your Hooks and Internal Links</h3>
 
 Use that emotional insight to write the introductions and guide internal linking. If a user is feeling overwhelmed, what's the next logical piece of content that will help calm them down and solve the next problem? 
 Think in terms of their JTBD (Jobs To Be Done) and what emotional barriers they face.
@@ -108,7 +108,9 @@ Your tone proves you understand their problem, making your solution that much mo
 
 <h2>Optimise for Humans</h2>
 
-I'm asked often about how to optimise content for LLMs. Like Google, sure there are some hacky ways to try to be cited but content that ranks consistently over the long term is helpful.
+I'm asked often about how to optimise content for LLMs. 
+
+Sure there are some hacky ways to try to be cited but content that ranks consistently over the long term is helpful.
 
 The issue that platforms like GTP and Perplexity have currnetly is that they're years behind where they need to be on user satisfaction as they, currently, lack the two way data flow to understand what content is actually useful.
 
