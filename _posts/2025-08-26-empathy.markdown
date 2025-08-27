@@ -30,6 +30,7 @@ That’s what this is about. That’s what SEO is supposed to do.
 But we lose sight of that. We default to checklists: topic clusters, heading structures. But none of that matters if the content doesn’t give care about the person reading it.
 
 How they are feeling in that moment shapes everything; how you start the article, how you speak to them throughout it, and how you end it.
+
 Empathy is how you win.
 
 Empathy is how you rank and get cited in Google, ChatGPT, Perplexity, Claude - everywhere.
@@ -61,16 +62,16 @@ When you understand that emotional state, you can’t just write a generic listi
 
 <h3>Here's an SEO-first version</h3>
 
-<quote>When preparing for that important meeting or job interview, knowing what to wear to an interview can make a measurable difference. Whether you’re aiming for professional interview attire or business casual outfit ideas, the right choice sets a confident tone. From tailored suits to polished separates, your attire can signal competence, credibility, and cultural fit - and help you stand out before you even say a word.</quote>
+<em>When preparing for that important meeting or job interview, knowing what to wear to an interview can make a measurable difference. Whether you’re aiming for professional interview attire or business casual outfit ideas, the right choice sets a confident tone. From tailored suits to polished separates, your attire can signal competence, credibility, and cultural fit - and help you stand out before you even say a word.</em>
 
-Bland isnt it. 'Optimised' for search engines, yes. Users, no. It's slop.
+Bland isnt it. 'Optimised' for search engines, overly - yes. Users, no. It's slop.
 
 <h3>Giving a shit:</h3>
 
-<quote>Whether it’s your first job, you’re returning to the workforce or you’re changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important. 
+<em>Whether it’s your first job, you’re returning to the workforce or you’re changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important. 
 
 Before getting ready for your job interview, read this guide for tips on putting together a perfectly professional look. Find out what type of clothes and shoes are appropriate and how you can use accessories to inject some personality into your outfit. As you prepare for your interview, remember that no matter what you wear, you should aim to feel comfortable and confident.  
-</quote>
+</em>
 
 See the difference? You’ve acknowledged their journey, validated their anxiety, and positioned your advice as the key to the confidence they crave. You’ve shown them you get it.
 
