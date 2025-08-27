@@ -1,0 +1,123 @@
+---
+layout: post
+title: How to Improve Content Performance in Google & LLMs? Empathy
+description: The secret to ranking in Google and LLMs is not about topic clustering or entity optimisation. It's a lot more human than you think.
+date: 2025-08-27 14:00:00 +0000
+image: '/images/annie-spratt-unsplash.jpg'
+tags: [seo, ai, content]
+---
+
+I could probably start and finish this blog in one sentence: you need to actually give a shit about your users.
+
+I spend a lot of time working with people to understand why content underperforms in search, and helping them get that content to work better for them. That might mean working with marketing teams, directly with copywriters, or strategists. Often, I’m handed a piece of content and asked, “How would you improve this?”
+
+There’s usually this expectation that I’ll come back with something like, “You need to add more keywords,” or “Add this section” or someone chimes in with “I read that  if you include a table of contents, that helps you rank,” or “You need an author bio for EEAT” (thats bs btw).
+
+Sure, some of that stuff can maybe help collectively - but more often than not, the real reason content doesn’t rank or perform is because it doesn’t actually satisfy the user.
+
+And we throw that word around a lot - ‘User satisfaction’ - but when you dig into it and really reflect (which is easier for me to do coming from the outside), it becomes obvious. It’s often quite clear why content is underperforming: It doesn’t connect and it doesn’t really help.
+
+People talk about user intent in SEO all the time. “What’s the user intent?” And I’ll often get back “It’s informational.” But that’s not the intent. 
+
+What is the person actually trying to achieve?
+
+And more importantly: where are they at emotionally?
+
+That’s the missing part. What’s their emotional state? Because if you can tap into that - if you can empathise, if you can truly understand their situation and then give them content that meets them there and helps them - isn’t that the whole point?
+
+That’s what this is about. That’s what SEO is supposed to do.
+
+But we lose sight of that. We default to checklists: topic clusters, heading structures. But none of that matters if the content doesn’t give care about the person reading it.
+
+How they are feeling in that moment shapes everything; how you start the article, how you speak to them throughout it, and how you end it.
+Empathy is how you win.
+
+Empathy is how you rank and get cited in Google, ChatGPT, Perplexity, Claude - everywhere.
+
+You just need to genuinely give a shit about your users.
+
+<h2>Here’s how that plays out</h2>
+
+Let me give you an example. I worked with SEEK on an article about, ‘What to wear to a job interview’.
+
+<h3>The User Intent</h3>
+
+Pretty clear. They want a list of ideas for what to wear. They're looking for clear instructions, maybe some photo examples, an understanding of formality, and a list of things to avoid so they don't mess up.
+We can even use tools now to try to map the user intent from the SERP, E.g. ahrefs. This is useful to a point, but it’s factual and bland.
+
+<img src="/images/ahrefs-intent.png" loading="lazy">
+
+<h3>The Emotional State</h3>
+
+This is where the value is. Think about the person searching for this. They’ve gone through a huge effort to get to this point. 
+
+They’ve likely sent out a tonne of applications and faced rejection over and over again.
+
+But now, now they’re in contention and it’s natural to feel anxious. They may have a deep-seated fear of being judged incorrectly and losing this opportunity because they wore the wrong thing. 
+
+They're hopeful, but they’re also lacking confidence and they just want to be told what to wear and why.
+
+When you understand that emotional state, you can’t just write a generic listicle. Your entire approach changes. Your hook becomes more powerful because you can connect immediately.
+
+<h3>Here's an SEO-first version</h3>
+
+<quote>When preparing for that important meeting or job interview, knowing what to wear to an interview can make a measurable difference. Whether you’re aiming for professional interview attire or business casual outfit ideas, the right choice sets a confident tone. From tailored suits to polished separates, your attire can signal competence, credibility, and cultural fit - and help you stand out before you even say a word.</quote>
+
+Bland isnt it. 'Optimised' for search engines, yes. Users, no. It's slop.
+
+<h3>Giving a shit:</h3>
+
+<quote>Whether it’s your first job, you’re returning to the workforce or you’re changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important. 
+
+Before getting ready for your job interview, read this guide for tips on putting together a perfectly professional look. Find out what type of clothes and shoes are appropriate and how you can use accessories to inject some personality into your outfit. As you prepare for your interview, remember that no matter what you wear, you should aim to feel comfortable and confident.  
+</quote>
+
+See the difference? You’ve acknowledged their journey, validated their anxiety, and positioned your advice as the key to the confidence they crave. You’ve shown them you get it.
+
+You've given them a reason to trust you.
+
+<h2>How to Actually Do This</h2>
+
+So, how do we incorporate this into our work?
+
+Add ‘Emotional State’ to Your Briefs
+
+Right alongside ‘User intent’ (which is also surprisingly missing from many briefs I see), get the team to consider: What is the user feeling right now? Fear? Excitement? Confusion? Overwhelm?
+
+<h3>Example User Intent</h3>
+
+The user is looking for clear, reliable guidance on what to wear for their upcoming interview. They need to see specific examples for different kinds of workplaces and understand what common mistakes to avoid. The goal is to eliminate guesswork so they can feel certain and prepared for the day.
+
+<h3>Example Emotional State</h3>
+
+The user is feeling anxious and under considerable pressure to make a great first impression. After all the effort it took to get the interview, they are concerned that the wrong outfit choice could undermine their chances. They are looking for expert advice to boost their confidence and provide a sense of control.
+
+<h3>Rethink Your Hooks and Internal Links<h3>
+
+Use that emotional insight to write the introductions and guide internal linking. If a user is feeling overwhelmed, what's the next logical piece of content that will help calm them down and solve the next problem? 
+Think in terms of their JTBD (Jobs To Be Done) and what emotional barriers they face.
+
+Let it Guide Your Tone and Content. 
+
+The user's emotional state should directly influence the tone used throughout the article.
+If they're feeling anxious, your tone should be reassuring and build confidence. If they're confused, it needs to be exceptionally clear and simple. 
+
+Think about the challenges they have and adjust accordingly. We talk about "helpful content" all the time in SEO and this is what it means in practice. How you say it is just as important as what you’re saying.
+
+Your tone proves you understand their problem, making your solution that much more impactful.
+
+<h2>Optimise for Humans</h2>
+
+I'm asked often about how to optimise content for LLMs. Like Google, sure there are some hacky ways to try to be cited but content that ranks consistently over the long term is helpful.
+
+The issue that platforms like GTP and Perplexity have currnetly is that they're years behind where they need to be on user satisfaction as they, currently, lack the two way data flow to understand what content is actually useful.
+
+Google has a massive advantage because it uses real user behaviour from billions of searches as a feedback loop to inform a core ranking signal.
+
+What they all have in common is they need to keep users on their platform, and the only way to do that is to give them answers that are not just correct, but genuinely helpful and satisfying. 
+
+If you keep YOUR focus on the user rather than the platform, then the platforms will catch up and you will win.
+
+By focusing on the human on the other side of the screen and their emotional state, you create content that is genuinely helpful. 
+
+I can't think of an instance when that hasn’t ever been the right direction to go.
