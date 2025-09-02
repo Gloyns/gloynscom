@@ -9,7 +9,7 @@ image_caption: ''
 tags: [ai, geo]
 ---
 
-<em>OK, first things first. I don't have my head in the sand :) Search optimisation is my livlihood but that's not limited to Google. These are my thoughts on the hype beheind GEO/AIO and why I believe its sensible to take a step back and think about how you optimise for emerging platforms based.</em>
+<em>OK, first things first. I don't have my head in the sand :) Search optimisation is my livlihood but that's not limited to Google. These are my thoughts on the hype behind GEO/AIO and why I believe its sensible to take a step back and think about how you optimise for emerging platforms.</em>
 
 As more people use GPT tools and Google’s market share continues to be eaten into, I’ve had more and more people asking me about ‘GEO’ — Generative Engine Optimisation — and how they can get their content or brand showing up in tools like ChatGPT and Perplexity.
 
