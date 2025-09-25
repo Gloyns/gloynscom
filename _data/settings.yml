@@ -72,9 +72,9 @@ logo__items:
     link: 
     image: "/images/anz.svg"
 
-  - name: True
+  - name: Movember
     link: 
-    image: "/images/true.svg"
+    image: "/images/movember.svg"
 
 #-------------------------------
 # Newsletter
