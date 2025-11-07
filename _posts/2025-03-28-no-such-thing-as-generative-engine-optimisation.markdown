@@ -11,7 +11,7 @@ tags: [ai, geo]
 
 As generative AI becomes a common part of our workflow - moreso as an additive layer to traditional search - the question of 'GEO' (Generative Engine Optimisation) comes up a lot. And by a lot, I mean that I'm asked several times a day what we're doing about it.
 
-There are two schools of thought on this. One camp, often looking to sell a new service IMO, is capitalizing on fear by positioning GEO as a complex, brand-new discipline.
+There are two schools of thought on this. One camp, often looking to sell a new service IMO, is capitalising on fear by positioning GEO as a complex, brand-new discipline.
 
 My view? It’s about 90% the same as the user-led, product-led SEO I've always practiced.
 
