@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Improve Content Performance in Google & LLMs? Empathy
-description: The secret to ranking in Google and LLMs is not about topic clustering or entity optimisation. It's a lot more human than you think.
+description: The secret to visibility in Google and LLMs is a lot more human than you think.
 date: 2025-08-26 14:00:00 +0000
 image: '/images/annie-spratt-unsplash.jpg'
 tags: [seo, ai, content]
@@ -9,7 +9,7 @@ tags: [seo, ai, content]
 
 I could probably start and finish this blog in one sentence: you need to actually give a shit about your users.
 
-I spend a lot of time working with people to understand why their content underperforms in search. Often, I’m handed a piece of content and asked, “How would you improve this?”
+I spend a lot of time working with people to understand why their content underperforms in search. Often, I’m handed a piece of content and asked, "How would you improve this?"
 
 There’s usually this expectation that I’ll come back with a list of fixes of adding new sections or a table of contents etc and maybe some of that stuff might help at the margins but it won't result in a step change in performance. 
 
