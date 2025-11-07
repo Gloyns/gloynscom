@@ -9,62 +9,73 @@ image_caption: ''
 tags: [ai, geo]
 ---
 
-<em>OK, first things first. I don't have my head in the sand :) Search optimisation is my livlihood but that's not limited to Google. These are my thoughts on the hype behind GEO/AIO and why I believe its sensible to take a step back and think about how you optimise for emerging platforms.</em>
+As generative AI becomes a common part of our workflow—often as an additive layer to traditional search—the question of 'GEO' (Generative Engine Optimisation) comes up a lot. And by a lot, I mean that I'm asked several times a day what we're doing about it.
 
-As more people use GPT tools and Google’s market share continues to be eaten into, I’ve had more and more people asking me about ‘GEO’ — Generative Engine Optimisation — and how they can get their content or brand showing up in tools like ChatGPT and Perplexity.
+There are two schools of thought on this. One camp, often looking to sell a new service IMO, is capitalizing on fear by positioning GEO as a complex, brand-new discipline.
 
-Whilst I can completely understand where this is coming from, a small part of me dies inside as even afters years and years of beating the drum that we 'optimise for users not engines', when the new platform comes along the first question comes from a minipulative mindset of how to chase an algorithm rather than understanding what people want.
+My view? It’s about 90% the same as the user-led, product-led SEO I've always practiced.
 
-<h2>The Engine Is Not Your Audience</h2>
+That other 10% isn't some secret new set of tactics. It's largely a symptom of these systems being in their infancy. Because today's LLMs are essentially retrieval systems training on existing web information, any source you control can influence them. This can make some changes feel more tangible or quicker to appear than we're used to with traditional SEO.
 
-What we’ve learnt over the years is that these systems always evolve. And with every iteration, they get better at aligning with what people actually want rather than what’s been gamed into their results. The gap between the tricks and trust gets smaller each time.
+But this isn't a long-term strategy and the core principles haven't changed. The temptation to find a new 'hack' for this new interface is still a tactic-first mindset. The better, more durable approach is a product-led and user-led one.
 
-Still, the temptation is understandable. A site might get a spike in visibility from something that seems to work well. But if the focus is on manipulating the system instead of creating something genuinely useful, that generally crashes pretty spectacularly. As a consultant I literally can't afford short term gains with crashes because I'd be fired.
+<h2>The Engine <em>Still</em> Isn't Your Audience</h2>
 
-But this 'designing for the engine instead of the person' mindset is still here. Maybe its human nature. How do I get the edge?
+What we’ve learned over decades is that these systems always evolve. With every iteration, they get better at aligning with what people actually want rather than what’s been gamed into the results.
 
-Whether it was Google in 2011 or GPT-5 in 2025, the mindset has been the same — find the flaw, fire your shot, and hope it lands. Like Luke Skywalker taking out the Death Star by nailing the exhaust port. Maybe I could coin a new phrase 'DSEO'... Death Star Engine Optimisation.
+This 'designing for the engine' mindset is still with us. How do I get the edge? Back in 2011, it worked. I remember spinning up a templated site on an exact-match domain, adding some basic copy, throwing spammy links at it, and ranking #1 by lunchtime. It was absurd. But the engines were simple, and it was easy to cheat them.
 
-And well...back in 2011, it worked. I remember one Saturday morning I bought an exact match domain, spun up a templated site with some basic copy, threw a few spammy links at it, and by lunchtime, I was ranking #1 and I'd made an affiliate sale by the end of the weekend. It was absurd. But the engines were simple, and it was too cheap and easy to cheat them.
+Those days are over. Chasing the quirks of this new AI interface is a fool's game, just as it was before.
 
-Those days are over. Today’s platforms, including Google search, are smarter, faster, and learning directly from how users interact with our content. Chasing the quirks of these models is a fools game.
+But then, I still see people posting about how they've got into an LLM answer with some tactic. Great - let me know if its still there in a few months.
 
-<h2>The Pace of Change Is Only Accelerating</h2>
+<h2>The Feedback Loop Just Got Tighter (And That's a Good Thing)</h2>
 
-Outside of some intense periods, we've generally become accustomed to Google algorithm updates every few months. There's been a few occassions where the bigger updates forced us to adapt, but we had time. We could run tests, observe patterns, reverse engineer, reflect and gradually shift strategies.
+We used to have months between major Google updates. We had time to test, observe patterns, and gradually shift strategies.
 
-That's gone.
+That’s gone.
 
-With AI systems, we’re not dealing with quarterly updates anymore. These models are being retrained, fine-tuned, and reinforced at a rate we’ve never seen before. 
+AI models are being retrained and fine-tuned at a rate we've never seen, reinforced by direct user feedback. If an AI surfaces your content and the user skips it, rephrases their question, or thumbs-down the response, the model learns.
 
-These models adapt not only on a system basis, but per user, based on how people interact with their outputs. If someone skips a response, rephrases their question, or asks for a source, that’s feedback. The model learns. The loop is tighter, the turnaround faster. And that means even if you manage to 'optimise' your way into visibility today, you’ll drop out just as fast if the content doesn’t deliver value to the user.
+This means that even if you do find a trick to get visible today, you’ll be edited out by tomorrow if your product (your content, your answer) doesn't actually deliver.
 
-Trying to stay one step ahead by guessing what the model wants is a race you’ll lose — because what the model wants is what people want. And people don’t reward fluff, misdirection, or content built purely to game a system. They reward usefulness.
+This is a good thing. It means you can't fake it anymore.
 
-<h2>Mid-Funnel Is the New Battleground</h2>
+The tactics to fool the system are dying and the real fundamentals become stronger;
 
-<img src="/images/funnel.png" loading="lazy">
+<ul>
+<li>A good product.</li>
+<li>A strong brand.</li>
+<li>Good customer service.</li>
+<li>Genuinely helpful content.</li>
+</ul>
 
-For years, content strategies have focused on two things: top-of-funnel visibility — chasing high-volume, broad awareness queries — and bottom-of-funnel conversion, optimising landing pages to generate leads or close sales. These stages have always been an easy sell for budget allocation: more traffic at the top, more conversions at the bottom.
+These create positive user feedback loops that the AI will learn to trust. You can't optimise a bad product into an AI recommendation for long.
 
-But AI is collapsing both ends of that funnel.
+<h2>The Messy Middle is Your Product's Proving Ground</h2>
 
-Top-of-funnel needs are now being handled by AI systems like Google’s AI Mode and ChatGPT. These tools can answer 'what is' or 'best X for Y' queries instantly, often better than traditional web content ever could. They summarise, contextualise, and personalise responses (without needing to scroll through a load of banner ads) — making much of that informational content redundant.
+I get the feeling that AI is collapsing the old funnel.
 
-Bottom-of-funnel queries — brand terms, pricing, transactional intent — are also being absorbed. AI Mode can surface these directly with links, brand panels, or instant answers. In many cases, branded content or PPC is more effective here than organic search.
+Top-of-funnel 'what is' queries are now handled instantly by AI and it can do it better than we can. It can summarise 10 articles into one clean answer, making much of that old, shallow awareness content redundant.
 
-This leaves the middle of the funnel — the messy middle — as the real opportunity. This is where users are weighing options, validating choices, comparing products, and building trust. These are the nuanced, high-intent, context-heavy queries that AI can’t fully answer — where people still need to explore, read, think, and decide.
+Bottom-of-funnel brand and pricing queries are also being absorbed and answered directly.
 
-If your content doesn’t help users make progress in that decision-making process — if it’s vague, shallow, or transparently self-serving — it won’t get surfaced. If an LLM can explain something better than you can (and do it in 5 seconds), you’re wasting your time. But if your content reflects real-world experience, user understanding, and helpful detail, you’ll stand out — not just to users, but to the systems themselves.
+This leaves the middle of the funnel, the messy middle, as the real opportunity. This is where users are weighing up options, validating choices, comparing products, and building trust. This is where your product-led mindset wins.
 
-This is the shift. Away from volume, toward value. Away from content designed to rank, toward content designed to help.
+<ul>
+<li>Can your product help them make a complex decision?</li>
+<li>Does it reflect real-world experience and helpful detail?</li>
+<li>Does it solve their problem in a way an LLM's generic summary cannot?</li>
+</ul>
+
+If an LLM can explain something better than you can, you’re wasting your time. But if your content reflects deep user understanding, you’ll stand out not just to users, but to the retrieval systems designed to serve them.
 
 <h2>So, What to Do Next?</h2>
 
-Firstly, ignore the hype and don't panic. 
+First, ignore the hype and don't panic. Forget trying to reverse-engineer language models.
 
-Forget trying to reverse-engineer language models or squeeze your way into GPT through any tricks. Sorry, I can't help you with that because the fundamentals haven’t changed — they’ve just become more important and harder to fake.
+For me, this is the same SEO I've always practiced. The fundamentals haven't changed; they’ve just become more important and harder to fake.
 
-Focus on creating content that earns its place — content that answers real questions, guides real decisions, and builds real trust. That means understanding your audience deeply, showing up in the messy middle with clear, in-depth advice, and being useful in a way that is difficult for others to replicate.
+Focus on your actual product. Focus on your customer. And focus on creating a content-product that earns its place by answering real questions, guiding real decisions, and building real trust.
 
-You don’t need to optimise for the engine. You need to optimise for the person the engine is trying to serve. The best strategies have always centred on understanding users, solving real problems, and helping people make confident decisions. The rise of AI and LLMs just reinforces that approach.
+You don't need to optimise for the engine. You need to be the best solution for the person the engine is trying to serve. That’s the only strategy that lasts.
