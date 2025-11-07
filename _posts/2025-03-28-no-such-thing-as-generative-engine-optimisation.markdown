@@ -9,7 +9,7 @@ image_caption: 'This image has nothing to do with GEO, but it is my baby goat Br
 tags: [ai, geo]
 ---
 
-As generative AI becomes a common part of our workflow—often as an additive layer to traditional search—the question of 'GEO' (Generative Engine Optimisation) comes up a lot. And by a lot, I mean that I'm asked several times a day what we're doing about it.
+As generative AI becomes a common part of our workflow - moreso as an additive layer to traditional search - the question of 'GEO' (Generative Engine Optimisation) comes up a lot. And by a lot, I mean that I'm asked several times a day what we're doing about it.
 
 There are two schools of thought on this. One camp, often looking to sell a new service IMO, is capitalizing on fear by positioning GEO as a complex, brand-new discipline.
 
