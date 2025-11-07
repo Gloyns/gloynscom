@@ -83,19 +83,18 @@ Most strategies today focus on visibility in AI engines (AEO/GEO/Other). But vis
 
 So, how do we weave this into our daily work?
 
-<ol><li>Add ‘Emotional State’ to Your Briefs Right alongside ‘User intent’, get the team to consider: What is the user feeling right now? Fear? Excitement? Confusion? Overwhelm? This will guide everything.</li>
-<ul>
-<li><strong>Example User Intent:</strong> The user needs clear guidance on what to wear for an interview to eliminate guesswork.
-
-<li><strong>Example Emotional State:</strong> The user is anxious and under pressure. They are looking for expert advice to boost their confidence and provide a sense of control.
-</ul>
-<li>Let Emotion Guide Your Tone and Structure. The user’s emotional state should directly influence your tone. If they’re anxious, your tone must be reassuring and build confidence. If they’re confused, it needs to be exceptionally clear. How you say it is just as important as what you’re saying.</li>
-
-<li>Map the Entire User Journey. A user's problem rarely ends with a single search. If a user is overwhelmed by 'what to wear', what’s their next problem? Probably 'common interview questions'. 
-
-Think about their 'Jobs To Be Done' and what emotional barriers they face at each step. Your content should guide them to that next solution.</li>
-
-<li>Compete on Utility. The best answer wins because it solves the problem better. Your content must be the solution.</li>
+<<ol>
+    <li>Add ‘Emotional State’ to Your Briefs Right alongside ‘User intent’, get the team to consider: What is the user feeling right now? Fear? Excitement? Confusion? Overwhelm? This will guide everything.
+        <ul>
+            <li><strong>Example User Intent:</strong> The user needs clear guidance on what to wear for an interview to eliminate guesswork.</li>
+            <li><strong>Example Emotional State:</strong> The user is anxious and under pressure. They are looking for expert advice to boost their confidence and provide a sense of control.</li>
+        </ul>
+    </li>
+    <li>Let Emotion Guide Your Tone and Structure. The user’s emotional state should directly influence your tone. If they’re anxious, your tone must be reassuring and build confidence. If they’re confused, it needs to be exceptionally clear. How you say it is just as important as what you’re saying.</li>
+    <li>Map the Entire User Journey. A user's problem rarely ends with a single search. If a user is overwhelmed by 'what to wear', what’s their next problem? Probably 'common interview questions'. 
+    <br><br>
+    Think about their 'Jobs To Be Done' and what emotional barriers they face at each step. Your content should guide them to that next solution.</li>
+    <li>Compete on Utility. The best answer wins because it solves the problem better. Your content must be the solution.</li>
 </ol>
 
 <h2>Why Empathy is Future Proof for SEO/GEO/AEO</h2>
