@@ -4,8 +4,8 @@ title: There’s No Such Thing as Generative Engine Optimisation, it's just SEO
 description: 
 date: 2025-03-19 09:30:35 +0500
 updated: 2025-05-21 08:00:35 +0500
-image: '/images/luke.jpg'
-image_caption: ''
+image: '/images/bryn.jpg'
+image_caption: 'This image has nothing to do with GEO, but it is my baby goat Bryn and I like him'
 tags: [ai, geo]
 ---
 
