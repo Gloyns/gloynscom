@@ -63,9 +63,9 @@ It's 'optimised' in a classic sense, but it's also robotic and misses the human 
 
 <h3>Here's the empathetic version (that gives a shit):</h3>
 
-<em>Whether it’s your first job, you’re returning to the workforce or you’re changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important.
+<em>Whether it’s your first job, you’re returning to the workforce or you’re changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important.</em>
 
-Before getting ready for your job interview, read this guide for tips... As you prepare for your interview, remember that no matter what you wear, you should aim to feel comfortable and confident.</em>
+<em>Before getting ready for your job interview, read this guide for tips. As you prepare for your interview, remember that no matter what you wear, you should aim to feel comfortable and confident.</em>
 
 See the difference?
 
