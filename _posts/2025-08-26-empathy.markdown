@@ -96,8 +96,9 @@ So, how do we weave this into our daily work?
 Think about their 'Jobs To Be Done' and what emotional barriers they face at each step. Your content should guide them to that next solution.</li>
 
 <li>Compete on Utility, Not Just Keywords. In a product-led world, you compete on actual utility. The best answer wins because it solves the problem better. Your content must be the solution.</li>
+</ol>
 
-<h2>This is Forever Future Proof</h2>
+<h2>Why Empathy is Future Proof for SEO/GEO/AEO</h2>
 
 The truth is, all platforms (Google, ChatGPT, Perplexity) have the same goal: they need to keep users on their platform. The only way to do that is to give them answers that are not just correct, but genuinely helpful and satisfying. They are all trending toward providing solutions, not just links.
 
