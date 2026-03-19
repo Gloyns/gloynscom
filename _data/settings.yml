@@ -25,7 +25,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Andrew Gloyns
-  author__bio: Helping businesses achieve a step-change in organic search & LLM performance with industry-leading expert strategy and support.
+  author__bio: Helping businesses achieve a step-change in organic search & AEO performance with industry-leading expert strategy and support.
   author__avatar: "/images/andrew-gloyns.webp"
 
 social:
@@ -49,7 +49,7 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: I’ve worked with some great сompanies
+  logos__title: Great brands I have worked with
 
 logo__items:
   - name: SEEK
@@ -64,9 +64,9 @@ logo__items:
     link: 
     image: "/images/newscorp.svg"
 
-  - name: Medibank
+  - name: Bupa
     link: 
-    image: "/images/medibank.svg"
+    image: "/images/bupa.svg"
 
   - name: ANZ
     link: 
