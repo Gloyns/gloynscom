@@ -1,0 +1,43 @@
+/* Services Page Hero */
+.services-page .page {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+.page-hero {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+
+.page-hero__label {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--primary-color);
+}
+
+.page-hero__title {
+  max-width: 500px;
+  margin-bottom: 28px;
+  font-size: 48px;
+  font-weight: 800;
+  line-height: 1.15;
+  color: var(--heading-font-color);
+
+  @media (max-width: $mobile) {
+    max-width: none;
+    font-size: 32px;
+  }
+}
+
+.page-hero__description {
+  max-width: 680px;
+  margin-bottom: 0;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text-alt-color);
+}

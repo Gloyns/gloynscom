@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<!-- begin services page -->
+<div class="container animate services-page">
+  <article class="page">
+    {{ content }}
+  </article>
+</div>
+
+{% include section-services.html label="What I offer" title="Find the right engagement for where you are." %}
+
+{% if site.data.settings.process.enable == true %}
+<!-- begin process -->
+<section class="section section-process">
+  <div class="container">
+    <div class="section__info">
+      <span class="process__label">{{ site.data.settings.process.process__label }}</span>
+      <h2 class="section__title">{{ site.data.settings.process.process__title }}</h2>
+    </div>
+
+    {% if site.data.settings.process.process__intro %}
+    <p class="process__intro">{{ site.data.settings.process.process__intro }}</p>
+    {% endif %}
+
+    <div class="process__list">
+      {% for step in site.data.settings.process__items %}
+      <div class="process__step">
+        <span class="process__number">{{ step.number }}</span>
+        <div class="process__content">
+          <h3 class="process__step-title">{{ step.title }}</h3>
+          <p class="process__step-description">{{ step.description }}</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- end process -->
+{% endif %}
+
+{% include section-cta.html %}
+<!-- end services page -->

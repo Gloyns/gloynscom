@@ -1,25 +1,23 @@
 #-------------------------------
 # Site Settings
 title: Andrew Gloyns - SEO Consultant
-logo: '/images/ag-logo.webp'
-description: Helping businesses achieve a step-change in organic search & LLM performance with industry-leading expert strategy and support.
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+logo: '/images/gloyns-logo.png'
+description: "Andrew Gloyns is an independent SEO and AI Search consultant helping ambitious brands grow their visibility across Google and AI answer engines."
+color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
 #-------------------------------
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'SEO Consulting'
+    - title: 'Services'
       url: '/consulting/'
-    - title: 'Case Studies'
+    - title: 'Case studies'
       url: '/work/'
     - title: 'Writing'
       url: '/blog/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
 
 #-------------------------------
 # Author Settings
@@ -49,32 +47,125 @@ hero:
 # Logos Settings
 logos:
   enable: true
-  logos__title: Great brands I have worked with
+  logos__title: Trusted by
 
 logo__items:
   - name: SEEK
-    link: 
-    image: "/images/seek.svg"
-
-  - name: Vic Gov
-    link: 
-    image: "/images/vic-gov.svg"
-
-  - name: NewsCorp
-    link: 
-    image: "/images/newscorp.svg"
-
-  - name: Bupa
-    link: 
-    image: "/images/bupa.svg"
+    image: "/images/seek-logo-f.png"
 
   - name: ANZ
-    link: 
-    image: "/images/anz.svg"
+    image: "/images/anz-logo-f.png"
+
+  - name: Bupa
+    image: "/images/bupa-logo-f.png"
+
+  - name: Victorian Government
+    image: "/images/vic-gov-logo-f.png"
 
   - name: Movember
-    link: 
-    image: "/images/movember.svg"
+    image: "/images/movember-logo-f.png"
+
+  - name: Nine
+    image: "/images/nine-logo-f.png"
+
+  - name: Flybuys
+    image: "/images/flybuys-logo-f.png"
+
+  - name: Go1
+    image: "/images/go1-logo-f.png"
+
+  - name: Clayton Utz
+    image: "/images/clayton-utz-logo-f.png"
+
+  - name: IronEdge
+    image: "/images/ironedge-logo-f.png"
+
+#-------------------------------
+# Value Props Settings
+valueprops:
+  enable: true
+
+valueprop__items:
+  - title: "Built around the user. Not the algorithm."
+    description: "Search engines and AI systems are both trying to serve users. It's always been that simple and it's why my approach always works regardless of how search evolves over time."
+
+  - title: "Trusted by the industry to set the standard."
+    description: "A judge at the <a href='https://www.globalsearchawards.net/' target='_blank'>Global Search Awards</a> and <a href='https://www.apacsearchawards.com/' target='_blank'>APAC Search Awards</a> — one of a small number of practitioners recognised at the highest level of the industry."
+
+  - title: "Relationships built on results."
+    description: "My average client tenure is seven years. I think that comes down to doing honest work, getting real results, and treating the relationship as seriously as the brief."
+
+#-------------------------------
+# Services Settings
+services:
+  enable: true
+  services__label: How I work with you
+  services__title: "The right kind of support, at the right level."
+  services__footnote: "Also available: <a href='/consulting/adhoc/'>adhoc consulting</a> (hourly) · <a href='/consulting/expert-witness/'>SEO expert witness</a>"
+
+service__items:
+  - badge: "Retainer"
+    badge_style: "retainer"
+    title: "AI Search Visibility"
+    description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface — built on the same user-first principles as great SEO."
+
+  - badge: "Retainer"
+    badge_style: "retainer"
+    title: "Embedded Search Partner"
+    description: "I sit inside your team — onsite or remote — owning search strategy across SEO, AEO, content, and measurement. Roadmap, execution, and the hard conversations."
+
+  - badge: "Project"
+    badge_style: "project"
+    title: "Search Strategy"
+    description: "A defined engagement mapping your landscape and handing you a prioritised roadmap across both traditional and AI search."
+
+  - badge: "Project"
+    badge_style: "project"
+    title: "Site Migration"
+    description: "Hundreds of migrations over 15+ years. Minimise risk, maximise opportunity, and support through launch and beyond."
+
+  - badge: "Project"
+    badge_style: "project"
+    title: "Traffic Recovery"
+    description: "If you've taken an unexpected hit — algorithmic, technical, or otherwise — I find the cause and build the path back."
+
+  - badge: "Agency"
+    badge_style: "dark"
+    title: "Creative Agency Partner"
+    description: "The senior search expert your agency brings in for clients who need that depth. White-label or named — whatever works."
+
+#-------------------------------
+# Process Settings
+process:
+  enable: true
+  process__label: How I work with clients
+  process__title: "Every engagement starts the same way."
+  process__intro: "Before I make a single recommendation, I need to understand your business — your users, your team, your history, and your constraints. That understanding is what separates a generic roadmap from one your team can actually execute."
+
+process__items:
+  - number: "01"
+    title: "Discovery"
+    description: "I get to know your business properly — what you've tried, what's worked, and what hasn't. <strong>The answers shape everything that follows.</strong>"
+
+  - number: "02"
+    title: "Competitive analysis"
+    description: "I map the landscape across traditional and AI search — where the opportunity exists and where your brand has the right to win."
+
+  - number: "03"
+    title: "Roadmap"
+    description: "A clear, prioritised plan — ordered by impact and feasibility, mapped to your team's actual capacity. <strong>Not a list of recommendations. A plan you can execute.</strong>"
+
+  - number: "04"
+    title: "Working with your team"
+    description: "I work directly with your marketers, developers, and product managers — not hand over a document and hope for the best."
+
+  - number: "05"
+    title: "Technical architecture"
+    description: "I get the foundations right — crawlability, structure, schema, performance — so search engines and AI systems can find and understand what you do."
+
+  - number: "06"
+    title: "Iteration and improvement"
+    description: "Search isn't a project with an end date. I measure, learn, and adapt — constantly finding new opportunities and improving on what's working."
 
 #-------------------------------
 # Newsletter
@@ -89,8 +180,57 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__title: Case Studies
-  work__description: Here's some examples of some of my work with Clients
+  work__label: Case Studies
+  work__title: "Results that speak for themselves."
+
+casestudy__items:
+  - name: "SEEK"
+    logo: "/images/seek-logo-white.png"
+    video: "/images/seek-career-advice-napoleon-dynamite.mp4"
+    industry: "Recruitment"
+    engagement: "Embedded Search Partner"
+    title: "From zero to 1M+ monthly clicks for SEEK's Career Advice"
+    description: "User-first content strategy, SEO architecture, and close collaboration with product and editorial teams — built from scratch."
+    metric: "1M+"
+    metric_description: "monthly organic clicks"
+    quote: "Andrew's approach fundamentally changed how we thought about content. The results speak for themselves."
+    quote_author: "Head of Content, SEEK"
+    url: "/work/seek/"
+
+  - name: "RateMyAgent"
+    logo: "/images/rma-logo-white.png"
+    image: "/images/rma-cover.jpg"
+    industry: "Real Estate"
+    engagement: "Embedded Search Partner"
+    title: "10x organic growth to dominate real estate agent reviews"
+    description: "Programmatic SEO, technical improvements, and structured data reversed declining traffic into sustained market dominance."
+    metric: "10x"
+    metric_description: "organic traffic growth"
+    url: "/work/ratemyagent/"
+
+  - name: "ArtsHub"
+    logo: "/images/artshub-white.png"
+    image: "/images/artshub-cover.jpeg"
+    industry: "Arts & Media"
+    engagement: "Project"
+    title: "8x organic growth for ArtsHub without breaking subscriptions"
+    description: "Strategic sampling, structured data, and a careful CMS migration solved the paywall visibility problem without losing subscribers."
+    metric: "8x"
+    metric_description: "organic traffic increase"
+    quote: "We'd been stuck for years. Andrew found the answer we'd missed and delivered results we didn't think were possible."
+    quote_author: "CEO, ArtsHub"
+    url: "/work/artshub/"
+
+  - name: "CreativeCubes"
+    logo: "/images/creative-cubes-white.webp"
+    video: "/images/creative-cubes.mp4"
+    industry: "Flexible Office Space"
+    engagement: "Project"
+    title: "Helping CreativeCubes achieve 100% occupancy across Melbourne"
+    description: "Local SEO, structured data, and a more considered paid approach filled the space and laid the groundwork for expansion."
+    metric: "100%"
+    metric_description: "occupancy in 12 months"
+    url: "/work/creativecubes/"
 
 
 #-------------------------------
@@ -163,13 +303,24 @@ blog:
   enable: true
 
 blog__settings:
-  blog__title: Musings
-  blog__description: I don’t write that often, but every now and then, a few ideas stick with me long enough that I put them down here.
+  blog__label: Writing
+  blog__title: "Thinking out loud."
+
+#-------------------------------
+# CTA Settings
+cta:
+  enable: true
+  cta__title: "Ready to talk about where your search is heading?"
+  cta__button_1_text: "Get in touch"
+  cta__button_1_url: "/contact/"
+  cta__button_2_text: "Schedule a call"
+  cta__button_2_url: "https://calendly.com/gloyns/discovery-call"
 
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-footer_acknowledgement: I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live, learn and work. I honour and pay my respects to elders past, present and future. Australia was and always will be Aboriginal land.
+footer_acknowledgement: "I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live and work. This country has been cared for over thousands of years. I am proud to play my small part in continuing that care \u2014 for the land, the trees, and the animals that share it."
+footer_acknowledgement_2: "I pay my respects to elders past, present and future."
 
 #-------------------------------
 # Contact Settings

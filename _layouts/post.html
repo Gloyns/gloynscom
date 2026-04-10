@@ -2,132 +2,177 @@
 layout: default
 ---
 
-<div class="container">
-  <div class="post-head">
+{% assign words = page.content | number_of_words %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{ site.url }}{{ page.url }}#article",
+      "headline": {{ page.title | jsonify }},
+      "description": {% if page.description %}{{ page.description | jsonify }}{% else %}{{ page.content | strip_html | truncate: 160 | jsonify }}{% endif %},
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      {% if page.updated %}"dateModified": "{{ page.updated | date_to_xmlschema }}",{% else %}"dateModified": "{{ page.date | date_to_xmlschema }}",{% endif %}
+      "mainEntityOfPage": {
+        "@id": "{{ site.url }}{{ page.url }}#webpage"
+      },
+      "author": {
+        "@id": "https://gloyns.com/#/schema/person/andrewgloyns"
+      },
+      "publisher": {
+        "@id": "https://gloyns.com/#organization"
+      },
+      {% if page.image %}"image": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ page.image }}",
+        "contentUrl": "{{ site.url }}{{ page.image }}"
+      },{% endif %}
+      "wordCount": {{ words }},
+      "inLanguage": "en-GB",
+      "keywords": [{% for tag in page.tags %}"{{ tag }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}#webpage",
+      "url": "{{ site.url }}{{ page.url }}",
+      "name": {{ page.title | jsonify }},
+      "isPartOf": {
+        "@id": "https://gloyns.com/#website"
+      },
+      "breadcrumb": {
+        "@id": "{{ site.url }}{{ page.url }}#breadcrumb"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ site.url }}{{ page.url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://gloyns.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Writing",
+          "item": "https://gloyns.com/blog/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.title | jsonify }}
+        }
+      ]
+    }
+  ]
+}
+</script>
 
-    <div class="post-info">
+<!-- Article Hero (dark navy) -->
+<div class="article-hero">
+  <div class="container">
+    <a href="/blog/" class="article-hero__back">&larr; All writing</a>
 
-      {% if page.tags.size >= 1 %}
-        <div class="post-tags">
-          {% for tag in page.tags %}
-            <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="post-tag">{{ tag }}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
+    {% if page.tags.size >= 1 %}
+    <div class="article-hero__tags">
+      {% for tag in page.tags %}
+        <span class="article-hero__tag">{{ tag | upcase }}</span>
+      {% endfor %}
+    </div>
+    {% endif %}
 
-      <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="article-hero__title">{{ page.title | escape }}</h1>
 
-      {% if page.description %}
-        <div class="post-description">{{ page.description }}</div>
-      {% endif %}
-
-      <div class="post-meta">
-        <div class="post-meta__left">
-          <a href="{{site.baseurl}}/about/" class="post-author-image">
-            <img class="lazy" data-src="{{site.data.settings.author.author__avatar}}" alt="{{site.data.settings.author.author__name}}">
-          </a>
-       <div class="post-meta__bottom">
-  <a class="post-author-name" href="{{ site.baseurl }}/about/">{{ site.data.settings.author.author__name }}</a>
-  <span class="post-date">
-    Published: <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time>
-     – {% assign words = page.content | number_of_words %}
-    {% if words < 360 %} 1 min read {% else %} {{ words | divided_by:180 }} min read {% endif %}
-  </span>
+    <div class="article-hero__meta">
+      <span class="article-hero__author">{{ site.data.settings.author.author__name }}</span>
+      <span class="article-hero__sep">&middot;</span>
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %Y" }}</time>
+      <span class="article-hero__sep">&middot;</span>
+      <span>{% if words < 360 %}1 min read{% else %}{{ words | divided_by:180 }} min read{% endif %}</span>
+    </div>
+  </div>
 </div>
-        </div>
 
-        <div class="post-meta__right">
-          <div class="post-share">
-            <ul class="share__list list-reset">
-              <!-- Bluesky Share Button -->
-              <li class="share__item">
-                <a class="share__link share__bluesky"
-                  href="https://bsky.app/intent/compose?text={{ page.title | uri_escape }}%20{{ site.url }}{{ site.baseurl }}{{ page.url }}"
-                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                  title="Share on Bluesky" rel="nofollow">
-                  <svg width="1em" height="1em" fill="black" viewBox="0 0 600 530" xmlns="http://www.w3.org/2000/svg">
-                    <path d="m135.72 44.03c66.496 49.921 138.02 151.14 164.28 205.46 26.262-54.316 97.782-155.54 164.28-205.46 47.98-36.021 125.72-63.892 125.72 24.795 0 17.712-10.155 148.79-16.111 170.07-20.703 73.984-96.144 92.854-163.25 81.433 117.3 19.964 147.14 86.092 82.697 152.22-122.39 125.59-175.91-31.511-189.63-71.766-2.514-7.3797-3.6904-10.832-3.7077-7.8964-0.0174-2.9357-1.1937 0.51669-3.7077 7.8964-13.714 40.255-67.233 197.36-189.63 71.766-64.444-66.128-34.605-132.26 82.697-152.22-67.108 11.421-142.55-7.4491-163.25-81.433-5.9562-21.282-16.111-152.36-16.111-170.07 0-88.687 77.742-60.816 125.72-24.795z"/>
-                  </svg>
-                </a>
-              </li>
-              <!-- LinkedIn Share Button -->
-              <li class="share__item">
-                <a class="share__link share__linkedin"
-                  href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}&title={{ page.title | uri_escape }}&summary={{ page.description | uri_escape }}&source={{ site.title | uri_escape }}"
-                  onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
-                  title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
-              </li>
-            </ul>
-          </div>
+<!-- Article Content + Sidebar -->
+<div class="container animate">
+  <div class="post-layout">
+
+    <article class="post">
+      {{ content }}
+    </article>
+
+    <aside class="post-sidebar">
+      <div class="post-sidebar__author">
+        <div class="post-sidebar__avatar">
+          <img src="{{ site.data.settings.author.author__avatar }}" alt="{{ site.data.settings.author.author__name }}">
         </div>
+        <h3 class="post-sidebar__name">{{ site.data.settings.author.author__name }}</h3>
+        <p class="post-sidebar__bio">Search consultant. Occasional goat wrangler.</p>
+        <a href="https://calendly.com/gloyns/discovery-call" class="post-sidebar__cta" target="_blank" rel="noopener">Schedule a call</a>
       </div>
 
-    </div>
-
-    {%if page.image %}
-    <div class="post-image">
-      <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-    </div>
-    {% if page.image_caption %}
-    <div class="post-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
-    {% endif %}
-    {%endif %}
+      <nav class="post-sidebar__toc" id="post-toc">
+        <span class="post-sidebar__toc-label">In this article</span>
+        <ul class="post-sidebar__toc-list" id="toc-list"></ul>
+      </nav>
+    </aside>
 
   </div>
 </div>
 
-<!-- begin post -->
-<div class="container animate">
-  <article class="post">
-    {{ content }}
-  </article>
-</div>
-<!-- end post -->
-
-<div class="container animate">
-  <div class="post__navigation">
-    {% if page.previous.url %}
-    <div class="post__prev">
-      <a href="{{page.previous.url}}" class="prev__image">
-        <img class="lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{ page.title }}">
-      </a>
-      <div class="prev__box">
-        <span class="post__nav post__nav__prev">Older post</span>
-        <h2 class="post__nav__title"><a href="{{page.previous.url}}">{{page.previous.title}}</a></h2>
-        <p class="post__nav__excerpt">
-          {% if page.previous.description %}{{ page.previous.description }}{% else %}{{ page.previous.content | strip_html | truncate: 160 }}{%
-          endif %}
-        </p>
+<!-- Next Article -->
+{% if page.next.url %}
+<div class="article-next">
+  <div class="container">
+    <div class="article-next__inner">
+      <div>
+        <span class="article-next__label">Next</span>
+        <h3 class="article-next__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
       </div>
+      <a href="{{ page.next.url }}" class="article-next__arrow"><span>&rarr;</span></a>
     </div>
-    {% endif %}
-
-    {% if page.next.url %}
-    <div class="post__next">
-      <div class="next__box">
-        <span class="post__nav post__nav__next">Newer post</span>
-        <h2 class="post__nav__title"><a href="{{page.next.url}}">{{page.next.title}}</a></h2>
-        <p class="post__nav__excerpt">
-          {% if page.next.description %}{{ page.next.description }}{% else %}{{ page.next.content | strip_html | truncate: 160 }}{%
-          endif %}
-        </p>
-      </div>
-      <a href="{{page.next.url}}" class="next__image">
-        <img class="lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{ page.title }}">
-      </a>
-    </div>
-    {% endif %}
   </div>
-</div>
-
-<div id="bluesky-comments"></div>
-
-{% if site.data.settings.disqus.disqus__identifier and site.data.settings.disqus.enable == true %}
-<div class="container animate">
- 
-  {% include disqus-comments.html %}
 </div>
 {% endif %}
 
-{% include related-posts.html %}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var headings = document.querySelectorAll('.post h2');
+  var tocList = document.getElementById('toc-list');
+  if (headings.length === 0 || !tocList) {
+    var toc = document.getElementById('post-toc');
+    if (toc) toc.style.display = 'none';
+    return;
+  }
+  headings.forEach(function(heading, i) {
+    if (!heading.id) heading.id = 'heading-' + i;
+    var li = document.createElement('li');
+    var a = document.createElement('a');
+    a.href = '#' + heading.id;
+    a.textContent = heading.textContent;
+    li.appendChild(a);
+    tocList.appendChild(li);
+  });
 
+  var tocLinks = tocList.querySelectorAll('a');
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry) {
+      if (entry.isIntersecting) {
+        tocLinks.forEach(function(link) {
+          link.parentElement.classList.remove('is-active');
+        });
+        var active = tocList.querySelector('a[href="#' + entry.target.id + '"]');
+        if (active) active.parentElement.classList.add('is-active');
+      }
+    });
+  }, { rootMargin: '0px 0px -70% 0px', threshold: 0 });
+
+  headings.forEach(function(heading) {
+    observer.observe(heading);
+  });
+});
+</script>

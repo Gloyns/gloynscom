@@ -2,8 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
-  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
+  <title>{% if page.url == "/" %}SEO & AI Search Consultant - Andrew Gloyns{% elsif page.title %}{{ page.title }} - Andrew Gloyns{% else %}{{ site.data.settings.title }}{% endif %}</title>
+  <meta name='description' content='{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 145 }}{% else %}{{ site.data.settings.description }}{% endif %}'>
   <meta name="google-site-verification" content="W2J3aYUPOWpUQIXZ8fDLX7j94F-qSeeibz57HLQmtaw" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.data.settings.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
@@ -56,5 +56,61 @@
 <link rel="preload" rel="stylesheet" href="/assets/css/lite-yt-embed.css" as="style" onload="this.rel='stylesheet'">
 <link rel="preload" rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.rel='stylesheet'">
 <script defer src="https://cdn.overtracking.com/t/tMBJYEJ8xpY2BBlfX/"></script>
+
+<!-- Sitewide Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://gloyns.com/#website",
+      "url": "https://gloyns.com/",
+      "name": "Gloyns Consulting",
+      "description": "SEO & AI Search Consulting",
+      "publisher": {
+        "@id": "https://gloyns.com/#organization"
+      },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://gloyns.com/#organization",
+      "name": "Gloyns Consulting",
+      "url": "https://gloyns.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://gloyns.com/#/schema/logo/image/",
+        "url": "https://gloyns.com/images/gloyns-logo.png",
+        "contentUrl": "https://gloyns.com/images/gloyns-logo.png",
+        "caption": "Gloyns Consulting"
+      },
+      "founder": {
+        "@id": "https://gloyns.com/#/schema/person/andrewgloyns"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gloyns.com/#/schema/person/andrewgloyns",
+      "name": "Andrew Gloyns",
+      "givenName": "Andrew",
+      "familyName": "Gloyns",
+      "url": "https://gloyns.com/",
+      "jobTitle": "SEO & AI Search Consultant",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://gloyns.com/images/andrew-gloyns.webp",
+        "contentUrl": "https://gloyns.com/images/andrew-gloyns.webp"
+      },
+      "worksFor": { "@id": "https://gloyns.com/#organization" },
+      "sameAs": [
+        "https://www.linkedin.com/in/andrewgloyns/",
+        "https://x.com/gloyns",
+        "https://bsky.app/profile/gloyns.com"
+      ]
+    }
+  ]
+}
+</script>
 
 </head>

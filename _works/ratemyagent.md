@@ -1,78 +1,66 @@
 ---
-title: 10x Organic Growth to Dominate Real Estate Agent Reviews
-description: RateMyAgent faced a decline in organic traffic, threatening its growth as a platform for real estate agents to manage their personal branding. Through strategic programmatic SEO, technical improvements, and innovative solutions like structured data and Google Posts, I helped double organic traffic in just 12 months, scaling to over 10 million annual clicks and securing RateMyAgent’s position as the market leader in real estate agent reviews.
+title: 10x organic growth to dominate real estate agent reviews
+description: RateMyAgent had been told more pages meant better SEO. It didn't. Changing that mindset — and then rebuilding on a foundation of quality — is what took the platform from stalling to market leader.
 services: 'Programmatic SEO, Enterprise SEO'
 industry: 'Real Estate'
 client: RateMyAgent
 region: 'Australia, New Zealand, USA'
-image: '/images/rma-g.png'
-image_caption: 'Credit: RMA Global Annual Report FY24'
+image: '/images/rma-cover.jpg'
 logo: '/images/rma-logo.png'
-clientdescription: RateMyAgent connects real estate agents with consumers, offering tools to help agents manage their personal branding and build credibility through client reviews. By providing consumers with a transparent way to evaluate agents, RateMyAgent helps them make informed decisions when buying or selling property.
+logo_white: '/images/rma-logo-white.png'
+hero_image: '/images/rma-cover.jpg'
+clientdescription: RateMyAgent connects real estate agents with consumers through verified reviews.
+stats:
+  - value: "10x"
+    label: "Organic traffic growth"
+  - value: "10M+"
+    label: "Annual organic clicks"
+  - value: "8 years"
+    label: "Working with the team"
 ---
 
+## The challenge
 
-## The Challenge
+### The pint glass is full — but how much of it is beer, and how much is froth?
 
-After experiencing impressive growth since its inception, RateMyAgent’s organic traffic had stalled and begun to decline dramatically. The platform faced a significant challenge in maintaining visibility in Google search results.
+When I started working with RateMyAgent, the team had been told by their previous agency that more pages meant better SEO. The logic felt intuitive: more pages, more coverage, more chances to rank. In practice, what it meant was thousands of pages with little to no real value — thin content that Google had no reason to surface, and that users had no reason to visit. The glass was full of froth.
 
-The agency supporting RateMyAgent at the time lacked both the strategic advice and the technical expertise needed to address these issues. Without the right guidance, RateMyAgent struggled to regain momentum, putting its growth trajectory at risk
+RateMyAgent had built something genuinely useful — a platform connecting buyers and sellers with real estate agents through verified reviews. The product was good. The SEO strategy wasn't serving it.
 
-RateMyAgent needed a strategy that could rapidly build a competitive product while scaling efficiently and driving tangible results.
+## The approach
 
-## The Strategy
+### Changing the mindset
 
-### Enabled Google to Crawl the Site Quickly and Effectively
+Before anything technical could improve, the way the team thought about SEO had to change. The instinct to add more — more pages, more content, more coverage — needed to give way to a focus on quality and user value.
 
-* Implemented a self-hosted pre-render solution to resolve issues with Google crawling and understanding JavaScript content.
-* Allowed RateMyAgent to publish content quickly and scalably, ensuring improved indexing and visibility.
-* Removed the need for Google to perform the additional step of rendering dynamic JavaScript content, enabling faster and more accurate processing of the text on each page.
+My analogy that stuck: if you don't have the content people are actually looking for, why would Google care about your page? A lot of what was on the site wasn't answering real questions from real users. It was content for its own sake.
 
-### Improving Site Quality
+A significant amount of content was removed. Not reluctantly — deliberately, and with a clear framework for what stayed and what went. The measure wasn't volume. It was whether a page had something genuine to offer a consumer trying to find the right real estate agent.
 
-* Collaborated with the UX team to refine template layouts and enhance the quality of information on the site.
-* Managed which pages Google could crawl and index, prioritising high-quality, valuable pages.
+### Refocusing on the consumer
 
-### Integrating Advanced Structured Data for Entity Mapping
+RateMyAgent's product served agents — helping them build their personal brand through reviews. But the people searching were consumers: buyers and sellers trying to evaluate agents before trusting them with one of the biggest transactions of their lives.
 
-* Ensured comprehensive entity mapping throughout the site to improve Google’s understanding of relationships between agents, reviews, and locations.
-* Utilised structured data to build a cohesive semantic framework, allowing Google to better interpret and represent entities in search results and the Knowledge Graph.
-* Strengthened the site’s authority by aligning structured data with Google’s evolving focus on entity-based search.
+The shift was to design the content and the product experience around that consumer. What does someone need to know when choosing an agent? What makes a review useful? What context — suburb knowledge, transaction volume, client feedback — actually helps someone make a better decision? Answering those questions properly, and structuring the site around them, is what gave the pages real value.
 
-### Expanding Beyond Traditional Listings
+### Building the technical foundation
 
-* Integrated Google Posts for Agents, automating the formatting of reviews to display directly in search results.
-* Empowered agents to gain additional placements in Google SERPs and Maps.
+The site was heavily reliant on JavaScript-rendered content, which created a significant crawling and indexing problem. Google had to perform an extra rendering step before it could understand any page — slow, unreliable, and a bottleneck on growth. Moving to server-side rendering removed that friction and gave Google direct access to the content.
 
-### Collaboration with Domain
+Entity mapping through structured data followed — connecting agents, reviews, suburbs, and agencies in a way that gave Google a clear picture of how everything related to each other. This strengthened representation in search results and the Knowledge Graph, and opened up enriched SERP features that had previously been unavailable.
 
-* Negotiated and implemented a partnership with Domain, Australia’s second-largest property portal.
-* Ensured SEO was integrated into the collaboration, benefiting both platforms and driving traffic growth.
+### Expanding the platform
 
-### Scaling Across Regions
+With the Australian strategy proven, the model was adapted for New Zealand and the United States — where RateMyAgent competes with established players including Zillow and Realtor. Each market required its own approach, but the principles were the same: understand what consumers in that market actually need, and build content that serves them genuinely.
 
-* Adapted the successful strategy to expand into New Zealand and the USA, competing with industry giants like Zillow and Realtor.
+## The outcome
 
+### 10x growth — and a quote that lives rent free
 
+Organic traffic has grown more than 10x, from 1 million to over 10 million annual clicks. RateMyAgent is now the market leader in Australia and is growing internationally, with over 350,000 agents, 10,000 agencies and offices, and 2.7 million client reviews on the platform.
 
-## The Results
+But the outcome I'm proudest of isn't a metric. It's something the team's tech lead said in a presentation, recalling a conversation from six years earlier:
 
-### Doubling Organic Traffic
+> "No gimmicks, no one weird tricks, just be consistently good. He is like every personal trainer I have never listened to. Andrew saying: 'If you don't have the content people are looking for, why would Google care about your page?' Lives in my head, rent free."
 
-Within 12 months of implementing the strategy, organic traffic doubled, growing from 1 million to 2 million clicks per month. This growth has continued, with RateMyAgent now achieving over 10 million annual organic clicks.
-
-### Market Growth
-
-RateMyAgent is now the market leader in Australia, and growing globally, with:
-
-* Over 350,000 agents using the platform.
-* More than 10,000 agencies and offices represented.
-* A total of 2.7 million client reviews, up from just 100,000 several years ago.
-
-### Increased Agent Engagement
-
-The platform’s features, including SEO visibility metrics and enriched Google profiles, have empowered agents to take control of their personal branding. These features have become integral to the product and a key driver of agent retention and satisfaction.
-
-### International Expansion
-
-The success of the strategy has enabled RateMyAgent to expand internationally. The platform now competes with industry leaders like Zillow and Realtor in the USA, proving its ability to adapt and scale globally.
+That's what eight years of working with a genuinely excellent team looks like.

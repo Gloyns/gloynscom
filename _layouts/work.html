@@ -2,118 +2,87 @@
 layout: default
 ---
 
-<div class="work-head">
+<!-- Case Study Hero -->
+<div class="cs-hero">
   <div class="container">
-
-    <div class="row">
-      {% if page.image %}
-      <div class="col col-5 col-d-12">
-        <div class="work-head__left">
-          <div class="work-head__image">
-            <img class="lazy" data-src="{{site.baseurl}}{{page.image}}" alt="{{page.title}}">
-          </div>
-          {% if page.image_caption %}
-          <div class="page-image-caption">{{ page.image_caption | markdownify | replace: '<p>' | replace: '</p>' }}</div>
-          {% endif %}
+    <a href="/work/" class="cs-hero__back">&larr; All case studies</a>
+    <div class="cs-hero__inner">
+      <div class="cs-hero__left">
+        <div class="cs-hero__tags">
+          {% if page.industry %}<span>{{ page.industry | upcase }}</span>{% endif %}
+          {% if page.services %}<span class="cs-hero__tag-sep">&middot;</span><span>{{ page.services | upcase }}</span>{% endif %}
         </div>
+        <h1 class="cs-hero__title">{{ page.title }}</h1>
+        {% if page.description %}
+        <p class="cs-hero__description">{{ page.description }}</p>
+        {% endif %}
       </div>
-      {% endif %}
-
-      <div class="col col-7 col-d-12">
-        <div class="work-head__right">
-          <h1 class="page-title">{{ page.title }}</h1>
-          {% if page.description %}
-          <p class="page-description">{{ page.description }}</p>
+      <div class="cs-hero__right">
+        <div class="cs-hero__media">
+          {% if page.hero_video %}
+          <video autoplay muted loop playsinline preload="auto">
+            <source src="{{ page.hero_video }}" type="video/mp4">
+          </video>
+          {% elsif page.hero_image %}
+          <img src="{{ page.hero_image }}" alt="{{ page.title }}">
+          {% elsif page.image %}
+          <img src="{{ page.image }}" alt="{{ page.title }}">
           {% endif %}
-          <ul class="work-meta list-reset">
-            {% if page.region %}
-            <li class="work-meta__item"><strong>Region:</strong> <span> {{ page.region }}</span></li>
+          <div class="cs-hero__media-overlay">
+            {% if page.hero_video %}
+            <span class="cs-hero__video-badge">&#9654; Video</span>
             {% endif %}
-            {% if page.industry %}
-            <li class="work-meta__item"><strong>Industry:</strong> <span> {{ page.industry }}</span></li>
+            {% if page.logo_white %}
+            <div class="cs-hero__media-logo">
+              <img src="{{ page.logo_white }}" alt="{{ page.client }}">
+            </div>
             {% endif %}
-            {% if page.services %}
-            <li class="work-meta__item"><strong>Services:</strong> <span> {{ page.services }}</span></li>
-            {% endif %}
-          </ul>
+          </div>
         </div>
       </div>
     </div>
 
+    {% if page.stats %}
+    <div class="cs-hero__stats">
+      {% for stat in page.stats %}
+      <div class="cs-hero__stat">
+        <span class="cs-hero__stat-value">{{ stat.value }}</span>
+        <span class="cs-hero__stat-label">{{ stat.label }}</span>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
 </div>
 
+<!-- Case Study Content -->
 <div class="container animate">
-
-  {% if page.logo or page.clientdescription %}
-  <div class="client-info">
-    {% if page.logo %}
-    <div class="client-logo">
-      <img src="{{ page.logo }}" alt="Logo">
-    </div>
-    {% endif %}
-    {% if page.clientdescription %}
-    <div class="client-description">
-      <p>{{ page.clientdescription }}</p>
-    </div>
-    {% endif %}
-  </div>
-  {% endif %}
-  
-  <div class="page">
+  <article class="cs-content">
     {{ content }}
-  </div>
-  
+  </article>
+</div>
 
-  <section class="section work-navigation">
-    <div class="row">
-
-      <div class="col col-12">
-        <div class="section__info">
-          <div class="section__head">
-            <h2 class="section__title">Next</h2>
-          </div>
-        </div>
-
-        <div class="row">
-          {% if page.previous.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.previous.url }}" class="work__image">
-                <img class="lazy" data-src="{{ page.previous.image }}" alt="{{ page.previous.title }}">
-              </a>
-              <div class="work__info">
-                {% if page.previous.category %}
-                <div class="work__category">{{ page.previous.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
-                {% if page.previous.category %}
-                <p class="work__description">{{ page.previous.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endif %}
-          {% if page.next.url %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ page.next.url }}" class="work__image">
-                <img class="lazy" data-src="{{ page.next.image }}" alt="{{ page.next.title }}">
-              </a>
-              <div class="work__info">
-                {% if page.next.category %}
-                <div class="work__category">{{ page.next.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
-                {% if page.next.category %}
-                <p class="work__description">{{ page.next.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endif %}
-        </div>
+<!-- Next Case Study -->
+{% if page.next.url %}
+<div class="cs-next">
+  <div class="container">
+    <div class="cs-next__inner">
+      <div>
+        <span class="cs-next__label">Next case study</span>
+        <h3 class="cs-next__title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></h3>
       </div>
     </div>
-  </section>
+  </div>
 </div>
+{% elsif page.previous.url %}
+<div class="cs-next">
+  <div class="container">
+    <div class="cs-next__inner">
+      <div>
+        <span class="cs-next__label">Next case study</span>
+        <h3 class="cs-next__title"><a href="{{ page.previous.url }}">{{ page.previous.title }}</a></h3>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}

@@ -1,45 +1,45 @@
 {% if site.data.settings.work.enable == true %}
 <!-- begin works -->
-<div class="container">
-  <section class="section works animate">
-    <div class="row">
+<section class="section works animate">
+  <div class="container">
 
-      <div class="col col-4 col-d-12">
-        <div class="section__info">
-          <h2 class="section__title">{{ site.data.settings.work.work__title }}</h2>
-          {% if site.data.settings.work.work__description %}
-          <p class="section__description">{{ site.data.settings.work.work__description }}</p>
-          {% endif %}
-          <a href="{{ '/work/' | relative_url }}" class="section__link">Show all case studies <i class="ion ion-md-arrow-forward"></i></a>
-        </div>
-      </div>
-
-      <div class="col col-8 col-d-12">
-        <div class="row">
-          {% assign sorted = site.works | sort: 'date' | reverse %}
-          {% for work in sorted limit:4 %}
-          <article class="work col col-6 col-d-12">
-            <div class="work__content">
-              <a href="{{ work.url }}" class="work__image">
-                <img class="lazy" data-src="{{ site.baseurl }}{{ work.image }}" alt="{{ site.baseurl }}{{ work.title }}">
-              </a>
-              <div class="work__info">
-                {% if work.category %}
-                <div class="work__category">{{ work.category }}</div>
-                {% endif %}
-                <h3 class="work__title"><a href="{{ work.url }}">{{ work.title }}</a></h3>
-                {% if work.description %}
-                <p class="work__description">{{ work.description }}</p>
-                {% endif %}
-              </div>
-            </div>
-          </article>
-          {% endfor %}
-        </div>
-      </div>
-
+    <div class="section__info">
+      <span class="works__label">{{ site.data.settings.work.work__label }}</span>
+      <h2 class="section__title">{{ site.data.settings.work.work__title }}</h2>
     </div>
-  </section>
-</div>
+
+    <div class="works__grid">
+      {% for item in site.data.settings.casestudy__items %}
+      <a href="{{ item.url }}" class="works__card">
+        <div class="works__card-media">
+          {% if item.video %}
+          <video autoplay muted loop playsinline preload="auto">
+            <source src="{{ item.video }}" type="video/mp4">
+          </video>
+          {% elsif item.image %}
+          <img src="{{ item.image }}" alt="{{ item.name }}" loading="lazy">
+          {% endif %}
+        </div>
+        <div class="works__card-logo">
+          <img src="{{ item.logo }}" alt="{{ item.name }}">
+        </div>
+        <div class="works__card-body">
+          <span class="works__card-tag">{{ item.industry }}</span>
+          <h3 class="works__card-title">{{ item.title }}</h3>
+          <div class="works__card-footer">
+            <span class="works__card-metric">{{ item.metric }}</span>
+            <span class="works__card-link">Read case study <span>&rarr;</span></span>
+          </div>
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+
+    <div class="works__footer">
+      <a href="{{ '/work/' | relative_url }}" class="section__link">See all case studies <i class="ion ion-md-arrow-forward"></i></a>
+    </div>
+
+  </div>
+</section>
 <!-- end works -->
 {% endif %}

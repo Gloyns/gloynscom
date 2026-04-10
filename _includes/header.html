@@ -1,70 +1,151 @@
 <!-- begin header -->
 <header class="header">
-  <div class="container-big">
-    <div class="row">
-      <div class="header__inner col col-12">
+  <div class="container">
+    <div class="header__inner">
 
-        <div class="logo">
-          <a class="logo__link" href="{{ site.baseurl }}/">
-          {% if site.data.settings.logo %}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
-          {% else %}
-            {{ site.data.settings.title }}
-          {% endif %}
-          </a>
+      <div class="logo">
+        <a class="logo__link" href="{{ site.baseurl }}/">
+        {% if site.data.settings.logo != '' and site.data.settings.logo %}
+          <img class="logo__image" src="{{ site.baseurl }}{{ site.data.settings.logo }}" alt="{{ site.data.settings.title }}">
+        {% else %}
+          gloyns.
+        {% endif %}
+        </a>
+      </div>
+
+      <nav class="main-nav" id="main-nav">
+        <ul class="nav__list">
+          <li class="nav__item nav__item--dropdown">
+            <button class="nav__link nav__link--services{% if page.url contains '/consulting/' %} is-active{% endif %}" id="services-toggle" aria-expanded="false">
+              Services
+              <svg class="nav__chevron" width="10" height="6" viewBox="0 0 10 6" fill="none"><path d="M1 1L5 5L9 1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+          </li>
+          <li class="nav__item">
+            <a href="/work/" class="nav__link{% if page.url contains '/work/' %} is-active{% endif %}">Case studies</a>
+          </li>
+          <li class="nav__item">
+            <a href="/blog/" class="nav__link{% if page.url contains '/blog/' %} is-active{% endif %}">Writing</a>
+          </li>
+          <li class="nav__item">
+            <a href="/about/" class="nav__link{% if page.url contains '/about/' %} is-active{% endif %}">About</a>
+          </li>
+          <li class="nav__item nav__item--mobile-cta">
+            <a href="/contact/" class="nav__link{% if page.url == '/contact/' %} is-active{% endif %}">Contact</a>
+          </li>
+        </ul>
+      </nav>
+
+      <a href="/contact/" class="nav__cta{% if page.url == '/contact/' %} is-active{% endif %}">Contact</a>
+
+      <div class="nav-button">
+        <div class="hamburger" id="hamburger">
+          <div></div>
         </div>
+      </div>
 
-        <nav class="main-nav">
-          <div class="main-nav__box">
-            <ul class="nav__list list-reset">
+    </div>
+  </div>
 
-              {% for item in site.data.settings.menu__settings.menu__items %}
-                {% if item.submenu %}
-                <li class="nav__item dropdown">
-                  <span class="nav__link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
-                  <div class="dropdown-menu">
-                    {% for submenu-item in item.submenu %}
-                      <a href="{{ submenu-item.url }}" class="nav__link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
-                    {% endfor %}
-                  </div>
-                </li>
-                {% else %}
-                <li class="nav__item">
-                  <a href="{{ item.url | relative_url }}" class="nav__link{% if page.url == item.url %} active-link{% endif %}">{{ item.title }}</a>
-                </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
+  <!-- Services Dropdown -->
+  <div class="services-dropdown" id="services-dropdown">
+    <div class="container">
+      <div class="services-dropdown__grid">
+        <a href="/consulting/ai-search-visibility/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">AI Search Visibility</span>
+            <span class="services-dropdown__desc">Why your SEO might not translate to AI platforms</span>
           </div>
-        </nav>
-
-        <div class="nav-button">
-          <div class="hamburger">
-            <div></div>
+        </a>
+        <a href="/consulting/embedded-search-partner/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">Embedded Search Partner</span>
+            <span class="services-dropdown__desc">A single voice of truth on search, inside your team</span>
           </div>
-          {% if site.data.settings.color_scheme == "auto" %}
-          <div class="toggle-theme toggle-theme-js">
-            <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+        </a>
+        <a href="/consulting/seo-strategy/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">SEO Strategy</span>
+            <span class="services-dropdown__desc">Know exactly where to focus and why</span>
           </div>
-          {% elsif site.data.settings.color_scheme == "light" %}
-          <div class="toggle-theme theme-light">
-            <div class="toggle-sun" title="Light mode"><i class="ion ion-ios-sunny"></i></div>
+        </a>
+        <a href="/consulting/site-migration/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">Site Migration</span>
+            <span class="services-dropdown__desc">Move your site without losing what you've built</span>
           </div>
-          {% elsif site.data.settings.color_scheme == "dark" %}
-          <div class="toggle-theme theme-dark">
-            <div class="toggle-moon" title="Dark mode"><i class="ion ion-ios-moon"></i></div>
+        </a>
+        <a href="/consulting/traffic-recovery/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">Traffic Recovery</span>
+            <span class="services-dropdown__desc">Dig deep. Be honest. Build the path back</span>
           </div>
-          {% else %}
-          <div class="toggle-theme toggle-theme-js">
-            <div class="toggle-moon" title="Enable dark mode"><i class="ion ion-ios-moon"></i></div>
-            <div class="toggle-sun" title="Enable light mode"><i class="ion ion-ios-sunny"></i></div>
+        </a>
+        <a href="/consulting/agency-partner/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">Agency Partner</span>
+            <span class="services-dropdown__desc">A senior search partner your agency can count on</span>
           </div>
-          {% endif %}
-        </div>
-
+        </a>
+        <a href="/consulting/adhoc/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">Adhoc Consulting</span>
+            <span class="services-dropdown__desc">A direct line to 15+ years of search experience</span>
+          </div>
+        </a>
+        <a href="/consulting/expert-witness/" class="services-dropdown__item">
+          <span class="services-dropdown__dot"></span>
+          <div>
+            <span class="services-dropdown__name">SEO Expert Witness</span>
+            <span class="services-dropdown__desc">Independent SEO expertise for legal proceedings</span>
+          </div>
+        </a>
+      </div>
+      <div class="services-dropdown__footer">
+        <a href="/consulting/" class="services-dropdown__all">See all services &rarr;</a>
       </div>
     </div>
   </div>
 </header>
+
+<script>
+(function() {
+  var toggle = document.getElementById('services-toggle');
+  var dropdown = document.getElementById('services-dropdown');
+  if (!toggle || !dropdown) return;
+
+  toggle.addEventListener('click', function(e) {
+    e.preventDefault();
+    var open = dropdown.classList.contains('is-open');
+    if (open) {
+      dropdown.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    } else {
+      dropdown.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+    }
+  });
+
+  document.addEventListener('click', function(e) {
+    if (!dropdown.contains(e.target) && !toggle.contains(e.target)) {
+      dropdown.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape') {
+      dropdown.classList.remove('is-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+  });
+})();
+</script>
 <!-- end header -->

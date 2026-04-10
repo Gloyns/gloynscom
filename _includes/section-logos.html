@@ -4,22 +4,25 @@
   <div class="container">
     <div class="row">
       <div class="col col-12">
-
         <div class="section__info">
           <h2 class="section__small__title">{{ site.data.settings.logos.logos__title }}</h2>
         </div>
-
-        <ul class="logos__list list-reset">
-          {% for logo in site.data.settings.logo__items %}
-          <li class="logos__item">
-            <a href="{{ logo.link }}" class="logos__link" rel="noopener">
-              <img src="{{ site.baseurl }}{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-
       </div>
+    </div>
+  </div>
+
+  <div class="logos__marquee">
+    <div class="logos__track">
+      {% for logo in site.data.settings.logo__items %}
+      <div class="logos__item">
+        <img src="{{ site.baseurl }}{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+      </div>
+      {% endfor %}
+      {% for logo in site.data.settings.logo__items %}
+      <div class="logos__item">
+        <img src="{{ site.baseurl }}{{ logo.image }}" alt="{{ logo.name }}" class="logos__image">
+      </div>
+      {% endfor %}
     </div>
   </div>
 </section>

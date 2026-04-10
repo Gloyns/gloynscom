@@ -1,39 +1,73 @@
 ---
 layout: default
-title: SEO Case Studies
-description: See how I help businesses achieve exceptional organic growth with tailored SEO strategies and proven results.
+title: Case Studies
+description: "Case studies from 15+ years of SEO and AI search consulting. Real results for brands like SEEK, RateMyAgent, and ArtsHub."
+permalink: /work/
 ---
 
-<div class="container">
-  <div class="page-section-head">
-    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.work.work__title }}{% endif %}</h1>
-    {% if page.description %}
-      <p class="page-description">{{ page.description }}</p>
-    {% else site.data.settings.work.work__description %}
-      <p class="page-description">{{ site.data.settings.work.work__description }}</p>
-    {% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "https://gloyns.com/work/#webpage",
+      "url": "https://gloyns.com/work/",
+      "name": "SEO Case Studies",
+      "isPartOf": { "@id": "https://gloyns.com/#website" },
+      "description": "Results across industries — SEO case studies from SEEK, RateMyAgent, ArtsHub, CreativeCubes and more.",
+      "breadcrumb": { "@id": "https://gloyns.com/work/#breadcrumb" },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gloyns.com/work/#breadcrumb",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gloyns.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Case Studies" }
+      ]
+    }
+  ]
+}
+</script>
+
+<div class="container animate">
+  <div class="casestudies-hero">
+    <h1 class="casestudies-hero__label">Case Studies</h1>
+    <h2 class="casestudies-hero__title">Different clients, different problems. Same starting point.</h2>
+    <p class="casestudies-hero__description">The industries change, the clients change, the briefs change. What doesn't: start with what the user actually needs, and everything else follows.</p>
   </div>
 </div>
 
-<div class="work-page container animate">
-  <div class="row">
-    {% for work in site.works reversed %}
-      <article class="work col col-4 col-d-6 col-t-12">
-        <div class="work__content">
-          <a href="{{ work.url }}" class="work__image">
-            <img class="lazy" data-src="{{ work.image }}" alt="{{ work.title }}">
-          </a>
-          <div class="work__info">
-            {% if work.category %}
-            <div class="work__category">{{ work.category }}</div>
-            {% endif %}
-            <h3 class="work__title"><a href="{{ work.url }}">{{ work.title }}</a></h3>
-            {% if work.description %}
-            <p class="work__description">{{ work.description }}</p>
-            {% endif %}
-          </div>
+<div class="container animate">
+  <div class="casestudies">
+    {% for item in site.data.settings.casestudy__items %}
+    <div class="casestudy-card">
+      <div class="casestudy-card__image">
+        {% if item.video %}
+        <video autoplay muted loop playsinline>
+          <source src="{{ item.video }}" type="video/mp4">
+        </video>
+        {% else %}
+        <img src="{{ item.image }}" alt="{{ item.name }}" loading="lazy">
+        {% endif %}
+        <div class="casestudy-card__logo">
+          <img src="{{ item.logo }}" alt="{{ item.name }}" loading="lazy">
         </div>
-      </article>
+      </div>
+      <div class="casestudy-card__body">
+        <div class="casestudy-card__tags">
+          <span>{{ item.industry }}</span>
+          <span class="casestudy-card__tag-sep">&middot;</span>
+          <span>{{ item.engagement }}</span>
+        </div>
+        <h3 class="casestudy-card__title"><a href="{{ item.url }}">{{ item.title }}</a></h3>
+        <p class="casestudy-card__description">{{ item.description }}</p>
+        <div class="casestudy-card__footer">
+          <a href="{{ item.url }}" class="casestudy-card__link">Read case study <span>&rarr;</span></a>
+        </div>
+      </div>
+    </div>
     {% endfor %}
   </div>
 </div>

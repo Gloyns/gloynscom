@@ -1,39 +1,33 @@
 /* Hero */
 .hero {
+  padding-top: 60px;
+  padding-bottom: 20px;
+
   .row {
     justify-content: space-between;
     align-items: center;
   }
-}
-
-.hero__avatar {
-  width: 120px;
-  height: 120px;
-  margin-bottom: 20px;
-  border-radius: 50%;
-  overflow: hidden;
-  will-change: transform;
-  user-select: none;
-  background-color: var(--background-alt-color);
-
-  @media (max-width: $wide) {
-    margin-bottom: 16px;
-  }
 
   @media (max-width: $desktop) {
-    margin-bottom: 12px;
+    padding-top: 30px;
   }
+}
 
-  @media (max-width: $mobile) {
-    width: 100px;
-    height: 100px;
-  }
+.hero__label {
+  display: inline-block;
+  margin-bottom: 24px;
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--primary-color);
 }
 
 .hero__title {
-  margin-bottom: 20px;
+  margin-bottom: 28px;
   font-size: 62px;
   font-weight: 800;
+  line-height: 1.1;
   color: var(--heading-font-color);
 
   @media (max-width: $wide) {
@@ -46,12 +40,13 @@
 }
 
 .hero__description {
-  margin-bottom: 10px;
-  font-size: 21px;
+  margin-bottom: 0;
+  font-size: 19px;
+  line-height: 1.7;
   color: var(--text-alt-color);
 
   @media (max-width: $wide) {
-    font-size: 20px;
+    font-size: 18px;
   }
 
   @media (max-width: $desktop) {
@@ -59,63 +54,47 @@
   }
 }
 
-.hero__subscribe {
-  margin-top: 28px;
+.hero__buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 40px;
 
-  .subscribe-form {
-    display: flex;
-    flex-wrap: wrap;
-  }
-
-  .subscribe-email {
-    width: 100%;
-    flex: 1;
-    margin-right: 8px;
-    padding: 24px 28px;
+  .button--primary {
+    padding: 18px 36px;
     font-size: 16px;
-    line-height: 21px;
-    border: 1px solid var(--border-color);
+    font-weight: 600;
     border-radius: 60px;
-    outline: 0;
-    color: var(--heading-font-color);
-    background-color: var(--background-alt-color);
+    color: #fff;
+    background-color: var(--primary-color);
+    text-decoration: none;
+    transition: opacity 0.2s;
 
-    &:focus {
-      border-color: var(--primary-color);
-      box-shadow: inset 0 0 0 1px var(--primary-color);
-      background-color: transparent;
-    }
-
-    &::placeholder {
-      color: var(--text-alt-color);
+    &:hover {
+      opacity: 0.85;
     }
   }
 
-  @media (max-width: $desktop) {
-    margin-top: 20px;
+  .button--outline {
+    padding: 18px 36px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 60px;
+    border: 2px solid var(--border-color);
+    color: var(--heading-font-color);
+    background: transparent;
+    text-decoration: none;
+    transition: border-color 0.2s;
 
-    .subscribe-email {
-      padding: 20px 24px;
+    &:hover {
+      border-color: var(--heading-font-color);
     }
   }
 
   @media (max-width: $mobile) {
-
-    .subscribe-form {
-      display: flex;
-      flex-direction: column;
-    }
-
-    .subscribe-email {
-      padding: 20px;
-      margin-right: 0;
-      margin-bottom: 12px;
-    }
-
-    .subscribe-button {
-      position: relative;
-      top: 0;
-      right: 0;
+    .button--primary,
+    .button--outline {
+      padding: 16px 28px;
     }
   }
 }
@@ -124,27 +103,13 @@
   position: relative;
 
   &::before {
-    content: "";
-    position: absolute;
-    display: block;
-    width: 100%;
-    height: 100%;
-    margin-top: 32px;
-    margin-left: -32px;
-    border-radius: $global-radius;
-    background-color: var(--primary-color);
-    opacity: .3;
-    filter: blur(20px);
+    content: none;
   }
 
   @media (max-width: $desktop) {
     order: -1;
     max-width: 100%;
     margin-top: 40px;
-
-    &::before {
-      content: none;
-    }
   }
 }
 
@@ -152,10 +117,11 @@
   position: relative;
   transform: translate(0);
   width: 100%;
-  aspect-ratio: 1/1.2;
-  border-radius: $global-radius;
+  max-width: 380px;
+  margin-left: auto;
+  aspect-ratio: 4/5;
+  border-radius: 20px;
   overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
   background-color: var(--background-alt-color);
   user-select: none;
 
@@ -168,19 +134,17 @@
     object-fit: cover;
   }
 
-  @supports not (aspect-ratio: 1/1.2) {
-    padding-bottom: 120%;
+  @supports not (aspect-ratio: 4/5) {
+    padding-bottom: 125%;
   }
 
   @media (max-width: $desktop) {
+    max-width: 320px;
+    margin: 0 auto;
     aspect-ratio: 1/1;
 
     @supports not (aspect-ratio: 1/1) {
       padding-bottom: 100%;
     }
   }
-}
-
-.hero__left .form__group {
-  margin-top: 40px; /* Adds space between the paragraph text and the buttons */
 }

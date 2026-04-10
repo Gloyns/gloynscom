@@ -1,0 +1,28 @@
+{% if site.data.settings.services.enable == true %}
+<!-- begin services -->
+<section class="section services">
+  <div class="container">
+
+    <div class="section__info">
+      <span class="services__label">{% if include.label %}{{ include.label }}{% else %}{{ site.data.settings.services.services__label }}{% endif %}</span>
+      <h2 class="section__title">{% if include.title %}{{ include.title }}{% else %}{{ site.data.settings.services.services__title }}{% endif %}</h2>
+    </div>
+
+    <div class="services__grid">
+      {% for item in site.data.settings.service__items %}
+      <div class="services__card">
+        <span class="services__badge {% if item.badge_style %}services__badge--{{ item.badge_style }}{% endif %}">{{ item.badge }}</span>
+        <h3 class="services__card__title">{{ item.title }}</h3>
+        <p class="services__card__description">{{ item.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+
+    {% if site.data.settings.services.services__footnote %}
+    <p class="services__footnote">{{ site.data.settings.services.services__footnote }}</p>
+    {% endif %}
+
+  </div>
+</section>
+<!-- end services -->
+{% endif %}

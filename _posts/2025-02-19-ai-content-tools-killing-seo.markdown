@@ -1,170 +1,101 @@
 ---
 layout: post
-title: AI Content Optimisation Tools Are Killing Your SEO
-description: 
+title: "Why optimising for what's already ranking produces the same content as everyone else"
+description: "AI content optimisation tools are efficient. They're also making every piece of content look, sound, and read the same. That's a problem."
 date: 2025-02-19 08:30:35 +0500
-updated: 025-02-19 08:30:35 +0500
+updated: 2025-02-19 08:30:35 +0500
 image: '/images/malkovich.jpg'
-image_caption: 'Warning: This post contains references to Being John Malkovich, which is a fantastic movie. If you haven’t seen it, I highly recommend it. It’s must-see viewing. Now, let’s explain why you dont want to be John Malkovich'
+image_caption: "Warning: This post contains references to Being John Malkovich, which is a fantastic movie. If you haven't seen it, I highly recommend it. It's must-see viewing. Now, let's explain why you dont want to be John Malkovich"
 tags: [content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 
-Imagine stepping through a mysterious portal, only to find yourself inside John Malkovich - except instead of inhabiting the mind of Malkovich, you’re trapped in an SEO landscape where every piece of content looks, sounds, and reads the same.
+When every piece of content is shaped by the same tools, scanned against the same top-ranking pages, and told to fill the same gaps — it starts to look, sound, and read the same. Which is exactly the problem.
 
-You’re no longer the awkward one in the corner, nervously sipping your drink and playing with your puppet strings. You haven’t said the wrong thing because, well, there is no wrong thing...everyone is saying the exact same thing. 
+AI content optimisation tools like Clearscope, Surfer SEO, and MarketMuse take what's already ranking, identify what's missing, and tell you to add it. The result is a search results page full of content that's indistinguishable from itself. And when everything looks the same, Google — like the rest of us — goes looking for something different.
 
-It’s a perfectly optimised content experience… and it’s absolutely bloody awful.
+Imagine stepping through a portal, only to find yourself in a world where every piece of content looks, sounds, and reads identically. You're not the awkward one in the corner anymore. There is no wrong thing — everyone is saying the exact same thing. It's a perfectly optimised content experience. And it's absolutely awful.
 
-This is what’s happening to SEO with AI content optimisation tools such as Clearscope, Surfer SEO and MarketMuse. 
+This is what's happening to SEO right now.
 
-They take what’s already ranking, identify the gaps, and tell you to fill them in, ensuring your content blends seamlessly into the mix. The result? A SERP full of clones, indistinguishable from one another.
+![Being John Malkovich](/images/malkovich.jpg)
 
-And when everything looks and sounds the same, nothing stands out. 
+## Why AI content optimisation tools became popular
 
-Google, like a frustrated John Malkovich stuck in a room of endless versions of himself, starts searching for something, anything, different.
+For years, many SEOs relied heavily on TF-IDF — Term Frequency-Inverse Document Frequency — a statistical method for calculating how important a word is within a document compared to a larger set. This was believed to help search engines determine keyword relevance, and it allowed content tools to tell writers exactly which terms they were missing to match top-ranking pages.
 
-Or, as Malkovich himself would say:
+Then came BERT in 2018, which improved how Google understood context, intent, and natural language. Content optimisation tools evolved to match: scan the top-ranking pages, identify gaps, and tell writers to fill them.
 
-<lite-youtube videoid="luZ9IQO980o"></lite-youtube>
+![Example of Clearscope's tool identifying missing terms](/images/clearscope-matrix.png)
 
->It’s MY head, Schwartz! It’s MY head!
+For a while, this worked well. Businesses scaled content production efficiently, and Google rewarded well-structured, well-optimised content.
 
-If your content strategy is just about mirroring what’s already ranking, then you’re just another Malkovich in a world of Malkoviches, not offering anything unique, just repeating what’s already there.
+But then everyone started doing it.
 
-And that’s a problem.
+## From keyword matching to value-driven content
 
-<h2>Why AI Content Optimisation Tools Became Popular</h2>
+Recognising the flood of generic, formulaic content and the declining satisfaction of search results, Google pivoted. The Helpful Content Updates of 2022 and beyond shifted the dial toward originality and real usefulness.
 
-Bear with me for a minute while I go a little technical to give you some context.
+This is where the flaw in AI-driven content optimisation became apparent. These tools weren't built to add expertise, originality, or unique insight. They were built to mimic what was already ranking. The more brands leaned in, the more their content became indistinguishable from everything else. And when Google adjusted its systems to prioritise originality and genuine expertise, many of those sites saw their traffic collapse.
 
-For years, many SEOs relied heavily on something called ‘TF-IDF’ (Term Frequency-Inverse Document Frequency) - a statistical method that calculates how important a word is within a document compared to a larger set of documents. 
+## It's not the tool's fault. It's the strategy.
 
-This approach was believed to help search engines determine keyword relevance and allowed content optimisation tools to tell content creators exactly which terms they were ‘missing’ to match top-ranking pages. 
+This isn't an attack on any specific tool, and results depend heavily on how they're used. In the right hands they can do good.
 
-Then came BERT in 2018, which improved how Google understood context, intent, and natural language. This meant that it was important to also consider user intent -  making sure content matched user queries in a more meaningful way.
+But the results are hard to ignore. Many sites that adopted these tools heavily have seen organic traffic decline. And while some have seen short-term growth, the content often looks formulaic in a way that raises questions about its longevity. Here are a few examples worth looking at.
 
-At this point, content optimisation tools became super popular. They scanned the top-ranking pages, identified gaps in content, and told writers to add those missing terms to improve search performance. The idea was simple: if Google’s algorithm was rewarding pages that contained certain words, then making your content match those patterns should make it rank better.
+![Malkovich queue scene](/images/malkovich-queue.jpg)
 
-<img src="/images/clearscope-matrix.png" loading="lazy">
-*An example of Clearscope's tool identifying the missing terms from an article vs ranking sites*
+## G2: a cautionary tale
 
-And for a while, this approach worked really well. AI-driven content tools helped businesses scale content production efficiently, and Google rewarded well-structured, well-optimised content. But there was a problem - everyone started doing it. 
+According to G2's own case study, they used a content optimisation tool to shift focus toward user intent, aiming for a more meaningful content approach. In theory, a sensible move.
 
-The Internet became flooded with algorithmically fine-tuned but utterly generic and boring content.
+In practice, the results tell a different story. Back in 2020, G2's Learning Hub was pulling around 900,000 organic visits. Today that number has fallen to around 55,000 — a 94% drop. Some traffic migrated to their articles section, which saw gains until the Helpful Content Update arrived in September 2023 and reversed much of that too.
 
-<h2>From Keyword Matching to Value-Driven Content</h2>
+![G2 organic traffic decline](/images/g2-traffic.png)
 
-Recognising the flood of this generic, formulaic content, and decreasing user satisfaction with search results Google pivoted away from pure text relevance and toward actual usefulness.
+A closer look at their content raises questions. One of their top-ranking articles is "What Is Cached Data?" — a topic entirely disconnected from G2's core authority as a software comparison platform. They tried to optimise for search but created content misaligned with their actual expertise. The result was a dramatic loss of organic visibility.
 
-The <a href="https://developers.google.com/search/blog/2022/08/helpful-content-update">Helpful Content Updates</a> in 2022 and beyond nullified this approach. Instead of rewarding perfectly optimised content, Google turned the dial up on unique perspectives.
+## Hotjar: chasing scores, losing traffic
 
-This is where the flaw in AI-driven content optimisation became apparent. These tools weren’t built to add expertise, originality, or unique insights. They were instead built to mimic what was already ranking. 
+Hotjar's approach involved identifying gaps in existing content, making it more evergreen, and optimising for higher scores — believing that better scores would translate to better rankings.
 
-The more businesses leaned into AI-driven content optimisation, the more their content became indistinguishable from everything else on the SERPs. And when Google adjusted its ranking systems to prioritise originality and real expertise, many of those AI-optimised sites saw their traffic collapse.
+For a while, between 2020 and 2023, that appeared to work. Then, in March 2023, their organic traffic dropped by 50%. March 2023 corresponds with Google's increased emphasis on real expertise and originality. Hotjar's content wasn't truly differentiated. When the criteria shifted, the strategy collapsed.
 
+![Hotjar organic traffic decline](/images/hubspot-traffic.png)
 
-<h2>It’s Not the Portal’s Fault, It’s Yours</h2>
+## Toast: traffic without relevance
 
-<img src="/images/malkovich-queue.jpg" loading="lazy">
+ToastTab is a genuine traffic success story on paper. Between 2020 and now, their blog grew from 900 pages and 70,000 clicks to 3,300 pages and nearly 500,000 clicks.
 
-I should be clear, this isn’t a personal attack on any specific tool/product and I wholeheartely accept that the success that these tools can deliver is mostly based on how they are used. I've no doubt in the right hands they can be used for good, but sadly the results speak for themselves.
+But when you look at what's actually ranking, things get interesting. A significant portion of their traffic comes from coffee quotes, tea quotes, and food-related captions — content with almost no connection to their core product, which is restaurant management software. Around 20-25% of their traffic appears to come from food quote listicles.
 
-In practice, it is hard to ignore that many of the sites that have adopted these tools and approach have seen their organic traffic decline. 
+![ToastTab traffic growth](/images/toasttab-traffic.png)
 
-Conversely, there are also sites that have seen a dramatic increase in organic traffic however, if you look under the hood, this content is somewhat formulaic, bland and I question whether it will stand the test of time.
+![ToastTab article content examples](/images/toasttab-articles.png)
 
-To assist, I've reviewed a few examples of Customer case studies from the Clearscope website. Again, this isn’t targeted at Clearscope, Im just using their customer stories as examples of implementation and results.
+Is someone reading "best low-calorie alcoholic drinks to order at a bar" likely to become a paying Toast customer? The traffic is real. The relevance isn't. And content built around filling gaps rather than serving an actual audience tends to age poorly.
 
+## The real problem: content without empathy
 
-<h2>G2.com: El Colapso</h2>
+What frustrates me about this approach isn't the tools themselves. It's the mindset behind them: optimising for what the tool says to say, rather than genuinely thinking about what would help the person reading it.
 
-According to their <a href="https://www.clearscope.io/customers/g2" rel="nofollow">case study</a>, prior to engaging a content-optimisation tool, G2 aggressively chased organic traffic at all costs but then used the tool to shift focus toward user intent, aiming for a more meaningful content approach. 
+There's no real care in that process. No consideration of what the reader is actually trying to figure out, what they're feeling, or what would make their situation better. It's a race to the middle — content written not to inform, engage, or inspire, but simply to rank.
 
-In theory, this sounds like a great move. However, looking at the data and the content being published, the implementation and results tell a different story.
+History tells us that doesn't last.
 
-<img src="/images/g2-traffic.png" loading="lazy">
+## Focus on information gain instead
 
-Back in 2020, G2’s Learning Hub was estimated to be pulling in around 900,000 organic visits. Fast forward to today, and that number has plummeted to around 55,000 - a drop of 94%.
+Search engines and LLMs have already been trained on vast amounts of publicly available data. What they need now is fresh perspectives, new insights, and evolving conversations.
 
-It appears some of this traffic was shifted over to the articles section of the site which enjoyed some gains….until the Helpful Content Update came along in September 23 and also shot it in the knees.
+That's why Google partnered with Reddit. Reddit discussions aren't optimised articles chasing keyword scores — they're people sharing lived experiences, real opinions, and genuine insight. More original than most optimised content.
 
-So what happened? A closer look at their content strategy raises some questions. While the shift to user intent sounds logical, their execution is debatable. For example, one of their top-ranking articles is ‘What Is Cached Data?’ - a topic that, while informational, seems disconnected from G2’s core authority as a software comparison platform. 
+AI content tools don't create new ideas. They scan what's ranking, identify what's different, and tell you to add it. That's the opposite of what search systems are increasingly looking for.
 
-Is this really the kind of content that aligns with their users’ intent, or is it just another attempt to capture generic search queries? Isn't this what they were supposed to not be doing?
+## Stand out or blend in. Your choice.
 
-In other words, G2 may have tried to optimise for search, but in doing so, they created content that doesn’t align with their actual expertise. The result? A massive decline in organic visibility.
+If you follow AI-driven optimisation tools blindly — tweaking your content to fit what's already ranking — you might see short-term gains. But in the long run, you become just another version of the same thing.
 
-Now, strategies, personnel and people change over time however 5 years is a reasonable period of time to demonstrate the effectiveness of a content strategy.
+Google isn't looking for more of the same. It's looking for originality, genuine expertise, and real value. Content that doesn't add anything new, challenge the norm, or engage its audience meaningfully will eventually be ignored.
 
-<h2>Hotjar: Chasing Scores, Losing Traffic</h2>
-
-Hotjar’s blog provides another clear example of how AI-driven content optimisation doesn’t always lead to sustainable SEO success. 
-
-<a href="https://www.clearscope.io/customers/hotjar" rel="nofollow">Their strategy</a> involved identifying gaps in their existing content, making it more ‘evergreen’, and adjusting their content to achieve higher ClearScope scores - believing that improving these scores would directly translate to better performance.
-
-And for a while, it did. From 2020-2023, Hotjar saw growth, suggesting their approach was working. But then, in March 2023, everything changed. Since then, their organic traffic has dropped by 50%.
-
-<img src="/images/hubspot-traffic.png" loading="lazy">
-
-So what happened? Well, March 2023 lines up with Google’s E-E-A-T (Experience, Expertise, Authoritativeness, and Trust) update.
-
-The problem with Hotjar’s approach was that they weren’t creating truly authoritative, differentiated content. When Google prioritised real expertise and originality, this strategy collapsed.
-
-<h2>ToastTab.com: A Traffic Success Story with a Relevance Problem</h2>
-
-I have to admit, when I first saw Toast, I got excited - unfortunately, this isn’t a case study on a <a href="https://www.youtube.com/watch?v=t97eE2fst4A">failed actor and voiceover artist with questionable life choices</a>. 
-
-Instead, ToastTab is a genuine SEO success story in traffic at all costs.
-
-Between March 2020 and now, their blog has exploded in size, growing from 900 pages and 70,000 clicks to 3,300 pages and nearly 500,000 clicks. That’s a huge increase, and by the numbers alone, it looks like a job well done. 
-
-<img src="/images/toasttab-traffic.png" loading="lazy">
-
-<a href="https://www.clearscope.io/customers/toast" rel="nofollow">Toast used ClearScope</a> to scale their content production significantly, identifying gaps and achieving great efficiencies in their efforts to scale content.
-
-ToastTab.com might be riding high on traffic now, but if they’re not careful, they’re on track to go from lovely golden and crispy toast to charred and inedible (somewhere between 3 and 3.1 on my toaster).
-
-Once you dig into the keywords these articles are ranking for, things start to look a little off. A significant chunk of traffic comes from coffee quotes, tea quotes, and food-related captions - essentially, lightweight, engagement-driven content with little real connection to their core expertise. 
-
-<img src="/images/toasttab-articles.png" loading="lazy">
-
-In fact, 20-25% of their traffic seems to be coming from food quote listacles alone. Other high-traffic posts include ‘What time does alcohol stop selling?’ and ‘Best low-calorie alcoholic drinks to order at a bar.’
-
-Now, let’s step back. Toast is a restaurant software provider. Does content about coffee quotes really align with their audience at any point in their journey? Is someone reading ‘Best low-calorie alcoholic drinks’ likely to convert into a paying customer at any point in time?
-
-To be fair, some of their content - like ‘How much is a food truck?’ - does make some sense for their audience. But much of their strategy seems focused on scaling traffic at all costs, rather than creating content that directly serves their target market.
-
-The problem with AI-driven optimisation is that it often focuses on finding gaps in search rather than aligning content with audience needs. Yes, ToastTab has successfully identified and filled these gaps, but the result is a flood of generic content that doesn’t reinforce their credibility in the restaurant software space.
-
-So, is Toast's traffic strategy working? If the goal was pure traffic growth, then yes. But if the goal was to build a sustainable content ecosystem that aligns with their business and converts into actual customers? That’s a much bigger question.
-
-<h2>My Biggest Bugbear: A Lack of Empathy</h2>
-
-I can’t help but feel frustrated when I see people using these tools to game Google and chase clicks rather than focusing on what their audience actually wants and needs. At first I felt like it was a lack of respect but I think it really comes down to a lack of empathy. It’s…. robotic and just, well, wrong.
-
-There’s no real care or thought put into how they can genuinely help their customers. It’s all about what the tools say they should say, rather than actually providing something useful, insightful, or meaningful. If they do think about their audience, it’s only in the context of how to optimise for search, not how to create something valuable for real people. 
-
-It’s a race to the middle, where content is written not to inform, engage, or inspire but simply to rank. And history tells us that doesn’t work.
-
-<h2>Focus on Information Gain Instead</h2>
-
-Search Engines and LLMs have already been trained on vast amounts of publicly available data. 
-
-What they need now is fresh perspectives, new insights, and evolving conversations to continue learning and improving. 
-
-That’s why Google partnered with Reddit and why Reddit discussions are increasingly being surfaced in search results. The content on Reddit isn’t rehashed articles, taking keywords and trying to game TD-IDF or BERT formulas to chase an ‘A’ score, it’s people sharing their lived experiences, opinions, and insights. Sometimes questionable expertise, granted, but I’d argue you get more unique views in Reddit than most articles.
-
-This is the opposite of what most AI content optimisation tools are doing. 
-
-AI-powered optimisation tools don’t create new ideas; they scan what’s ranking, identify what’s different, and tell you to add that to your content. 
-
-<h2>Be the One Who Stands Out</h2>
-
-In Being John Malkovich, when Craig takes control of Malkovich’s mind, he believes he has unlocked ultimate success...only to realise he has lost himself in the process. 
-
-The same can be said for SEO today. If you blindly follow AI-driven optimisation tools, tweaking your content to fit what’s already ranking, you may see short-term gains, but in the long run, you’re just another version of the same thing.
-
-Google isn’t looking for more of the same. It’s looking for originality, expertise, and real value. If your content doesn’t challenge the norm, add fresh insights, or engage your audience in a meaningful way, it will eventually be ignored.
-
-So, ask yourself: Are you creating something worth reading, or are you just another Malkovich in a world of Malkoviches?
+The question worth asking: are you creating something worth reading? Or are you just another version of content that already exists?
