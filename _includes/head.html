@@ -19,10 +19,16 @@
   <meta property="og:description" content="{% if page.url == "/" %}{{ site.data.settings.description | strip_html | xml_escape }}{% elsif page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
   <meta property="og:image" content="{{ page.image | absolute_url }}">
 
+  <!-- LCP image preload -->
+  {% if page.url == "/" %}
+  <link rel="preload" href="{{ site.baseurl }}{{ site.data.settings.hero.hero__image }}" as="image" fetchpriority="high">
+  {% endif %}
+
   <!-- Fonts -->
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800&display=swap" as="style">
-  <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800&display=swap"></noscript>
 
   <!-- Ionicons -->
   <link rel="preconnect" href="https://unpkg.com" crossorigin>
@@ -54,8 +60,7 @@
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
-<link rel="preload" href="/assets/css/lite-yt-embed.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="/assets/css/lite-yt-embed.css"></noscript>
+
 <link rel="preload" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css"></noscript>
 <script defer src="https://cdn.overtracking.com/t/tMBJYEJ8xpY2BBlfX/"></script>

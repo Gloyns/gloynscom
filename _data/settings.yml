@@ -201,7 +201,7 @@ casestudy__items:
     metric_description: "monthly organic clicks"
     quote: "Andrew's approach fundamentally changed how we thought about content. The results speak for themselves."
     quote_author: "Head of Content, SEEK"
-    url: "/work/seek/"
+    url: "/work/seek"
 
   - name: "RateMyAgent"
     logo: "/images/rma-logo-white.png"
@@ -212,7 +212,7 @@ casestudy__items:
     description: "Programmatic SEO, technical improvements, and structured data reversed declining traffic into sustained market dominance."
     metric: "10x"
     metric_description: "organic traffic growth"
-    url: "/work/ratemyagent/"
+    url: "/work/ratemyagent"
 
   - name: "ArtsHub"
     logo: "/images/artshub-white.png"
@@ -225,7 +225,7 @@ casestudy__items:
     metric_description: "organic traffic increase"
     quote: "We'd been stuck for years. Andrew found the answer we'd missed and delivered results we didn't think were possible."
     quote_author: "CEO, ArtsHub"
-    url: "/work/artshub/"
+    url: "/work/artshub"
 
   - name: "CreativeCubes"
     logo: "/images/creative-cubes-white.webp"
@@ -236,7 +236,7 @@ casestudy__items:
     description: "Local SEO, structured data, and a more considered paid approach filled the space and laid the groundwork for expansion."
     metric: "100%"
     metric_description: "occupancy in 12 months"
-    url: "/work/creativecubes/"
+    url: "/work/creativecubes"
 
 
 #-------------------------------

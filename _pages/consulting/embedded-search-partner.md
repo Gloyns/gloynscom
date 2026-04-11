@@ -113,7 +113,7 @@ permalink: /consulting/embedded-search-partner/
         <div class="service-proof__card">
           <span class="service-proof__card-label">SEEK — Case study</span>
           <p class="service-proof__card-text">Embedded across product, marketing, content and development — from zero to 1M+ monthly organic clicks</p>
-          <p class="service-proof__card-text"><a href="/work/seek/">Read case study →</a></p>
+          <p class="service-proof__card-text"><a href="/work/seek">Read case study →</a></p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Engagement style</span>

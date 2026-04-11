@@ -2,7 +2,6 @@
 <html lang="en">
 
 {% include head.html %}
-<link rel="preload" fetchpriority="high" as="image" href="/images/andrew-gloyns.webp" type="image/webp">
 
 <body>
 
@@ -26,20 +25,26 @@
 
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
-  <script src="{{ site.baseurl }}/js/lite-yt-embed.js"></script>
-  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
-  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
- <script>
-  document.addEventListener('DOMContentLoaded', function () {
-    if (window.location.pathname.includes('/blog/')) {
-      const script = document.createElement('script');
-      script.src = 'https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.umd.js';
-      script.onload = function () {
-        initBlueskyComments('bluesky-comments', { author: 'gloyns.com' });
+
+  <script>
+  if (window.location.pathname.includes('/blog/')) {
+    var s1 = document.createElement('script');
+    s1.src = 'https://unpkg.com/react@18/umd/react.production.min.js';
+    s1.onload = function () {
+      var s2 = document.createElement('script');
+      s2.src = 'https://unpkg.com/react-dom@18/umd/react-dom.production.min.js';
+      s2.onload = function () {
+        var s3 = document.createElement('script');
+        s3.src = 'https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.umd.js';
+        s3.onload = function () {
+          initBlueskyComments('bluesky-comments', { author: 'gloyns.com' });
+        };
+        document.body.appendChild(s3);
       };
-      document.body.appendChild(script);
-    }
-  });
+      document.body.appendChild(s2);
+    };
+    document.body.appendChild(s1);
+  }
 </script>
 
 </body>
