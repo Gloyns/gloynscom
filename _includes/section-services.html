@@ -12,7 +12,7 @@
       {% for item in site.data.settings.service__items %}
       <div class="services__card">
         <span class="services__badge {% if item.badge_style %}services__badge--{{ item.badge_style }}{% endif %}">{{ item.badge }}</span>
-        <h3 class="services__card__title">{{ item.title }}</h3>
+        <h3 class="services__card__title">{% if item.url %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %}</h3>
         <p class="services__card__description">{{ item.description }}</p>
       </div>
       {% endfor %}

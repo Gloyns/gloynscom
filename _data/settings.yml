@@ -107,31 +107,37 @@ service__items:
   - badge: "Retainer"
     badge_style: "retainer"
     title: "AI Search Visibility"
+    url: "/consulting/ai-search-visibility/"
     description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface — built on the same user-first principles as great SEO."
 
   - badge: "Retainer"
     badge_style: "retainer"
     title: "Embedded Search Partner"
+    url: "/consulting/embedded-search-partner/"
     description: "I sit inside your team — onsite or remote — owning search strategy across SEO, AEO, content, and measurement. Roadmap, execution, and the hard conversations."
 
   - badge: "Project"
     badge_style: "project"
     title: "Search Strategy"
+    url: "/consulting/seo-strategy/"
     description: "A defined engagement mapping your landscape and handing you a prioritised roadmap across both traditional and AI search."
 
   - badge: "Project"
     badge_style: "project"
     title: "Site Migration"
+    url: "/consulting/site-migration/"
     description: "Hundreds of migrations over 15+ years. Minimise risk, maximise opportunity, and support through launch and beyond."
 
   - badge: "Project"
     badge_style: "project"
     title: "Traffic Recovery"
+    url: "/consulting/traffic-recovery/"
     description: "If you've taken an unexpected hit — algorithmic, technical, or otherwise — I find the cause and build the path back."
 
   - badge: "Agency"
     badge_style: "dark"
     title: "Creative Agency Partner"
+    url: "/consulting/agency-partner/"
     description: "The senior search expert your agency brings in for clients who need that depth. White-label or named — whatever works."
 
 #-------------------------------
