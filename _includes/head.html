@@ -25,8 +25,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;800&display=swap" rel="stylesheet">
 
   <!-- Ionicons -->
-  <link rel="preload" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" as="style">
-  <link href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="preload" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://unpkg.com/ionicons@4.5.0/dist/css/ionicons.min.css"></noscript>
   <script>
     {% if site.data.settings.color_scheme == "auto" %}
       if (localStorage.getItem("theme") === "dark") {
@@ -53,8 +54,10 @@
   {% endcapture %}
   {{ include_to_scssify | scssify }}
   </style>
-<link rel="preload" rel="stylesheet" href="/assets/css/lite-yt-embed.css" as="style" onload="this.rel='stylesheet'">
-<link rel="preload" rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.rel='stylesheet'">
+<link rel="preload" href="/assets/css/lite-yt-embed.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/assets/css/lite-yt-embed.css"></noscript>
+<link rel="preload" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css"></noscript>
 <script defer src="https://cdn.overtracking.com/t/tMBJYEJ8xpY2BBlfX/"></script>
 
 <!-- Sitewide Schema -->
