@@ -114,7 +114,7 @@ service__items:
     badge_style: "retainer"
     title: "Embedded Search Partner"
     url: "/consulting/embedded-search-partner/"
-    description: "I sit inside your team — onsite or remote — owning search strategy across SEO, AEO, content, and measurement. Roadmap, execution, and the hard conversations."
+    description: "I sit inside your team, either onsite or remote, owning search strategy across SEO, AEO, content, and measurement. From strategic Roadmap,to execution, and all the conversations in between."
 
   - badge: "Project"
     badge_style: "project"

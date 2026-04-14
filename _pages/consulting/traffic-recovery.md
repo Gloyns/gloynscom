@@ -10,7 +10,7 @@ permalink: /consulting/traffic-recovery/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">Dig deep. Be honest. Build the path back.</h2>
-      <p class="service-hero__description">An unexpected drop in organic traffic is one of the most stressful things a marketing team faces. I dig deep into what's happened — whether it's algorithmic, technical, or structural — and I'll be honest about what I find and how to resolve it. No guesswork, no generic advice, no false promises on timelines.</p>
+      <p class="service-hero__description">An unexpected drop in organic traffic is one of the most stressful things a marketing team faces. I dig deep into what's happened — whether it's algorithmic, technical, or structural and I'll be honest about what I find and how to resolve it.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -37,11 +37,11 @@ permalink: /consulting/traffic-recovery/
     <span class="service-content__label">The problem with traffic drops</span>
     <h3 class="service-content__title">The cause is rarely what it looks like.</h3>
     <div class="service-content__text">
-      <p>Teams under pressure jump to the most visible explanation — a recent change, a competitor, a Google update. Sometimes they're right. Often the real cause is something older and more structural that the visible event just brought to the surface. And it's rarely just one thing — most cases involve a combination of several issues compounding over time.</p>
-      <p>I dig into all of it — and I'll be honest about what I find, including when the picture is more complex than a single fix.</p>
+      <p>Teams under pressure tend to jump to the most visible explanation like a recent change, a competitor update, a Google update. Sometimes they're right. Often the real cause is something older and more structural that the visible event just brought to the surface. And tbh it's rarely just one thing — most cases involve a combination of several issues compounding over time.</p>
+      <p>I dig into all of it and I'll be honest about what I find, including when the picture is more complex than a single fix.</p>
     </div>
     <blockquote class="service-quote">
-      <p>I answer four questions: What happened? When did it start? What caused it? What do we do — and how do we make sure it doesn't happen again?</p>
+      <p>I answer four questions: What happened? When did it start? What caused it? What do we do, and how do we make sure it doesn't happen again?</p>
     </blockquote>
   </div>
 </div>
@@ -59,7 +59,7 @@ permalink: /consulting/traffic-recovery/
       <div class="service-grid__card">
         <span class="service-grid__number">02</span>
         <h4 class="service-grid__card-title">Root cause identification</h4>
-        <p class="service-grid__card-desc">Technical issues, content quality signals, link profile problems, or structural issues — often a combination of several things, not one smoking gun.</p>
+        <p class="service-grid__card-desc">Technical issues, content quality signals, link profile problems, or structural issues (often a combination of several things, not one smoking gun.)</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>
@@ -106,17 +106,17 @@ permalink: /consulting/traffic-recovery/
       <div class="service-proof__left">
         <h3 class="service-proof__title">15+ years of algorithm history. I know what each update actually does.</h3>
         <div class="service-proof__text">
-          <p>I've worked through Panda, Penguin, every core update since, and the Helpful Content era. <strong>Pattern recognition matters more than any tool</strong> when it comes to diagnosing traffic drops — and it's only built through experience.</p>
+          <p>I've worked through Panda, Penguin, every core update since, and the Helpful Content era. <strong>Pattern recognition matters more than any tool</strong> when it comes to diagnosing traffic drops and it's only built through experience.</p>
         </div>
       </div>
       <div class="service-proof__right">
         <div class="service-proof__card">
           <span class="service-proof__card-label">Example</span>
-          <p class="service-proof__card-text">A well-known magazine — sudden 30% traffic drop. Forensic analysis revealed a combination of site quality, content signal, and structural issues — led to a full quality overhaul</p>
+          <p class="service-proof__card-text">A well-known magazine — sudden 30% traffic drop. Forensic analysis revealed a combination of site quality, content signal, and structural issues which led to a full quality overhaul</p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Approach</span>
-          <p class="service-proof__card-text">Honest about timelines and honest about what I find. Recovery takes time — I won't tell you it's simpler than it is</p>
+          <p class="service-proof__card-text">Honest about timelines and honest about what I find. Recovery takes time. I won't tell you it's simpler than it is</p>
         </div>
       </div>
     </div>

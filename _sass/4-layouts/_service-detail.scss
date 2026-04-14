@@ -139,6 +139,16 @@
     }
   }
 
+  &--teal {
+    background-color: var(--primary-color);
+    color: #fff;
+
+    &:hover {
+      opacity: 0.85;
+      color: #fff;
+    }
+  }
+
   &--secondary {
     background: none;
     border: 1px solid var(--border-color);

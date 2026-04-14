@@ -27,6 +27,16 @@
   <script src="{{ site.baseurl }}/js/common.js"></script>
 
   <script>
+  document.addEventListener('click', function(e) {
+    var link = e.target.closest('a[href*="calendly.com/gloyns"]');
+    if (link && typeof Calendly !== 'undefined') {
+      e.preventDefault();
+      Calendly.initPopupWidget({ url: link.href, branding: false });
+    }
+  });
+  </script>
+
+  <script>
   if (window.location.pathname.includes('/blog/')) {
     var s1 = document.createElement('script');
     s1.src = 'https://unpkg.com/react@18/umd/react.production.min.js';

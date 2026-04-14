@@ -10,7 +10,7 @@ permalink: /consulting/ai-search-visibility/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">Your brand, visible wherever people search.</h2>
-      <p class="service-hero__description">Some brands find that strong SEO performance doesn't always translate to AI platforms. Often that comes down to a misalignment in approach — optimising for signals that Google rewards but that AI systems don't weight the same way. AI platforms place far more emphasis on context, brand authority, and how a brand is portrayed across the web. Sometimes it's about stepping back and looking at how your brand is telling its story — and whether that story is coherent and credible wherever AI systems are listening.</p>
+      <p class="service-hero__description">Some brands find that strong SEO performance doesn't always translate to AI platforms. Often that comes down to a misalignment in approach, I.e. optimising for signals that Google rewards but that AI systems don't weight the same way. AI platforms place far more emphasis on context, brand authority, and how a brand is portrayed across the web. Sometimes it's about stepping back and looking at how your brand is telling its story and whether that story is coherent and credible wherever AI systems are listening.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -23,9 +23,9 @@ permalink: /consulting/ai-search-visibility/
           <li>Google AI Overviews</li>
           <li>Google AI Mode</li>
           <li>ChatGPT / SearchGPT</li>
-          <li>Perplexity</li>
-          <li>Claude</li>
           <li>Gemini</li>
+          <li>Claude</li>
+          <li>Perplexity</li>
         </ul>
       </div>
     </div>
@@ -37,8 +37,8 @@ permalink: /consulting/ai-search-visibility/
     <span class="service-content__label">My take</span>
     <h3 class="service-content__title">Is GEO / AEO just user-first SEO?</h3>
     <div class="service-content__text">
-      <p>Mostly, yes. The brands showing up in AI answers aren't the ones who've cracked a new algorithm — they're the ones who've been building genuine authority over time. What's changing is the surface, not the underlying principle.</p>
-      <p>That said, AI search does introduce new considerations. The narrative your brand has built — through your own content, through coverage, through how others talk about you — matters more than it ever did in traditional search.</p>
+      <p>Mostly, yes. The brands showing up in AI answers aren't the ones who've cracked a new algorithm. They're the ones who've been building genuine authority over time. What's changing is the search surface rather than the underlying principle.</p>
+      <p>That said, AI search does introduce some new considerations. The narrative your brand has built through your own content, coverage and how others talk about you matters more than it ever did in traditional search. Formatting can also help when core information needs more clarity</p>
     </div>
     <blockquote class="service-quote">
       <p>Part of what I do is help brands understand the story AI systems are telling about them — positive or negative, where that sentiment comes from, and how to influence it when it's not aligned with how the brand wants to be seen.</p>
@@ -64,7 +64,7 @@ permalink: /consulting/ai-search-visibility/
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>
         <h4 class="service-grid__card-title">Strategy and priorities</h4>
-        <p class="service-grid__card-desc">A clear roadmap of what to improve, what to create, and where to focus — ordered by impact, mapped to your team's capacity.</p>
+        <p class="service-grid__card-desc">A clear roadmap of what to improve, what to create, and where to focus ordered by impact, mapped to your team's capacity.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">04</span>
@@ -86,11 +86,11 @@ permalink: /consulting/ai-search-visibility/
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Brands wanting to understand the narrative</h4>
-        <p class="service-audience__card-desc">You want to know what AI systems are saying about your brand — and where that sentiment comes from so you can shape it.</p>
+        <p class="service-audience__card-desc">You want to know what AI systems are saying about your brand and where that sentiment comes from so you can shape it.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Businesses losing traffic to AI answers</h4>
-        <p class="service-audience__card-desc">Organic traffic is declining as AI intercepts queries. The response is to be the source AI surfaces — not to fight it.</p>
+        <p class="service-audience__card-desc">Organic traffic is declining as AI intercepts queries. The response is to be the source AI surfaces rather than fight it.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Creative agencies</h4>
@@ -106,7 +106,7 @@ permalink: /consulting/ai-search-visibility/
       <div class="service-proof__left">
         <h3 class="service-proof__title">I've been working on this longer than the label existed.</h3>
         <div class="service-proof__text">
-          <p>User intent, content depth, and brand authority have always been the foundations of how I approach SEO. What I'm finding is that clients who've been built on these principles are already well positioned in AI search — because it turns out this approach makes sense for SEO, AEO, and your complete web presence. You're not optimising for one platform. You're optimising for the brand and the user. That stands the test of time.</p>
+          <p>User intent, content depth, and brand authority have always been the foundations of how I approach SEO. What I'm finding is that clients who've been built on these principles are already well positioned in AI search because it turns out this approach makes sense for SEO, AEO, and your complete web presence. You're not optimising for one single platform. You're optimising for the brand and the user and I find that always stands the test of time.</p>
         </div>
       </div>
       <div class="service-proof__right">
@@ -120,7 +120,7 @@ permalink: /consulting/ai-search-visibility/
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Published thinking</span>
-          <p class="service-proof__card-text"><a href="/blog/is-geo-aeo-just-user-first-seo/">Is GEO/AEO just user-first SEO? My published take on the discipline.</a></p>
+          <p class="service-proof__card-text"><a href="/blog/is-geo-aeo-just-user-first-seo/">Is GEO/AEO just user-first SEO? Yep, mostly</a></p>
         </div>
       </div>
     </div>

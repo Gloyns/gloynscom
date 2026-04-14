@@ -10,7 +10,7 @@ permalink: /consulting/embedded-search-partner/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">A single voice of truth on search — inside your team.</h2>
-      <p class="service-hero__description">SEO is full of subjectivity, conflicting advice, and misinformation. What most organisations actually need is someone they trust to tell them how it is — clearly, honestly, without an agenda. I sit inside your team, own the strategy, help execute it, and adjust how your team thinks about acquisition channels like search along the way. Not a report. Not a deck. An ongoing partner.</p>
+      <p class="service-hero__description">SEO is full of subjectivity, conflicting advice, and misinformation. What most organisations actually need is someone they trust to tell them how it is clearly, honestly and without an agenda. I sit inside your team, own the strategy, help execute it, and adjust how your team thinks about acquisition channels like search along the way.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>

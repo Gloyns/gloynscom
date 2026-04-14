@@ -10,7 +10,7 @@ permalink: /consulting/expert-witness/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">Independent SEO expertise for legal proceedings.</h2>
-      <p class="service-hero__description">I'm available as an expert witness for SEO and organic search related matters — providing independent, authoritative analysis that helps legal teams understand what happened, why, and what the standard of practice requires. Before moving into search, I worked at law firms in London and the UK for a number of years. I understand the process, the standards expected of expert witnesses, and what it means to work alongside legal professionals.</p>
+      <p class="service-hero__description">I'm available as an expert witness for SEO and organic search related matters — providing independent, authoritative analysis that helps legal teams understand what happened, why, and what the standard of practice requires. Before moving into search, I worked at law firms in London and Hampshire, UK for a number of years. I understand the process, the standards expected of expert witnesses, and what it means to work alongside legal professionals.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -37,11 +37,11 @@ permalink: /consulting/expert-witness/
     <span class="service-content__label">What I bring</span>
     <h3 class="service-content__title">Search expertise and legal familiarity, combined.</h3>
     <div class="service-content__text">
-      <p>SEO disputes require an expert who can explain complex technical and strategic concepts clearly — to lawyers, to judges, and where necessary to opposing counsel. Having worked in legal environments before moving into search, I understand what's expected: the rigour, the independence, and the obligation to the court rather than the client's desired outcome.</p>
-      <p>My reports are structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy.</p>
+      <p>SEO disputes require an expert who can explain complex technical and strategic concepts clearly to lawyers, judges, and where necessary to opposing counsel. Having worked in legal environments before moving into search, I understand what's expected: the rigour, the independence, and the obligation to the court rather than the client's desired outcome.</p>
+      <p>I work with your team ensure my reports are structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy.</p>
     </div>
     <blockquote class="service-quote">
-      <p>I approach every matter independently. My obligation is to the court and to the accurate representation of search industry standards — not to the outcome a client wants.</p>
+      <p>I approach every matter independently. My obligation is to the court and to the accurate representation of search industry standards.</p>
     </blockquote>
   </div>
 </div>
@@ -59,7 +59,7 @@ permalink: /consulting/expert-witness/
       <div class="service-grid__card">
         <span class="service-grid__number">02</span>
         <h4 class="service-grid__card-title">Expert report preparation</h4>
-        <p class="service-grid__card-desc">A formal expert report setting out my analysis, methodology, and conclusions — structured to meet court requirements.</p>
+        <p class="service-grid__card-desc">A formal expert report setting out my analysis, methodology, and conclusions structured to meet court requirements.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>

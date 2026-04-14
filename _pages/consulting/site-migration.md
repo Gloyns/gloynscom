@@ -38,11 +38,11 @@ permalink: /consulting/site-migration/
     <span class="service-content__label">Why this matters</span>
     <h3 class="service-content__title">Most migrations lose traffic. They don't have to.</h3>
     <div class="service-content__text">
-      <p>The risks are well understood — but routinely underestimated until it's too late. Broken redirects, lost canonical signals, crawl issues, content gaps — any one of these can cause significant traffic loss. And it's rarely just one thing: most migration issues come from a combination of several problems compounding.</p>
+      <p>The risks are well understood but routinely underestimated until it's too late. Broken redirects, lost canonical signals, crawl issues, content gaps — any one of these can cause significant traffic loss. And there's rarely just a single cause. Most migration issues come from a combination of several problems compounding.</p>
       <p>A migration is also an opportunity to take stock of what a site actually needs. Sometimes that means pruning old or low-quality content, improving the overall health of the site, and resetting expectations for what traffic should look like post-launch. A healthier, more relevant site performs better over time. Part of what I do is help set realistic expectations for the new traffic baseline and explain why these activities serve the long-term health of the site and brand.</p>
     </div>
     <blockquote class="service-quote">
-      <p>I've worked on migrations for Nine Digital, ArtsHub, and dozens of others. The ones that go well are the ones where SEO is in the room from the start — not brought in to fix problems after launch.</p>
+      <p>I've worked on migrations for Bupa, Nine Digital, SEEK, and many of others. The ones that go well are the ones where SEO is in the room from the start rather than brought in to fix problems after launch.</p>
     </blockquote>
   </div>
 </div>

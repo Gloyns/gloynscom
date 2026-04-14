@@ -10,7 +10,7 @@ permalink: /consulting/seo-strategy/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">Know exactly where to focus and why.</h2>
-      <p class="service-hero__description">A defined engagement that maps your search landscape, identifies where the real opportunity is, and hands you a prioritised roadmap your team can actually execute. Clear priorities, clear rationale, no guesswork.</p>
+      <p class="service-hero__description">A defined engagement that maps your search landscape, identifies where the real opportunity is, and hands you a prioritised roadmap your team can actually execute. Clear priorities with clear rationale.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -36,11 +36,11 @@ permalink: /consulting/seo-strategy/
     <span class="service-content__label">Why strategy first</span>
     <h3 class="service-content__title">Tactics without direction won't move the needle.</h3>
     <div class="service-content__text">
-      <p>A lot of SEO effort gets distributed across whatever feels most urgent — without a coherent view of where the real opportunity lies. When providers focus on tactics, the work can start to rub against the brand and user-led principles that should be driving long-term performance.</p>
-      <p>A strategy engagement gives your team clarity: where you can realistically win, where competitors are beatable, and which areas deserve your attention first. It's not about doing more. It's about doing the right things.</p>
+      <p>A lot of SEO effort gets distributed across whatever feels most urgent without a coherent view of where the real opportunity lies. When providers focus on tactics, the work can start to rub against the brand and user-led principles that should be driving long-term performance.</p>
+      <p>A strategy engagement gives your team clarity: where you can realistically win, where competitors are beatable, and which areas deserve your attention first.</p>
     </div>
     <blockquote class="service-quote">
-      <p>Strategy engagements often lead to ongoing retainers — but that's entirely optional. The deliverable stands on its own and your team can run with it independently.</p>
+      <p>Strategy engagements often lead to ongoing retainers but that's entirely optional. The deliverable stands on its own and your team can run with it independently.</p>
     </blockquote>
   </div>
 </div>
@@ -48,12 +48,12 @@ permalink: /consulting/seo-strategy/
 <div class="container animate">
   <div class="service-content service-content--tinted">
     <span class="service-content__label">How it works</span>
-    <h3 class="service-content__title">A defined process, a clear deliverable.</h3>
+    <h3 class="service-content__title">A defined process with a clear deliverable.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
         <span class="service-grid__number">01</span>
         <h4 class="service-grid__card-title">Discovery</h4>
-        <p class="service-grid__card-desc">Understanding your business, your audience, your current search performance, and what's been tried — and what's fell off — before.</p>
+        <p class="service-grid__card-desc">Understanding your business, your audience, your current search performance, what's working and what's not</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">02</span>
@@ -63,12 +63,12 @@ permalink: /consulting/seo-strategy/
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>
         <h4 class="service-grid__card-title">Opportunity mapping</h4>
-        <p class="service-grid__card-desc">The specific keywords, topics, and content gaps that represent the best ROI — ordered by impact and feasibility.</p>
+        <p class="service-grid__card-desc">The specific keywords, topics, and content gaps that represent the best ROI ordered by impact and feasibility.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">04</span>
         <h4 class="service-grid__card-title">Roadmap and readout</h4>
-        <p class="service-grid__card-desc">A clear, prioritised action plan presented to your team — so everyone understands not just what to do, but why.</p>
+        <p class="service-grid__card-desc">A clear, prioritised action plan presented to your team so everyone understands not just what to do, but why.</p>
       </div>
     </div>
   </div>
@@ -81,11 +81,11 @@ permalink: /consulting/seo-strategy/
     <div class="service-audience">
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Results flattering or in decline</h4>
-        <p class="service-audience__card-desc">Growth has stalled or is reversing. A fresh strategic view often reveals what's causing the plateau — and where the next opportunity is.</p>
+        <p class="service-audience__card-desc">Growth has stalled or is reversing. A fresh strategic view often reveals what's causing the plateau and where the next opportunity is.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Providers focused on tactics over strategy</h4>
-        <p class="service-audience__card-desc">Your current SEO work feels disconnected from the brand and user principles that should be driving it. You need direction, not more tasks.</p>
+        <p class="service-audience__card-desc">Your current SEO work feels disconnected from the brand and user principles that should be driving it.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Pre-investment or product launch</h4>

@@ -10,9 +10,9 @@ permalink: /consulting/adhoc/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">A direct line to 15+ years of search experience.</h2>
-      <p class="service-hero__description">Sometimes you don't need a retainer or a project. You need a straight answer from someone who actually knows what they're talking about. I'm available for 30 or 60-minute consultations — to answer a specific question, sense-check a decision, or give an honest second opinion on work you've already done.</p>
+      <p class="service-hero__description">Sometimes you don't need a retainer or a project. You need a straight answer from someone who actually knows what they're talking about. I'm available for 30 or 60-minute consultations to answer a specific question, sense-check a decision, or give an honest second opinion on work you've already done.</p>
       <div class="service-hero__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
+        <a href="https://calendly.com/gloyns/60-min-consultation" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
       </div>
     </div>
@@ -133,7 +133,7 @@ permalink: /consulting/adhoc/
       <h3 class="service-cta__title">Have a search question that needs a straight answer?</h3>
       <div class="service-cta__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="https://calendly.com/gloyns/discovery-call" class="service-hero__btn service-hero__btn--primary" target="_blank" rel="noopener">Book a session</a>
+        <a href="https://calendly.com/gloyns/60-min-consultation" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
       </div>
     </div>
   </div>
