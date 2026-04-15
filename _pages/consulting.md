@@ -17,7 +17,7 @@ image_caption: ''
       "url": "https://gloyns.com/consulting/",
       "name": "SEO & AI Search Consulting Services",
       "isPartOf": { "@id": "https://gloyns.com/#website" },
-      "description": "Independent SEO consulting for brands who want lasting search visibility — not quick wins that don't survive the next algorithm update.",
+      "description": "Independent SEO & AI seaerch consulting for brands who want lasting search visibility across all surfaces.",
       "breadcrumb": { "@id": "https://gloyns.com/consulting/#breadcrumb" },
       "inLanguage": "en-GB"
     },
@@ -32,7 +32,7 @@ image_caption: ''
     {
       "@type": "Service",
       "name": "Embedded Search Partner",
-      "description": "Senior search strategy across SEO, AEO, content, and measurement — embedded inside your team.",
+      "description": "Senior search strategy across SEO, AEO, content, and measurement embedded inside your team.",
       "provider": { "@id": "https://gloyns.com/#organization" }
     },
     {
@@ -50,7 +50,7 @@ image_caption: ''
     {
       "@type": "Service",
       "name": "Traffic Recovery",
-      "description": "If you've taken an unexpected hit — algorithmic, technical, or otherwise — find the cause and build the path back.",
+      "description": "If you've taken an unexpected hit — algorithmic, technical, or otherwise find the cause and build the path back.",
       "provider": { "@id": "https://gloyns.com/#organization" }
     },
     {
@@ -66,5 +66,5 @@ image_caption: ''
 <div class="page-hero">
   <h1 class="page-hero__label">Services</h1>
   <h2 class="page-hero__title">Search that works for people first.</h2>
-  <p class="page-hero__description">I've spent 15+ years working with brands who want lasting search visibility — not quick wins that don't survive the next algorithm update. Everything I do starts with understanding your users and ends with making it easy for Google and AI systems to surface you to them.</p>
+  <p class="page-hero__description">I've spent 15+ years working with brands who want lasting search visibility across all surfaces. Everything I do starts with understanding your users and ends with making it easy for Google and AI systems to surface you to them.</p>
 </div>

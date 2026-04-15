@@ -108,7 +108,7 @@ service__items:
     badge_style: "retainer"
     title: "AI Search Visibility"
     url: "/consulting/ai-search-visibility/"
-    description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface — built on the same user-first principles as great SEO."
+    description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface, built on the same user-first principles as great SEO."
 
   - badge: "Retainer"
     badge_style: "retainer"
@@ -138,7 +138,7 @@ service__items:
     badge_style: "dark"
     title: "Creative Agency Partner"
     url: "/consulting/agency-partner/"
-    description: "The senior search expert your agency brings in for clients who need that depth. White-label or named — whatever works."
+    description: "The senior search expert your agency brings in for clients who need that depth. White-label or named - whatever works."
 
 #-------------------------------
 # Process Settings
@@ -151,19 +151,19 @@ process:
 process__items:
   - number: "01"
     title: "Discovery"
-    description: "I get to know your business properly — what you've tried, what's worked, and what hasn't. <strong>The answers shape everything that follows.</strong>"
+    description: "I get to know your business properly — your tech stack, your customer, what you've tried, what's worked, and what hasn't."
 
   - number: "02"
     title: "Competitive analysis"
-    description: "I map the landscape across traditional and AI search — where the opportunity exists and where your brand has the right to win."
+    description: "I map the landscape across traditional and AI search to understand where the opportunity exists and where your brand has the right to win."
 
   - number: "03"
     title: "Roadmap"
-    description: "A clear, prioritised plan — ordered by impact and feasibility, mapped to your team's actual capacity. <strong>Not a list of recommendations. A plan you can execute.</strong>"
+    description: "A clear, prioritised plan — ordered by impact and feasibility, mapped to your team's actual capacity."
 
   - number: "04"
     title: "Working with your team"
-    description: "I work directly with your marketers, developers, and product managers — not hand over a document and hope for the best."
+    description: "I work directly with your marketers, developers, and product managers. I dont just hand over a long document and wish you luck."
 
   - number: "05"
     title: "Technical architecture"
