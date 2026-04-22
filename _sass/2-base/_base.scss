@@ -1,3 +1,13 @@
+/* Metric-matched fallback for Rubik to prevent layout shift on font load */
+@font-face {
+  font-family: 'Rubik Fallback';
+  src: local('Arial'), local('Helvetica Neue'), local('Helvetica');
+  size-adjust: 96%;
+  ascent-override: 95%;
+  descent-override: 21%;
+  line-gap-override: 0%;
+}
+
 *, *::after, *::before {
   box-sizing: border-box;
 }
