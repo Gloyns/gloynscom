@@ -57,14 +57,14 @@
   &:hover {
     color: var(--primary-color);
     opacity: .85;
-    i {
+    .icon-arrow {
       transform: translateX(2px);
     }
   }
 
-  i {
-    margin-left: 2px;
-    font-size: 17px;
+  .icon-arrow {
+    margin-left: 4px;
+    vertical-align: -2px;
     transition: $global-transition;
   }
 }
