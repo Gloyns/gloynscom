@@ -5,10 +5,10 @@ services: 'SEO Strategy, SEO Training, Site Migration'
 industry: 'Arts & Media Publishing'
 client: ArtsHub
 region: 'Australia, UK'
-image: '/images/artshub-cover.jpeg'
+image: '/images/artshub-cover.webp'
 logo: '/images/artshub-logo.png'
 logo_white: '/images/artshub-white.png'
-hero_image: '/images/artshub-cover.jpeg'
+hero_image: '/images/artshub-cover.webp'
 clientdescription: ArtsHub is a premium membership platform for the arts sector.
 stats:
   - value: "8x"

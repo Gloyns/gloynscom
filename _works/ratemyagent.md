@@ -5,10 +5,10 @@ services: 'Programmatic SEO, Enterprise SEO'
 industry: 'Real Estate'
 client: RateMyAgent
 region: 'Australia, New Zealand, USA'
-image: '/images/rma-cover.jpg'
+image: '/images/rma-cover.webp'
 logo: '/images/rma-logo.png'
 logo_white: '/images/rma-logo-white.png'
-hero_image: '/images/rma-cover.jpg'
+hero_image: '/images/rma-cover.webp'
 clientdescription: RateMyAgent connects real estate agents with consumers through verified reviews.
 stats:
   - value: "10x"

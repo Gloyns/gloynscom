@@ -5,7 +5,7 @@ services: 'Embedded Search Partner'
 industry: 'Recruitment'
 client: SEEK
 region: 'APAC'
-image: '/images/seekret.jpg'
+image: '/images/seekret.webp'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
 logo: '/images/seek-logo.png'
 logo_white: '/images/seek-logo-white.png'

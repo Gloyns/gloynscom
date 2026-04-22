@@ -205,7 +205,7 @@ casestudy__items:
 
   - name: "RateMyAgent"
     logo: "/images/rma-logo-white.png"
-    image: "/images/rma-cover.jpg"
+    image: "/images/rma-cover.webp"
     industry: "Real Estate"
     engagement: "Embedded Search Partner"
     title: "10x organic growth to dominate real estate agent reviews"
@@ -216,7 +216,7 @@ casestudy__items:
 
   - name: "ArtsHub"
     logo: "/images/artshub-white.png"
-    image: "/images/artshub-cover.jpeg"
+    image: "/images/artshub-cover.webp"
     industry: "Arts & Media"
     engagement: "Project"
     title: "8x organic growth for ArtsHub without breaking subscriptions"

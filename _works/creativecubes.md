@@ -8,7 +8,7 @@ region: 'Australia'
 logo: '/images/cc.png'
 logo_white: '/images/creative-cubes-white.webp'
 hero_video: '/images/creative-cubes.mp4'
-image: '/images/cubes-dyt.jpg'
+image: '/images/cubes-dyt.webp'
 clientdescription: CreativeCubes is a leading provider of co-working spaces and flexible office solutions in Melbourne, Australia.
 stats:
   - value: "100%"
