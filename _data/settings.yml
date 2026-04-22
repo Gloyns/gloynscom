@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Andrew Gloyns - SEO Consultant
-logo: '/images/gloyns-logo.png'
+logo: '/images/gloyns-logo.webp'
 description: "Andrew Gloyns is an independent SEO and AI Search consultant helping ambitious brands grow their visibility across Google and AI answer engines."
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -51,34 +51,34 @@ logos:
 
 logo__items:
   - name: SEEK
-    image: "/images/seek-logo-f.png"
+    image: "/images/seek-logo-f.webp"
 
   - name: ANZ
-    image: "/images/anz-logo-f.png"
+    image: "/images/anz-logo-f.webp"
 
   - name: Bupa
-    image: "/images/bupa-logo-f.png"
+    image: "/images/bupa-logo-f.webp"
 
   - name: Victorian Government
-    image: "/images/vic-gov-logo-f.png"
+    image: "/images/vic-gov-logo-f.webp"
 
   - name: Movember
-    image: "/images/movember-logo-f.png"
+    image: "/images/movember-logo-f.webp"
 
   - name: Nine
-    image: "/images/nine-logo-f.png"
+    image: "/images/nine-logo-f.webp"
 
   - name: Flybuys
-    image: "/images/flybuys-logo-f.png"
+    image: "/images/flybuys-logo-f.webp"
 
   - name: Go1
-    image: "/images/go1-logo-f.png"
+    image: "/images/go1-logo-f.webp"
 
   - name: Clayton Utz
-    image: "/images/clayton-utz-logo-f.png"
+    image: "/images/clayton-utz-logo-f.webp"
 
   - name: IronEdge
-    image: "/images/ironedge-logo-f.png"
+    image: "/images/ironedge-logo-f.webp"
 
 #-------------------------------
 # Value Props Settings

@@ -61,9 +61,10 @@
   {{ include_to_scssify | scssify }}
   </style>
 
-<!-- Calendly -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<!-- Calendly (async, non-render-blocking) -->
+<link rel="preload" href="https://assets.calendly.com/assets/external/widget.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://assets.calendly.com/assets/external/widget.css"></noscript>
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" defer></script>
 
 <link rel="preload" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.css"></noscript>
@@ -93,8 +94,8 @@
       "logo": {
         "@type": "ImageObject",
         "@id": "https://gloyns.com/#/schema/logo/image/",
-        "url": "https://gloyns.com/images/gloyns-logo.png",
-        "contentUrl": "https://gloyns.com/images/gloyns-logo.png",
+        "url": "https://gloyns.com/images/gloyns-logo.webp",
+        "contentUrl": "https://gloyns.com/images/gloyns-logo.webp",
         "caption": "Gloyns Consulting"
       },
       "founder": {
