@@ -11,7 +11,7 @@ I had a call recently with a long-standing publishing client. One of their sites
 
 We ended up having quite a blunt discussion about what publishing looks like when AI search is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
 
-And that's the problem. Online publishing as a business has been, pretty much since the inception of the commercial Internet works on a model of 'get click > sell ads'.
+And that's a bit of a problem. Online publishing as a business has, pretty much since the inception of the commercial Internet, worked on a model of 'get click > sell ads'.
 
 **The model that ran for thirty years is running out of road.**
 
