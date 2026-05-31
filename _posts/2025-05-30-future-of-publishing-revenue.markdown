@@ -1,77 +1,65 @@
 ---
 layout: post
-title: Publishing in the age of AI — the economics are breaking and nobody has the answer yet
+title: AI Search & The Future of Publishing Revenue 
 description: What happens to content businesses when AI systems extract and synthesise their work and serve it back without a reason to click?
 date: 2025-05-30 23:59:59 +0000
 image: '/images/life-aquatic-ag.jpg'
 tags: [ai, content]
 ---
 
-I had a call recently with a long-standing publishing client. One of their sites — a project we'd invested heavily in — is shifting commercial direction, which prompted a review of the search strategy. But the conversation quickly moved beyond domain strategy and onto something much bigger: what happens to content businesses when AI systems simply extract and synthesise their work and serve it back without a reason to click?
+I had a call recently with a long-standing publishing client. One of their sites was changing direction, and as part of that we were reviewing the revenue model. 
 
-The economics of publishing, as most sites have known them, are starting to unravel. This is my attempt to think through where that leads.
+We ended up having quite a blunt discussion about what publishing looks like when AI search is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
 
-## Change was coming anyway
+And that's the problem. Online publishing as a business has been, pretty much since the inception of the commercial Internet works on a model of 'get click > sell ads'.
 
-To be honest, this particular site always felt like a slightly uneasy fit. The editorial team was strong, but the content that performed best was the stuff nobody really wanted to write: high-volume, SEO-friendly, easily commoditised lists, comparisons, guides. The kind of content that didn't require that level of talent but got clicks.
+**The model that ran for thirty years is running out of road.**
 
-So this was a timely opportunity to pause and think seriously about the future of content — particularly with the rise of large language models and Google's AI Mode. These systems now extract and synthesise content to answer user queries directly on the results page. Fewer clicks back to publisher websites. And when the business model is built on traffic — whether for ad impressions, affiliate revenue, or subscriptions — removing the click breaks the entire system.
+The only real lever was volume. More content generally meant more rankings, more rankings meant more clicks, more clicks meant more revenue. I don't pretend I didn't play a part in this, it was the sole reason many sites hired me.
 
-Without clicks, the economics of publishing start to unravel.
+The quality bar for content this change over the years, but it was always generally set by whatever Google chose to reward, which for a long time meant broad, well-structured, sufficiently useful content across a wide array of topics.
 
-## Is the model actually broken?
+The problem is that AI systems now read that content, synthesise it, and give the user an answer before they ever need to visit your site. The click never happens. And if the click never happens, the model doesn't work.
 
-I keep coming back to this question: if there's no reward for publishers to write content, why would they write it? The AI systems need this content to keep learning, but they're effectively biting the hand that feeds them.
+**Two tiers are emerging, and the middle is gone.**
 
-This reminds me of the shift from print to digital. Back when the internet became mainstream, newspapers fiercely resisted putting their content online. Why give it away for free? People will stop buying the paper. And they were right — people did. But the mistake was thinking the problem was about selling newspapers. It wasn't. It was about finding a way to make money online where distribution was free and clicks became the currency.
+What this means for publishers is a split. General information — the broad how-tos, the explainers, the top-level stuff — will increasingly just come from AI. People will use it and move on. If someone wants to go deeper, into genuine expertise, into something the AI can't fully reconstruct, then they'll seek out a niche site with real authority. 
 
-Publishers adapted. They moved online not because they wanted to but because they had to. Eventually most landed on the same model: ad revenue, affiliate deals, sponsored content for free users, and subscriptions for premium content.
+But the vast middle ground where users find competent, useful, broadly informative content at scale has nowhere to go.
 
-Publish content. Rank in Google. Get traffic. Monetise.
+**The licensing deals won't save most publishers.**
 
-It wasn't elegant. But it worked for a long time.
+What we have seen over the past couple of years is some large publishers creating licensing deals directly with AI companies. That could work for the biggest players but the fundamental problem with that model is valuation. With advertising, the maths was straightforward: CPM, click volume, conversion rate, sale value. You could calculate your way to a number to the point the whole thing was automated.
 
-## What's the new revenue mechanism?
+With AI licensing, how do you put a value on it? You don't know how much of your content they're using, when they're using it, or in what context. There's no established pricing, no standard protocol, no way to verify the usage. 
 
-The move from print to digital felt, in hindsight, almost liberating. Anyone with something to say could publish, grow an audience, and make a living. But this shift — from digital to generative — feels different. Rather than opening things up, it feels like gatekeeping. The big platforms consume content, summarise it, strip it of attribution, and serve it back without a reason to click. They take the value, keep the user in their ecosystem, and publishers are left with the cost.
+And the elephant in the room is that most of the content has already been consumed anyway. The AI companies have already ingested the open web. Why would they pay for something they already have?
 
-It's not sustainable. Publishers need a new model, or at least a different mindset. What that looks like isn't entirely clear yet. The economics are broken and the next system isn't fully visible. That's the uncomfortable truth right now.
+One option is you block AI crawlers, but then you're out of the conversation entirely and that makes people nervous.
 
-## Where do we go from here?
 
-Here's where I've landed:
+**Sam Altman said we need a new deal... but words are cheap.**
 
-**1. Rethink the role of search.** Search is unlikely to be the click machine it once was. But it still plays a role as a visibility layer — a brand surface. Rather than optimising purely for traffic, you optimise to show up in the places where your audience first encounters you, even if they don't click. Think of it more like digital PR. Being cited, even lightly, becomes brand placement. Getting your name mentioned, your product surfaced, your expertise visible — that's the objective. We measure it by visibility, not just volume.
+At the New York Times DealBook Summit in December, OpenAI's Sam Altman was asked how writers should feel about their work being used for AI training. [He said he thinks a new standard protocol is needed for how creators get rewarded based on an opt-in model with micropayments](https://youtu.be/tn0XpTAD_8Q?si=Z7RQ0GfB3z2BwaeC&t=1915). 
 
-**2. Consider a two-layer content strategy: open versus owned.** LLMs are going to keep scraping and synthesising open web content. Rather than fighting it, leverage it.
+Google's Sundar Pichai has said he thinks a market solution will emerge, that there'll be a marketplace, that creators will figure it out.
 
-Layer 1 — open web content: give LLMs your how-tos, your explainers, your foundational content. Think of it as your free sample. It establishes topical authority and signals expertise. It's the bait.
+Maybe. But right now, nothing is happening. And AI companies are currently burning money at scale — the incentive to voluntarily introduce a cost that nobody is legally forcing them to pay isn't obvious. 
 
-Layer 2 — owned, moated content: behind that, build real depth. Premium analysis, community-driven insight, proprietary data, strong opinion. Deliver this via email newsletters, paywalled content, member exclusives, or private communities. Give enough away to earn trust — but keep the real value behind your own walls.
+So, publishers aren't making enough noise and the regulatory environment hasn't caught up, meaning nothing happens.
 
-I appreciate this creates some tension. The highest quality content that proves your authority is also the content you're keeping closed. If you hide it, how do you establish yourself as a trustworthy expert? Maybe the answer is uncomfortable. Maybe you need more faith that if you open up your expertise, do right by the reader, and focus on genuinely helping, you'll be rewarded. Not always with clicks. Not always with attribution. But with recognition over time.
+**The head is eating the tail.**
 
-**3. Don't bet it all on search.** Sites that rely solely on search are going to struggle with this shift. It's been brewing for years and it's accelerating. Any business that doesn't invest in brand building and diversify its traffic sources is on borrowed time.
+My natural fear is that Publishers won't be able to afford to keep paying people to produce content at the volume the old model required. So some move to AI-generated content to cut costs in order to keep the old model profitable,
 
-Some channels worth prioritising: email (still the most reliable channel you own), video (harder to commoditise and increasingly preferred by younger audiences), podcasts (niche loyalty, multi-task-friendly), community spaces on Reddit, Discord or Slack, and syndication partnerships with non-competitive sites in your vertical.
+That content then feeds back into the AI systems. The AI gets better at producing the kind of content that publishers are now using AI to produce. The information becomes less unique, less valuable, and less worth paying for. You end up with a slow, grinding collapse. The web fills with content that exists to train the systems that made the content unnecessary.
 
-## Revenue model options for publishers
+**Free content is becoming AI content. Everything else will need to be paid for.**
 
-| Revenue Model | Viability | Notes |
-|---|---|---|
-| Display advertising | Declining fast | AI overviews reduce click-through to pages |
-| Affiliate marketing | Under serious threat | AI summarises products well enough to bypass links |
-| Paywalls and subscriptions | Viable | Needs strong brand and genuinely differentiated content |
-| Sponsored content | Viable | Reputation risk if overdone or misaligned |
-| Email list monetisation | Strong | Owned audience is resilient to platform changes |
-| Events, courses, webinars | Growing | AI cannot replicate live interaction and community |
-| Data licensing and API access | Emerging | Requires legal clarity and industry cohesion |
-| Donations and crowdfunding | Niche | Sustainable only for passionate, loyal followings |
+I think what will happen is free content will only be eitehr available in AI or by people who don't create it for the money. 
 
-## Where I've landed
+Most content that sits outside of AU — that offers something AI genuinely can't synthesise — will need a direct revenue relationship with the reader. Subscriptions, memberships, email, community.
 
-There's an inflection point coming, and it's going to be both fascinating and uncomfortable to watch. Either the platforms that scrape, summarise, and repackage content will find ways to return value to the people creating it, or we'll see more content go private — paywalled, gated, or withdrawn from the open web entirely.
+The danger of that outcome is real. The internet's genuine achievement — making information accessible to everyone, raising the floor of what an ordinary person could learn for free — depended on advertising subsidising that access. If content moves behind paywalls to survive, you get a two-tier knowledge economy - people who can pay for genuine expertise and insight, and everyone else who gets whatever the AI confidently tells them.
 
-My instinct is that the latter is more likely. The web will fracture into two layers: one of surface-level, commoditised information that AI systems surface for free, and another where the real thinking, nuance, and value lives behind closed doors.
-
-Until there's a viable revenue model for open content in the generative era, visibility alone won't be enough. Publishers will need to build ecosystems that don't depend on Google to stay alive. Which is, ultimately, probably a good thing.
+That's a worse world than the one we've had. The open web genuinely educated people and it wasn't controlled by a handful of individuals. It's going to be interesting to see what happens because I think we will reach an inflection point very soon.
