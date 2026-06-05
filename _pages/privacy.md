@@ -91,7 +91,7 @@ To exercise any of these rights, please [contact us](/contact/).
 
 ## 7. Links to other websites
 
-Our website may contain links to third-party websites (such as Calendly, for scheduling). This Privacy Policy does not apply to those sites. We encourage you to review the privacy policies of any third-party services you use.
+Our website may contain links to third-party websites. This Privacy Policy does not apply to those sites. We encourage you to review the privacy policies of any third-party services you use.
 
 ## 8. Changes to this policy
 

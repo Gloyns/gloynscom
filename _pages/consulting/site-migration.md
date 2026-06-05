@@ -134,7 +134,7 @@ permalink: /consulting/site-migration/
       <h3 class="service-cta__title">Got a migration coming up? Let's talk early.</h3>
       <div class="service-cta__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="https://calendly.com/gloyns/discovery-call" class="service-hero__btn service-hero__btn--primary" target="_blank" rel="noopener">Schedule a call</a>
+        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
       </div>
     </div>
   </div>

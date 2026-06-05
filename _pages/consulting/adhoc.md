@@ -12,7 +12,7 @@ permalink: /consulting/adhoc/
       <h2 class="service-hero__title">A direct line to 15+ years of search experience.</h2>
       <p class="service-hero__description">Sometimes you don't need a retainer or a project. You need a straight answer from someone who actually knows what they're talking about. I'm available for 30 or 60-minute consultations to answer a specific question, sense-check a decision, or give an honest second opinion on work you've already done.</p>
       <div class="service-hero__buttons">
-        <a href="https://calendly.com/gloyns/60-min-consultation" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
+        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
       </div>
     </div>
@@ -54,7 +54,7 @@ permalink: /consulting/adhoc/
       <div class="service-grid__card">
         <span class="service-grid__number">01</span>
         <h4 class="service-grid__card-title">Book a 30 or 60-minute slot</h4>
-        <p class="service-grid__card-desc">Use the Calendly link to pick a time that works. Slots are available most weeks — I'll confirm within 24 hours.</p>
+        <p class="service-grid__card-desc">Get in touch to pick a time that works. Slots are available most weeks — I'll confirm within 24 hours.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">02</span>
@@ -133,7 +133,7 @@ permalink: /consulting/adhoc/
       <h3 class="service-cta__title">Have a search question that needs a straight answer?</h3>
       <div class="service-cta__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="https://calendly.com/gloyns/60-min-consultation" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
+        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
       </div>
     </div>
   </div>

@@ -51,19 +51,9 @@ permalink: /contact/
       <h1 class="contact-hero__label">Contact</h1>
       <h2 class="contact-hero__title">Let's talk about your search.</h2>
       <p class="contact-hero__description">The best place to start is a 30-minute discovery call. This is just a conversation about where you are, where you want to get to, and whether I'm the right person to help.</p>
+      <p class="contact-hero__description">Send me a quick message below and I'll reply with a link to book a time that suits you.</p>
       <p class="contact-hero__note">If I'm not the right fit, I'll let you know and do my best to point you in the right direction.</p>
-    </div>
-    <div class="contact-hero__right">
-      <div class="contact-card">
-        <span class="contact-card__label">Fastest way to start</span>
-        <h2 class="contact-card__title">Book a discovery call</h2>
-        <p class="contact-card__description">30 minutes. Pick a time that works for you directly from my calendar.</p>
-        <a href="https://calendly.com/gloyns/discovery-call" class="contact-card__cta" target="_blank" rel="noopener">Schedule a call &rarr;</a>
-        <div class="contact-card__divider">
-          <span>or send a message</span>
-        </div>
-        <a href="#contact-form" class="contact-card__message-btn">Send a message</a>
-      </div>
+      <a href="#contact-form" class="button button--primary">Send a message</a>
     </div>
   </div>
 </div>
@@ -95,7 +85,7 @@ permalink: /contact/
 <div class="container animate" id="contact-form">
   <div class="contact-form">
     <p class="contact-form__eyebrow">Send a message</p>
-    <h2 class="contact-form__heading">Prefer to write? Get in touch below.</h2>
+    <h2 class="contact-form__heading">Tell me what you're working on.</h2>
 
     <form action="https://formspree.io/f/mqegrkoy" method="POST">
       <input type="hidden" name="_next" value="https://gloyns.com/contact/thank-you/">
