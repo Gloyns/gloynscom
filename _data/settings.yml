@@ -320,7 +320,7 @@ cta:
   cta__button_1_text: "Get in touch"
   cta__button_1_url: "/contact/"
   cta__button_2_text: "Schedule a call"
-  cta__button_2_url: "https://calendly.com/gloyns/discovery-call"
+  cta__button_2_url: "/contact/"
 
 #-------------------------------
 # Footer Settings
