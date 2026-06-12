@@ -10,7 +10,7 @@ permalink: /consulting/ai-search-visibility/
   <div class="service-hero">
     <div class="service-hero__left">
       <h2 class="service-hero__title">Your brand, visible wherever people search.</h2>
-      <p class="service-hero__description">Some brands find that strong SEO performance doesn't always translate to AI platforms. Often that comes down to a misalignment in approach, I.e. optimising for signals that Google rewards but that AI systems don't weight the same way. AI platforms place far more emphasis on context, brand authority, and how a brand is portrayed across the web. Sometimes it's about stepping back and looking at how your brand is telling its story and whether that story is coherent and credible wherever AI systems are listening.</p>
+      <p class="service-hero__description">Some brands find that strong SEO performance doesn't always translate to AI platforms. Often that comes down to a misalignment in approach, I.e. optimising for signals that Google rewards but that AI systems don't weight the same way or content being inaccessile. AI platforms place far more emphasis on context, brand authority, and how a brand is portrayed across the web. Sometimes it's about stepping back and looking at how your brand is telling its story and whether that story is coherent and credible wherever AI systems are listening.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -34,11 +34,11 @@ permalink: /consulting/ai-search-visibility/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">My take</span>
+    <span class="service-content__label">My view</span>
     <h3 class="service-content__title">Is GEO / AEO just user-first SEO?</h3>
     <div class="service-content__text">
-      <p>Mostly, yes. The brands showing up in AI answers aren't the ones who've cracked a new algorithm. They're the ones who've been building genuine authority over time. What's changing is the search surface rather than the underlying principle.</p>
-      <p>That said, AI search does introduce some new considerations. The narrative your brand has built through your own content, coverage and how others talk about you matters more than it ever did in traditional search. Formatting can also help when core information needs more clarity</p>
+      <p>Mostly, yes. The brands showing up in AI answers aren't the ones who are doing anything special for these platforms. They're the ones who've been building genuine authority over time. What's changing is the search surface rather than the underlying principle.</p>
+      <p>That said, AI search does introduce some new considerations. The narrative your brand has built through your own content, coverage and how others talk about you matters more than it ever did in traditional search. Formatting can also help when core information needs more clarity and focusing on non-JS presentation is critical for ChatGPT.</p>
     </div>
     <blockquote class="service-quote">
       <p>Part of what I do is help brands understand the story AI systems are telling about them — positive or negative, where that sentiment comes from, and how to influence it when it's not aligned with how the brand wants to be seen.</p>
