@@ -3,13 +3,16 @@ layout: default
 title: Adhoc Consulting
 description: "A direct line to 15+ years of search experience. 30 or 60-minute consultations for specific SEO and AI search questions."
 permalink: /consulting/adhoc/
+service_name: "Adhoc Consulting"
+service_type: "SEO & AI Search Consulting Session"
+service_description: "30 or 60-minute consultations for specific SEO and AI search questions — a straight answer from an independent senior practitioner."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Adhoc Consulting</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">A direct line to 15+ years of search experience.</h2>
+      <h1 class="service-hero__title">A direct line to 15+ years of search experience.</h1>
       <p class="service-hero__description">Sometimes you don't need a retainer or a project. You need a straight answer from someone who actually knows what they're talking about. I'm available for 30 or 60-minute consultations to answer a specific question, sense-check a decision, or give an honest second opinion on work you've already done.</p>
       <div class="service-hero__buttons">
         <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--teal">Book a consult</a>
@@ -34,7 +37,6 @@ permalink: /consulting/adhoc/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Why adhoc works</span>
     <h3 class="service-content__title">Not every problem needs a full engagement.</h3>
     <div class="service-content__text">
       <p>A lot of search questions can be answered in an hour with the right person. Whether you're a founder who wants to understand whether your agency is doing the right things, a marketing manager trying to make sense of a traffic drop, or an in-house team that needs a sanity check before making a big decision.</p>
@@ -48,7 +50,6 @@ permalink: /consulting/adhoc/
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">How it works</span>
     <h3 class="service-content__title">Simple, direct, no overhead.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -77,7 +78,6 @@ permalink: /consulting/adhoc/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this is for</span>
     <h3 class="service-content__title">Anyone who needs a straight answer from someone independent.</h3>
     <div class="service-audience">
       <div class="service-audience__card">

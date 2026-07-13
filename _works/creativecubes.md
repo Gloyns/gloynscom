@@ -5,6 +5,7 @@ services: 'SEO Strategy, Local SEO, Paid Search'
 industry: 'Flexible Office Space'
 client: CreativeCubes
 region: 'Australia'
+role_line: 'Independent SEO consultant to CreativeCubes — working directly with the founding team on local SEO, strategy, and paid search.'
 logo: '/images/cc.png'
 logo_white: '/images/creative-cubes-white.webp'
 hero_video: '/images/creative-cubes.mp4'

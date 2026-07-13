@@ -3,13 +3,16 @@ layout: default
 title: Embedded Search Partner
 description: "A single voice of truth on search, embedded inside your team. Strategy, execution, measurement, and direct leadership reporting."
 permalink: /consulting/embedded-search-partner/
+service_name: "Embedded Search Partner"
+service_type: "SEO & AI Search Consulting"
+service_description: "Senior search strategy across SEO, AEO, content and measurement — embedded inside your team, onsite or remote."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Embedded Search Partner</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">A single voice of truth on search — inside your team.</h2>
+      <h1 class="service-hero__title">A single voice of truth on search — inside your team.</h1>
       <p class="service-hero__description">SEO is full of subjectivity, conflicting advice, and misinformation. What most organisations actually need is someone they trust to tell them how it is clearly, honestly and without an agenda. I sit inside your team, own the strategy, help execute it, and adjust how your team thinks about acquisition channels like search along the way.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
@@ -34,7 +37,6 @@ permalink: /consulting/embedded-search-partner/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">What makes this different</span>
     <h3 class="service-content__title">Not audits. Not recommendations. Actual progress.</h3>
     <div class="service-content__text">
       <p>I don't do audits — not in the traditional sense. A long document full of issues rarely moves the needle because it puts the burden of understanding and prioritisation entirely on your team. Instead I work from the inside: getting to know your business, your constraints, and your team's way of working, then driving the right priorities from within.</p>
@@ -48,7 +50,6 @@ permalink: /consulting/embedded-search-partner/
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">What I own</span>
     <h3 class="service-content__title">Strategy, execution, and the thinking behind both.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -77,7 +78,6 @@ permalink: /consulting/embedded-search-partner/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this is for</span>
     <h3 class="service-content__title">Best for organisations who want search done properly, long-term.</h3>
     <div class="service-audience">
       <div class="service-audience__card">

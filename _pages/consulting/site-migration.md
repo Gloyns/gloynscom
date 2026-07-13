@@ -3,13 +3,16 @@ layout: default
 title: Site Migration
 description: "Hundreds of site migrations over 15+ years. Minimise risk, maximise the opportunity, and get support through launch and beyond."
 permalink: /consulting/site-migration/
+service_name: "Site Migration"
+service_type: "SEO Site Migration Consulting"
+service_description: "SEO support for site migrations — content audit, URL mapping and redirects, technical review, launch and post-launch monitoring."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Site Migration</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">Move your site without losing what you've built.</h2>
+      <h1 class="service-hero__title">Move your site without losing what you've built.</h1>
       <p class="service-hero__description">A site migration is one of the highest-risk moments in SEO. Done well, it's an opportunity to grow. Done poorly, it can erase years of organic traffic overnight. I've supported hundreds of migrations — platform changes, full redesigns, domain moves — and I stay with you through launch and beyond.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
@@ -35,21 +38,19 @@ permalink: /consulting/site-migration/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Why this matters</span>
     <h3 class="service-content__title">Most migrations lose traffic. They don't have to.</h3>
     <div class="service-content__text">
       <p>The risks are well understood but routinely underestimated until it's too late. Broken redirects, lost canonical signals, crawl issues, content gaps — any one of these can cause significant traffic loss. And there's rarely just a single cause. Most migration issues come from a combination of several problems compounding.</p>
       <p>A migration is also an opportunity to take stock of what a site actually needs. Sometimes that means pruning old or low-quality content, improving the overall health of the site, and resetting expectations for what traffic should look like post-launch. A healthier, more relevant site performs better over time. Part of what I do is help set realistic expectations for the new traffic baseline and explain why these activities serve the long-term health of the site and brand.</p>
     </div>
     <blockquote class="service-quote">
-      <p>I've worked on migrations for Bupa, Nine Digital, SEEK, and many of others. The ones that go well are the ones where SEO is in the room from the start rather than brought in to fix problems after launch.</p>
+      <p>I've worked on migrations for Bupa, Nine Digital, SEEK, and many others. The ones that go well are the ones where SEO is in the room from the start rather than brought in to fix problems after launch.</p>
     </blockquote>
   </div>
 </div>
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">How I work through it</span>
     <h3 class="service-content__title">In the room from brief to beyond launch.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -78,7 +79,6 @@ permalink: /consulting/site-migration/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this is for</span>
     <h3 class="service-content__title">If a site change is coming, this conversation should happen now.</h3>
     <div class="service-audience">
       <div class="service-audience__card">

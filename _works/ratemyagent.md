@@ -5,6 +5,7 @@ services: 'Programmatic SEO, Enterprise SEO'
 industry: 'Real Estate'
 client: RateMyAgent
 region: 'Australia, New Zealand, USA'
+role_line: 'Independent SEO consultant to RateMyAgent — working with the team for eight years across programmatic and enterprise SEO.'
 image: '/images/rma-cover.webp'
 logo: '/images/rma-logo.png'
 logo_white: '/images/rma-logo-white.png'

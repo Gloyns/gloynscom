@@ -3,13 +3,16 @@ layout: default
 title: Traffic Recovery
 description: "Forensic analysis and recovery planning for organic traffic drops. I dig deep, find the real cause, and build the path back."
 permalink: /consulting/traffic-recovery/
+service_name: "Traffic Recovery"
+service_type: "SEO Traffic Recovery Consulting"
+service_description: "Forensic analysis and recovery planning for organic traffic drops — root cause identification, recovery roadmap, prevention."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Traffic Recovery</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">Dig deep. Be honest. Build the path back.</h2>
+      <h1 class="service-hero__title">Dig deep. Be honest. Build the path back.</h1>
       <p class="service-hero__description">An unexpected drop in organic traffic is one of the most stressful things a marketing team faces. I dig deep into what's happened — whether it's algorithmic, technical, or structural and I'll be honest about what I find and how to resolve it.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
@@ -34,7 +37,6 @@ permalink: /consulting/traffic-recovery/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">The problem with traffic drops</span>
     <h3 class="service-content__title">The cause is rarely what it looks like.</h3>
     <div class="service-content__text">
       <p>Teams under pressure tend to jump to the most visible explanation like a recent change, a competitor update, a Google update. Sometimes they're right. Often the real cause is something older and more structural that the visible event just brought to the surface. And tbh it's rarely just one thing — most cases involve a combination of several issues compounding over time.</p>
@@ -48,7 +50,6 @@ permalink: /consulting/traffic-recovery/
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">How I approach recovery</span>
     <h3 class="service-content__title">Forensic first. Action second.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -77,7 +78,6 @@ permalink: /consulting/traffic-recovery/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this is for</span>
     <h3 class="service-content__title">For anyone who's watching a graph go the wrong way.</h3>
     <div class="service-audience">
       <div class="service-audience__card">

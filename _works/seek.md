@@ -5,6 +5,7 @@ services: 'Embedded Search Partner'
 industry: 'Recruitment'
 client: SEEK
 region: 'APAC'
+role_line: 'Independent SEO consultant to SEEK — embedded with product, marketing, content, and development teams.'
 image: '/images/seekret.webp'
 image_caption: 'Credits: UM (Media Agency), TBWA (Creative Agency)'
 logo: '/images/seek-logo.png'

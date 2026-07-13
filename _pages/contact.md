@@ -39,7 +39,7 @@ permalink: /contact/
         "addressRegion": "VIC",
         "addressCountry": "AU"
       },
-      "founder": { "@id": "https://gloyns.com/#/schema/person/andrewgloyns" }
+      "founder": { "@id": "https://gloyns.com/#andrew" }
     }
   ]
 }
@@ -48,19 +48,20 @@ permalink: /contact/
 <div class="container animate">
   <div class="contact-hero">
     <div class="contact-hero__left">
-      <h1 class="contact-hero__label">Contact</h1>
-      <h2 class="contact-hero__title">Let's talk about your search.</h2>
+      <h1 class="contact-hero__title">Let's talk about your search.</h1>
       <p class="contact-hero__description">The best place to start is a 30-minute discovery call. This is just a conversation about where you are, where you want to get to, and whether I'm the right person to help.</p>
-      <p class="contact-hero__description">Send me a quick message below and I'll reply with a link to book a time that suits you.</p>
+      <p class="contact-hero__description">Book a time directly, or send me a quick message below and I'll reply with a link.</p>
       <p class="contact-hero__note">If I'm not the right fit, I'll let you know and do my best to point you in the right direction.</p>
-      <a href="#contact-form" class="button button--primary">Send a message</a>
+      <div class="hero__buttons">
+        <a href="https://calendly.com/gloyns/discovery-call" class="button button--primary" target="_blank" rel="noopener">Schedule a call</a>
+        <a href="#contact-form" class="button button--outline">Send a message</a>
+      </div>
     </div>
   </div>
 </div>
 
 <div class="container animate">
   <div class="contact-next">
-    <span class="contact-next__label">What happens next</span>
     <h3 class="contact-next__title">What to expect from a first conversation.</h3>
     <div class="contact-next__grid">
       <div class="contact-next__card">
@@ -84,7 +85,6 @@ permalink: /contact/
 
 <div class="container animate" id="contact-form">
   <div class="contact-form">
-    <p class="contact-form__eyebrow">Send a message</p>
     <h2 class="contact-form__heading">Tell me what you're working on.</h2>
 
     <form action="https://formspree.io/f/mqegrkoy" method="POST">
@@ -115,5 +115,8 @@ permalink: /contact/
 
       <button type="submit" class="contact-form__submit">Send message</button>
     </form>
+
+    <!-- TODO-ANDREW: confirm email should be published -->
+    <p class="contact-form__email-note">Prefer email? <a href="mailto:andrew@gloyns.com">andrew@gloyns.com</a></p>
   </div>
 </div>

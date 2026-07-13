@@ -8,8 +8,7 @@ permalink: /privacy/
 <div class="container animate">
   <div class="contact-hero" style="padding-bottom:0;">
     <div class="contact-hero__left">
-      <h1 class="contact-hero__label">Privacy Policy</h1>
-      <h2 class="contact-hero__title">Privacy Policy</h2>
+      <h1 class="contact-hero__title">Privacy Policy</h1>
       <p class="contact-hero__description">Last updated: April 2026</p>
     </div>
   </div>

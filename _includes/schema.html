@@ -1,0 +1,95 @@
+<!-- Sitewide Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://gloyns.com/#website",
+      "url": "https://gloyns.com/",
+      "name": "Gloyns Consulting",
+      "description": "AI Search & SEO Consulting",
+      "publisher": { "@id": "https://gloyns.com/#org" },
+      "inLanguage": "en-GB"
+    },
+    {
+      "@type": "Person",
+      "@id": "https://gloyns.com/#andrew",
+      "name": "Andrew Gloyns",
+      "givenName": "Andrew",
+      "familyName": "Gloyns",
+      "jobTitle": "AI Search & SEO Consultant",
+      "description": "Independent AI search (AEO/GEO) and SEO consultant with 15+ years of experience. Judge at the Global Search Awards and APAC Search Awards.",
+      "url": "https://gloyns.com/about/",
+      "image": "https://gloyns.com/images/andrew-gloyns.webp",
+      "worksFor": { "@id": "https://gloyns.com/#org" },
+      "knowsAbout": [
+        "Search Engine Optimisation",
+        "Answer Engine Optimisation",
+        "Generative Engine Optimisation",
+        "AI Search Visibility",
+        "Site Migration",
+        "SEO Expert Witness"
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Melbourne",
+        "addressRegion": "VIC",
+        "addressCountry": "AU"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/andrewgloyns/",
+        "https://bsky.app/profile/gloyns.com"
+      ]
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://gloyns.com/#org",
+      "name": "Gloyns Consulting Pty Ltd",
+      "alternateName": "gloyns.",
+      "url": "https://gloyns.com/",
+      "logo": "https://gloyns.com/images/gloyns-logo.webp",
+      "founder": { "@id": "https://gloyns.com/#andrew" },
+      "areaServed": ["Melbourne", "Australia", "Asia-Pacific"],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Melbourne",
+        "addressRegion": "VIC",
+        "addressCountry": "AU"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/andrewgloyns/",
+        "https://bsky.app/profile/gloyns.com"
+      ]
+    }
+  ]
+}
+</script>
+{% if page.service_name %}
+<!-- Service Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": {{ page.service_name | jsonify }},
+  "serviceType": {{ page.service_type | jsonify }},
+  "provider": { "@id": "https://gloyns.com/#org" },
+  "areaServed": ["Australia", "Asia-Pacific"],
+  "url": "{{ page.url | absolute_url }}",
+  "description": {{ page.service_description | jsonify }}
+}
+</script>
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": "{{ page.url | absolute_url }}#breadcrumb",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gloyns.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Services", "item": "https://gloyns.com/consulting/" },
+    { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }} }
+  ]
+}
+</script>
+{% endif %}

@@ -5,6 +5,7 @@ services: 'SEO Strategy, SEO Training, Site Migration'
 industry: 'Arts & Media Publishing'
 client: ArtsHub
 region: 'Australia, UK'
+role_line: 'Independent SEO consultant to ArtsHub — strategy, training, and a CMS migration delivered in partnership with CodeCo.'
 image: '/images/artshub-cover.webp'
 logo: '/images/artshub-logo.png'
 logo_white: '/images/artshub-white.png'

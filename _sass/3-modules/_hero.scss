@@ -13,15 +13,6 @@
   }
 }
 
-.hero__label {
-  display: inline-block;
-  margin-bottom: 24px;
-  font-size: 14px;
-  font-weight: 700;
-  letter-spacing: 1.5px;
-  text-transform: uppercase;
-  color: var(--primary-color);
-}
 
 .hero__title {
   margin-bottom: 28px;
@@ -37,6 +28,13 @@
   @media (max-width: $mobile) {
     font-size: 36px;
   }
+}
+
+.hero__subline {
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--heading-font-color);
 }
 
 .hero__description {

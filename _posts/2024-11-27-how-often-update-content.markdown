@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Google doesn't care how recently you updated your content. Here's what it actually cares about."
-description: "The idea that Google loves fresh content is one of the most misunderstood concepts in SEO. Here's what actually matters."
+title: "How often should you update your content? What Google and AI search actually reward"
+description: "The idea that Google loves fresh content is one of the most misunderstood concepts in SEO. Here's what actually matters — in rankings and in AI citations."
 date: 2024-11-27 15:01:35 +0500
-updated: 2024-12-03 12:11:35 +0500
+updated: 2026-07-13 09:00:00 +1000
 image: '/images/jules-a-NvFkYV2ngOk-unsplash.jpg'
 image_caption: 'Photo by <a href="https://unsplash.com/@julesea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jules a.</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-brother-typewriter-NvFkYV2ngOk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
 tags: [content]
@@ -63,6 +63,16 @@ User signals compound this. If your updates don't genuinely improve the content,
 **Update when you've identified real gaps.** If you notice competitors covering angles or sub-topics you don't, and those additions would genuinely help your reader, add them. Review what's ranking above you and ask honestly whether it's serving the user better — and if so, why.
 
 **Don't update for the sake of updating.** The weight SEO places on regular content refreshes is misleading and a drain on resources that could be better used elsewhere. Don't change dates, rephrase intros, or make superficial adjustments in the hope of signalling freshness. Google can see through it and users will feel it.
+
+## Does freshness matter for AI search?
+
+Since I first wrote this piece, the questions I get about updating content have shifted from "will Google reward it?" to "will ChatGPT cite it?"
+
+The librarian logic holds. AI systems are trying to give the best answer, not the newest one. When a platform runs a live web search to answer a prompt, it leans on the same quality and relevance signals search always has — and for genuinely time-sensitive topics it will favour sources that are current. Redating a page whose substance hasn't changed is the same superficial-edit problem as before, just in a new interface.
+
+Where updates do help your chances of being cited: a genuine revision that corrects the facts, adds something new, and makes the core information clearly structured and easy to extract. That's the kind of change AI systems can actually use — and it's a big part of the [AI search visibility](/consulting/ai-search-visibility/) work I do with brands.
+
+So the answer hasn't changed. Update when the information has genuinely changed, and it now pays off twice — in rankings and in AI citations.
 
 ## Focus on value. Not freshness.
 

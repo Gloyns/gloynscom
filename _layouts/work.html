@@ -13,6 +13,9 @@ layout: default
           {% if page.services %}<span class="cs-hero__tag-sep">&middot;</span><span>{{ page.services | upcase }}</span>{% endif %}
         </div>
         <h1 class="cs-hero__title">{{ page.title }}</h1>
+        {% if page.role_line %}
+        <p class="cs-hero__role">{{ page.role_line }}</p>
+        {% endif %}
         {% if page.description %}
         <p class="cs-hero__description">{{ page.description }}</p>
         {% endif %}

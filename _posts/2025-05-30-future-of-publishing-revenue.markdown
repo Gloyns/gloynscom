@@ -9,7 +9,7 @@ tags: [ai, content]
 
 I had a call recently with a long-standing publishing client. One of their sites was changing direction, and as part of that we were reviewing the revenue model. 
 
-We ended up having quite a blunt discussion about what publishing looks like when AI search is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
+We ended up having quite a blunt discussion about what publishing looks like when [AI search](/consulting/ai-search-visibility/) is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
 
 And that's a bit of a problem. Online publishing as a business has, pretty much since the inception of the commercial Internet, worked on a model of 'get click > sell ads'.
 
@@ -56,9 +56,9 @@ That content then feeds back into the AI systems. The AI gets better at producin
 
 **Free content is becoming AI content. Everything else will need to be paid for.**
 
-I think what will happen is free content will only be eitehr available in AI or by people who don't create it for the money. 
+I think what will happen is free content will only be either available in AI or by people who don't create it for the money.
 
-Most content that sits outside of AU — that offers something AI genuinely can't synthesise — will need a direct revenue relationship with the reader. Subscriptions, memberships, email, community.
+Most content that sits outside of AI — that offers something AI genuinely can't synthesise — will need a direct revenue relationship with the reader. Subscriptions, memberships, email, community.
 
 The danger of that outcome is real. The internet's genuine achievement — making information accessible to everyone, raising the floor of what an ordinary person could learn for free — depended on advertising subsidising that access. If content moves behind paywalls to survive, you get a two-tier knowledge economy - people who can pay for genuine expertise and insight, and everyone else who gets whatever the AI confidently tells them.
 

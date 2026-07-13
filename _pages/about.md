@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: "15+ years of independent SEO and AI Search consulting. A user-first approach to search that has always stood the test of time."
+description: "About Andrew Gloyns — independent AI search and SEO consultant in Melbourne, Australia. 15+ years helping brands get found in Google and cited in AI search."
 permalink: /about/
 ---
 
@@ -13,10 +13,10 @@ permalink: /about/
       "@type": "WebPage",
       "@id": "https://gloyns.com/about/#webpage",
       "url": "https://gloyns.com/about/",
-      "name": "About Andrew Gloyns - SEO & AI Search Consultant",
+      "name": "About Andrew Gloyns - AI Search & SEO Consultant",
       "isPartOf": { "@id": "https://gloyns.com/#website" },
       "primaryImageOfPage": { "@id": "https://gloyns.com/about/#primaryimage" },
-      "description": "Meet Andrew Gloyns, an SEO & AI Search Consultant helping clients gain visibility in search engines and AI platforms with a user-first, product-led approach.",
+      "description": "Meet Andrew Gloyns, an AI Search & SEO Consultant helping clients gain visibility in search engines and AI platforms with a user-first, product-led approach.",
       "breadcrumb": { "@id": "https://gloyns.com/about/#breadcrumb" },
       "inLanguage": "en-GB"
     },
@@ -37,23 +37,24 @@ permalink: /about/
     },
     {
       "@type": "Person",
-      "@id": "https://gloyns.com/#/schema/person/andrewgloyns",
+      "@id": "https://gloyns.com/#andrew",
       "name": "Andrew Gloyns",
       "givenName": "Andrew",
       "familyName": "Gloyns",
-      "url": "https://gloyns.com/",
-      "description": "Andrew Gloyns is an SEO & AI Search Consultant focused on helping brands achieve visibility across search engines and AI platforms. He specialises in a user-first, product-led approach to SEO and AI strategy.",
+      "url": "https://gloyns.com/about/",
+      "description": "Andrew Gloyns is an independent AI search (AEO/GEO) and SEO consultant based in Melbourne, Australia, helping brands get found in Google and cited in AI search.",
       "image": { "@id": "https://gloyns.com/about/#primaryimage" },
-      "jobTitle": "SEO & AI Search Consultant",
-      "worksFor": { "@id": "https://gloyns.com/#organization" },
+      "jobTitle": "AI Search & SEO Consultant",
+      "worksFor": { "@id": "https://gloyns.com/#org" },
       "sameAs": [
         "https://www.linkedin.com/in/andrewgloyns/",
-        "https://x.com/gloyns",
         "https://bsky.app/profile/gloyns.com"
       ],
       "knowsAbout": [
-        "Search Engine Optimization",
-        "AI Search Optimization",
+        "Search Engine Optimisation",
+        "AI Search Optimisation",
+        "Answer Engine Optimisation",
+        "Generative Engine Optimisation",
         "Technical SEO",
         "Content Strategy",
         "International SEO",
@@ -76,9 +77,10 @@ permalink: /about/
 <div class="container animate">
   <div class="about-hero">
     <div class="about-hero__left">
-      <h1 class="about-hero__label">About</h1>
-      <h2 class="about-hero__title">I've spent 15+ years making search work for brands that care about doing it right.</h2>
-      <p class="about-hero__description">I'm Andrew Gloyns - an independent SEO and AI Search consultant based in Melbourne, with 15+ years of experience helping brands grow their visibility across Google and, more recently, AI search (ChatGPT, AI Mode et al)</p>
+      <h1 class="about-hero__title">I've spent 15+ years making search work for brands that care about doing it right.</h1>
+      <p class="about-hero__description">I'm Andrew Gloyns - an independent AI search and SEO consultant with 15+ years of experience helping brands grow their visibility across Google and, more recently, AI search (ChatGPT, AI Mode et al).</p>
+      <!-- TODO-ANDREW: confirm Macedon Ranges vs Melbourne phrasing -->
+      <p class="about-hero__description">Based in the Macedon Ranges, Victoria — working with clients across Melbourne, Australia and APAC. You can also find me on <a href="https://www.linkedin.com/in/andrewgloyns/" target="_blank" rel="noopener">LinkedIn</a>.</p>
       <p class="about-hero__note">I don't run an agency and I don't have a team. When you work with me, you work with me.</p>
     </div>
     <div class="about-hero__right">
@@ -111,7 +113,7 @@ permalink: /about/
         <div class="about-timeline__entry is-active" id="timeline-1">
           <span class="about-timeline__entry-date">2010 — 2015</span>
           <h3 class="about-timeline__entry-title">Head of SEO, agency side</h3>
-          <p>I spent the first part of my search career in agency where I lead SEO teams across Melbourne and Sydney. We worked with blue-chip clients across retail, media, finance, and government.</p>
+          <p>I spent the first part of my search career in agency where I led SEO teams across Melbourne and Sydney. We worked with blue-chip clients across retail, media, finance, and government.</p>
           <p>Towards 2015 I started to notice something. As in-house teams became more capable, the agency model started to feel like it was solving the wrong problem. Clients weren't struggling to find people to do SEO tasks - they were struggling to know what to prioritise, and why. They needed a strategic partner rather than a managed service.</p>
         </div>
         <div class="about-timeline__entry" id="timeline-2">
@@ -124,6 +126,7 @@ permalink: /about/
           <span class="about-timeline__entry-date">Today</span>
           <h3 class="about-timeline__entry-title">Where I am now</h3>
           <p>The search landscape has changed significantly since 2015 however I'd argue the fundamentals (well, my fundamentals) haven't moved at all. Understanding what people actually need and making it easy for search engines and AI systems to surface you to them has always worked.</p>
+          <p>Alongside traditional SEO, I run AI search visibility programmes for brands including Bupa and Movember — measuring and improving how they're represented across ChatGPT, Gemini, Perplexity and Google's AI experiences.</p>
           <p>Alongside my client work, I'm a judge at the Global Search Awards and the APAC Search Awards where I judge agency submissions of their best work. It is unpaid and I do it to try to give back to the industry and to provide feedback where I feel it can be helpful for an individual or agency's development.</p>
         </div>
       </div>
@@ -135,8 +138,7 @@ permalink: /about/
   <div class="container">
     <div class="about-outside__inner">
       <div class="about-outside__content">
-        <span class="about-section__label">Outside of work</span>
-        <h3 class="about-outside__title">Life beyond the screen.</h3>
+        <h3 class="about-outside__title">Outside of work</h3>
         <p class="about-outside__description">Based in regional Victoria, I balance a busy professional life with a deep commitment to my family and the environment.</p>
         <p class="about-outside__description">Together with my wife and two children, we manage a small holding of livestock - including goats and a sizeable flock of chickens - while actively caring for the native forest and wildlife that surround us.</p>
         <p class="about-outside__description">Outside of that you'll find me coaching kids football (soccer) or tinkering with classic cars.</p>
