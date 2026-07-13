@@ -6,7 +6,7 @@ date: 2024-11-27 15:01:35 +0500
 updated: 2026-07-13 09:00:00 +1000
 image: '/images/jules-a-NvFkYV2ngOk-unsplash.jpg'
 image_caption: 'Photo by <a href="https://unsplash.com/@julesea?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">jules a.</a> on <a href="https://unsplash.com/photos/grayscale-photography-of-brother-typewriter-NvFkYV2ngOk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>'
-tags: [content]
+tags: [Content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 

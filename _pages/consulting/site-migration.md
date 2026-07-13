@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Site Migration
-description: "Hundreds of site migrations over 15+ years. Minimise risk, maximise the opportunity, and get support through launch and beyond."
+seo_title: "Site Migration SEO Consultant - Protect Traffic Through Replatforms"
+description: "Independent SEO consultant for site migrations, replatforms and rebrands. Migrations lose traffic when search is an afterthought - I make sure yours isn't."
 permalink: /consulting/site-migration/
-service_name: "Site Migration"
-service_type: "SEO Site Migration Consulting"
+service_name: "Site Migration SEO"
+service_type: "Site Migration SEO"
 service_description: "SEO support for site migrations - content audit, URL mapping and redirects, technical review, launch and post-launch monitoring."
 ---
 
@@ -12,7 +13,7 @@ service_description: "SEO support for site migrations - content audit, URL mappi
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Site Migration</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">Move your site without losing what you've built.</h1>
+      <h1 class="service-hero__title">Site Migration SEO</h1>
       <p class="service-hero__description">A site migration is one of the highest-risk moments in SEO. Done well, it's an opportunity to grow. Done poorly, it can erase years of organic traffic overnight. I've supported hundreds of migrations - platform changes, full redesigns, domain moves - and I stay with you through launch and beyond.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>

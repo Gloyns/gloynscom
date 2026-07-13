@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Adhoc Consulting
-description: "A direct line to 15+ years of search experience. 30 or 60-minute consultations for specific SEO and AI search questions."
+seo_title: "Ad Hoc SEO Consulting - Senior Advice On Demand"
+description: "Direct access to a senior SEO consultant without a retainer. A second opinion or a gnarly technical question, booked by the hour or day."
 permalink: /consulting/adhoc/
 service_name: "Adhoc Consulting"
 service_type: "SEO & AI Search Consulting Session"
@@ -12,7 +13,7 @@ service_description: "30 or 60-minute consultations for specific SEO and AI sear
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Adhoc Consulting</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">A direct line to 15+ years of search experience.</h1>
+      <h1 class="service-hero__title">Ad Hoc SEO Consulting</h1>
       <p class="service-hero__description">Sometimes you don't need a retainer or a project. You need a straight answer from someone who actually knows what they're talking about. I'm available for 30 or 60-minute consultations to answer a specific question, sense-check a decision, or give an honest second opinion on work you've already done.</p>
       <div class="service-hero__buttons">
         <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--teal">Book a consult</a>

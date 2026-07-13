@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Agency Partner
-description: "A senior search partner your creative agency can count on. I run the work, present to the client, and we agree terms upfront."
+seo_title: "White Label SEO Consultant for Agencies"
+description: "Senior SEO and AI search capability for creative and digital agencies - white label or alongside your team. I've sat on both sides of the agency relationship."
 permalink: /consulting/agency-partner/
-service_name: "Agency Partner"
-service_type: "Agency Search Partner"
+service_name: "SEO Partner for Agencies"
+service_type: "White Label SEO for Agencies"
 service_description: "A senior search partner for creative agencies - SEO, AI search, strategy and migrations, on a project or ongoing basis."
 ---
 
@@ -12,7 +13,7 @@ service_description: "A senior search partner for creative agencies - SEO, AI se
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Agency Partner</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">A senior search partner your agency can count on.</h1>
+      <h1 class="service-hero__title">SEO Partner for Agencies</h1>
       <p class="service-hero__description">Creative agencies come to me when search becomes part of the picture. Sometimes a client is asking about SEO or AI visibility and the agency wants to bring in a specialist rather than partner with a digital agency. Sometimes it's a new website or a migration and search needs to be right from the start. I come in, run the work, and we agree a straightforward revenue arrangement upfront.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>

@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Traffic Recovery
-description: "Forensic analysis and recovery planning for organic traffic drops. I dig deep, find the real cause, and build the path back."
+seo_title: "SEO Traffic Recovery Consultant - Diagnose & Recover Lost Traffic"
+description: "Lost organic traffic after an algorithm update, migration or redesign? I find the cause and build the recovery - with an honest read on what's recoverable."
 permalink: /consulting/traffic-recovery/
-service_name: "Traffic Recovery"
-service_type: "SEO Traffic Recovery Consulting"
+service_name: "SEO Traffic Recovery"
+service_type: "SEO Traffic Recovery"
 service_description: "Forensic analysis and recovery planning for organic traffic drops - root cause identification, recovery roadmap, prevention."
 ---
 
@@ -12,7 +13,7 @@ service_description: "Forensic analysis and recovery planning for organic traffi
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Traffic Recovery</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">Dig deep. Be honest. Build the path back.</h1>
+      <h1 class="service-hero__title">SEO Traffic Recovery</h1>
       <p class="service-hero__description">An unexpected drop in organic traffic is one of the most stressful things a marketing team faces. I dig deep into what's happened - whether it's algorithmic, technical, or structural and I'll be honest about what I find and how to resolve it.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>

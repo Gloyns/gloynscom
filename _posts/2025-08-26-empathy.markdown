@@ -4,7 +4,7 @@ title: Why empathy is the only content strategy that lasts
 description: The secret to content that ranks in Google and gets cited in AI search is more human than most people want to admit.
 date: 2025-08-26 14:00:00 +0000
 image: '/images/annie-spratt-unsplash.jpg'
-tags: [seo, ai, content]
+tags: [SEO, AI, Content]
 ---
 
 I could probably start and finish this article in one sentence: you need to actually give a shit about your users.

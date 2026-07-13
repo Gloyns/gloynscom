@@ -9,7 +9,7 @@ redirect_from:
   - /blog/no-such-thing-as-generative-engine-optimisation/
 image: '/images/bryn.jpg'
 image_caption: 'This image has nothing to do with GEO, but it is my baby goat Bryn and I like him'
-tags: [ai, geo]
+tags: [AI, GEO]
 ---
 
 GEO/AEO/[AI Search](/consulting/ai-search-visibility/) (the latter my preference) is a daily conversation at the moment and I'm often asked what we're doing differently, if anything for GEO vs SEO.
