@@ -484,3 +484,28 @@
     }
   }
 }
+/* Post author box */
+.post-authorbox {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-top: 48px;
+  padding: 20px 24px;
+  background-color: var(--background-alt-color);
+  border-radius: 12px;
+}
+
+.post-authorbox__avatar {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.post-authorbox__text {
+  margin: 0;
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text-alt-color);
+}

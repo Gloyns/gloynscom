@@ -3,13 +3,16 @@ layout: default
 title: Agency Partner
 description: "A senior search partner your creative agency can count on. I run the work, present to the client, and we agree terms upfront."
 permalink: /consulting/agency-partner/
+service_name: "Agency Partner"
+service_type: "Agency Search Partner"
+service_description: "A senior search partner for creative agencies - SEO, AI search, strategy and migrations, on a project or ongoing basis."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Agency Partner</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">A senior search partner your agency can count on.</h2>
+      <h1 class="service-hero__title">A senior search partner your agency can count on.</h1>
       <p class="service-hero__description">Creative agencies come to me when search becomes part of the picture. Sometimes a client is asking about SEO or AI visibility and the agency wants to bring in a specialist rather than partner with a digital agency. Sometimes it's a new website or a migration and search needs to be right from the start. I come in, run the work, and we agree a straightforward revenue arrangement upfront.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
@@ -34,7 +37,6 @@ permalink: /consulting/agency-partner/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Why agencies work with me</span>
     <h3 class="service-content__title">Senior search expertise your agency can rely on.</h3>
     <div class="service-content__text">
       <p>Agencies bring me in when the brief requires genuine depth. A complex site migration, an AI search visibility strategy, a client asking hard questions about where their traffic is going. I run the project, present to the client directly, and deliver work that reflects well on your agency.</p>
@@ -48,7 +50,6 @@ permalink: /consulting/agency-partner/
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">What I can help with</span>
     <h3 class="service-content__title">Across the full range of search challenges.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -77,7 +78,6 @@ permalink: /consulting/agency-partner/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this works for</span>
     <h3 class="service-content__title">Primarily for creative agencies, but not exclusively.</h3>
     <div class="service-audience">
       <div class="service-audience__card">
@@ -132,8 +132,7 @@ permalink: /consulting/agency-partner/
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Want to talk about working together?</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>

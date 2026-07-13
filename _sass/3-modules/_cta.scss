@@ -28,6 +28,14 @@
   }
 }
 
+.cta__description {
+  margin: 12px 0 0;
+  max-width: 480px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--text-alt-color);
+}
+
 .cta__buttons {
   display: flex;
   gap: 16px;

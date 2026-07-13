@@ -9,7 +9,7 @@ tags: [ai, content]
 
 I had a call recently with a long-standing publishing client. One of their sites was changing direction, and as part of that we were reviewing the revenue model. 
 
-We ended up having quite a blunt discussion about what publishing looks like when AI search is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
+We ended up having quite a blunt discussion about what publishing looks like when [AI search](/consulting/ai-search-visibility/) is extracting your content, synthesising it, and handing the answer directly to the user. No clicks and no revenue.
 
 And that's a bit of a problem. Online publishing as a business has, pretty much since the inception of the commercial Internet, worked on a model of 'get click > sell ads'.
 
@@ -23,7 +23,7 @@ The problem is that AI systems now read that content, synthesise it, and give th
 
 **Two tiers are emerging, and the middle is gone.**
 
-What this means for publishers is a split. General information — the broad how-tos, the explainers, the top-level stuff — will increasingly just come from AI. People will use it and move on. If someone wants to go deeper, into genuine expertise, into something the AI can't fully reconstruct, then they'll seek out a niche site with real authority. 
+What this means for publishers is a split. General information - the broad how-tos, the explainers, the top-level stuff - will increasingly just come from AI. People will use it and move on. If someone wants to go deeper, into genuine expertise, into something the AI can't fully reconstruct, then they'll seek out a niche site with real authority. 
 
 But the vast middle ground where users find competent, useful, broadly informative content at scale has nowhere to go.
 
@@ -44,7 +44,7 @@ At the New York Times DealBook Summit in December, OpenAI's Sam Altman was asked
 
 Google's Sundar Pichai has said he thinks a market solution will emerge, that there'll be a marketplace, that creators will figure it out.
 
-Maybe. But right now, nothing is happening. And AI companies are currently burning money at scale — the incentive to voluntarily introduce a cost that nobody is legally forcing them to pay isn't obvious. 
+Maybe. But right now, nothing is happening. And AI companies are currently burning money at scale - the incentive to voluntarily introduce a cost that nobody is legally forcing them to pay isn't obvious. 
 
 So, publishers aren't making enough noise and the regulatory environment hasn't caught up, meaning nothing happens.
 
@@ -56,10 +56,10 @@ That content then feeds back into the AI systems. The AI gets better at producin
 
 **Free content is becoming AI content. Everything else will need to be paid for.**
 
-I think what will happen is free content will only be eitehr available in AI or by people who don't create it for the money. 
+I think what will happen is free content will only be either available in AI or by people who don't create it for the money.
 
-Most content that sits outside of AU — that offers something AI genuinely can't synthesise — will need a direct revenue relationship with the reader. Subscriptions, memberships, email, community.
+Most content that sits outside of AI - that offers something AI genuinely can't synthesise - will need a direct revenue relationship with the reader. Subscriptions, memberships, email, community.
 
-The danger of that outcome is real. The internet's genuine achievement — making information accessible to everyone, raising the floor of what an ordinary person could learn for free — depended on advertising subsidising that access. If content moves behind paywalls to survive, you get a two-tier knowledge economy - people who can pay for genuine expertise and insight, and everyone else who gets whatever the AI confidently tells them.
+The danger of that outcome is real. The internet's genuine achievement - making information accessible to everyone, raising the floor of what an ordinary person could learn for free - depended on advertising subsidising that access. If content moves behind paywalls to survive, you get a two-tier knowledge economy - people who can pay for genuine expertise and insight, and everyone else who gets whatever the AI confidently tells them.
 
 That's a worse world than the one we've had. The open web genuinely educated people and it wasn't controlled by a handful of individuals. It's going to be interesting to see what happens because I think we will reach an inflection point very soon.

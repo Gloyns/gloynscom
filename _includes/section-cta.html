@@ -3,13 +3,15 @@
 <section class="section section-cta">
   <div class="container">
     <div class="cta__inner">
-      <h2 class="cta__title">{{ site.data.settings.cta.cta__title }}</h2>
+      <div class="cta__content">
+        <h2 class="cta__title">{{ site.data.settings.cta.cta__title }}</h2>
+        {% if site.data.settings.cta.cta__description %}
+        <p class="cta__description">{{ site.data.settings.cta.cta__description }}</p>
+        {% endif %}
+      </div>
       <div class="cta__buttons">
         {% if site.data.settings.cta.cta__button_1_text %}
-        <a href="{{ site.data.settings.cta.cta__button_1_url }}" class="button button--outline">{{ site.data.settings.cta.cta__button_1_text }}</a>
-        {% endif %}
-        {% if site.data.settings.cta.cta__button_2_text %}
-        <a href="{{ site.data.settings.cta.cta__button_2_url }}" class="button button--primary">{{ site.data.settings.cta.cta__button_2_text }}</a>
+        <a href="{{ site.data.settings.cta.cta__button_1_url }}" class="button button--primary">{{ site.data.settings.cta.cta__button_1_text }}</a>
         {% endif %}
       </div>
     </div>

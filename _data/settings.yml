@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Andrew Gloyns - SEO Consultant
+title: Andrew Gloyns - AI Search & SEO Consultant
 logo: '/images/gloyns-logo.webp'
-description: "Andrew Gloyns is an independent SEO and AI Search consultant helping ambitious brands grow their visibility across Google and AI answer engines."
+description: "Andrew Gloyns is an independent AI search (AEO/GEO) and SEO consultant in Melbourne, Australia. 15+ years helping brands get found in Google and cited in ChatGPT, Gemini, Perplexity and AI Overviews."
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -86,21 +86,20 @@ valueprops:
   enable: true
 
 valueprop__items:
-  - title: "Built around the user. Not the algorithm."
-    description: "Search engines and AI systems are both trying to serve users. It's always been that simple and it's why my approach always works regardless of how search evolves over time."
+  - title: "Built around the user"
+    description: "Google and AI systems are both trying to serve the same person. Optimise for that person and the approach holds no matter how search changes."
 
-  - title: "Trusted by the industry to set the standard."
-    description: "A judge at the <a href='https://www.globalsearchawards.net/' target='_blank'>Global Search Awards</a> and <a href='https://www.apacsearchawards.com/' target='_blank'>APAC Search Awards</a> — one of a small number of practitioners recognised at the highest level of the industry."
+  - title: "A judge at the industry's top awards"
+    description: "I judge at the <a href='https://www.globalsearchawards.net/' target='_blank'>Global Search Awards</a> and <a href='https://www.apacsearchawards.com/' target='_blank'>APAC Search Awards</a> - assessing the work of the world's best agencies and in-house teams."
 
-  - title: "Relationships built on results."
-    description: "My average client tenure is seven years. I think that comes down to doing honest work, getting real results, and treating the relationship as seriously as the brief."
+  - title: "Seven-year average client tenure"
+    description: "Honest work and real results. I treat the relationship as seriously as the brief, and clients tend to stay."
 
 #-------------------------------
 # Services Settings
 services:
   enable: true
-  services__label: How I work with you
-  services__title: "The right kind of support, at the right level."
+  services__title: "How I can help"
   services__footnote: "Also available: <a href='/consulting/adhoc/'>adhoc consulting</a> (hourly) · <a href='/consulting/expert-witness/'>SEO expert witness</a>"
 
 service__items:
@@ -108,13 +107,13 @@ service__items:
     badge_style: "retainer"
     title: "AI Search Visibility"
     url: "/consulting/ai-search-visibility/"
-    description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface, built on the same user-first principles as great SEO."
+    description: "Helping your brand show up in ChatGPT, Google AI Mode, Google AI Overviews, and every AI surface where your customers are asking questions."
 
   - badge: "Retainer"
     badge_style: "retainer"
     title: "Embedded Search Partner"
     url: "/consulting/embedded-search-partner/"
-    description: "I sit inside your team, either onsite or remote, owning search strategy across SEO, AEO, content, and measurement. From strategic Roadmap,to execution, and all the conversations in between."
+    description: "I sit inside your team, either onsite or remote, owning search strategy across SEO, AEO, content, and measurement. From strategic roadmap to execution, and all the conversations in between."
 
   - badge: "Project"
     badge_style: "project"
@@ -132,7 +131,7 @@ service__items:
     badge_style: "project"
     title: "Traffic Recovery"
     url: "/consulting/traffic-recovery/"
-    description: "If you've taken an unexpected hit — algorithmic, technical, or otherwise — I find the cause and build the path back."
+    description: "If you've taken an unexpected hit - algorithmic, technical, or otherwise - I find the cause and build the path back."
 
   - badge: "Agency"
     badge_style: "dark"
@@ -144,14 +143,13 @@ service__items:
 # Process Settings
 process:
   enable: true
-  process__label: How I work with clients
   process__title: "Every engagement starts the same way."
-  process__intro: "Before I make a single recommendation, I need to understand your business — your users, your team, your history, and your constraints. That understanding is what separates a generic roadmap from one your team can actually execute."
+  process__intro: "Before I make a single recommendation, I need to understand your business - your users, your team, your history, and your constraints. That understanding is what separates a generic roadmap from one your team can actually execute."
 
 process__items:
   - number: "01"
     title: "Discovery"
-    description: "I get to know your business properly — your tech stack, your customer, what you've tried, what's worked, and what hasn't."
+    description: "I get to know your business properly - your tech stack, your customer, what you've tried, what's worked, and what hasn't."
 
   - number: "02"
     title: "Competitive analysis"
@@ -159,19 +157,19 @@ process__items:
 
   - number: "03"
     title: "Roadmap"
-    description: "A clear, prioritised plan — ordered by impact and feasibility, mapped to your team's actual capacity."
+    description: "A clear, prioritised plan - ordered by impact and feasibility, mapped to your team's actual capacity."
 
   - number: "04"
     title: "Working with your team"
-    description: "I work directly with your marketers, developers, and product managers. I dont just hand over a long document and wish you luck."
+    description: "I work directly with your marketers, developers, and product managers. I don't just hand over a long document and wish you luck."
 
   - number: "05"
     title: "Technical architecture"
-    description: "I get the foundations right — crawlability, structure, schema, performance — so search engines and AI systems can find and understand what you do."
+    description: "I get the foundations right - crawlability, structure, schema, performance - so search engines and AI systems can find and understand what you do."
 
   - number: "06"
     title: "Iteration and improvement"
-    description: "Search isn't a project with an end date. I measure, learn, and adapt — constantly finding new opportunities and improving on what's working."
+    description: "Search isn't a project with an end date. I measure, learn, and adapt - constantly finding new opportunities and improving on what's working."
 
 #-------------------------------
 # Newsletter
@@ -186,8 +184,7 @@ mailchimp:
 # Work Settings
 work:
   enable: true
-  work__label: Case Studies
-  work__title: "Results that speak for themselves."
+  work__title: "Case studies"
 
 casestudy__items:
   - name: "SEEK"
@@ -196,7 +193,7 @@ casestudy__items:
     industry: "Recruitment"
     engagement: "Embedded Search Partner"
     title: "From zero to 1M+ monthly clicks for SEEK's Career Advice"
-    description: "User-first content strategy, SEO architecture, and close collaboration with product and editorial teams — built from scratch."
+    description: "User-first content strategy, SEO architecture, and close collaboration with product and editorial teams - built from scratch."
     metric: "1M+"
     metric_description: "monthly organic clicks"
     quote: "Andrew's approach fundamentally changed how we thought about content. The results speak for themselves."
@@ -309,23 +306,21 @@ blog:
   enable: true
 
 blog__settings:
-  blog__label: Writing
-  blog__title: "Thinking out loud."
+  blog__title: "Writing"
 
 #-------------------------------
 # CTA Settings
 cta:
   enable: true
-  cta__title: "Ready to talk about where your search is heading?"
+  cta__title: "Get in touch"
+  cta__description: "Tell me what's happening with your search and I'll tell you honestly whether I can help."
   cta__button_1_text: "Get in touch"
   cta__button_1_url: "/contact/"
-  cta__button_2_text: "Schedule a call"
-  cta__button_2_url: "/contact/"
 
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-footer_acknowledgement: "I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live and work. This country has been cared for over thousands of years. I am proud to play my small part in continuing that care \u2014 for the land, the trees, and the animals that share it."
+footer_acknowledgement: "I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live and work. This country has been cared for over thousands of years. I am proud to play my small part in continuing that care - for the land, the trees, and the animals that share it."
 footer_acknowledgement_2: "I pay my respects to elders past, present and future."
 
 #-------------------------------

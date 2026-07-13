@@ -9,17 +9,17 @@ tags: [seo, ai, content]
 
 I could probably start and finish this article in one sentence: you need to actually give a shit about your users.
 
-I spend a lot of time working with people to understand why their content underperforms in search. Often I'm handed a piece of content and asked how I'd improve it. There's usually an expectation I'll come back with a list of fixes — new sections, a table of contents, better heading structure. Maybe some of that helps at the margins. But it won't result in a step change in performance.
+I spend a lot of time working with people to understand why their content underperforms in search. Often I'm handed a piece of content and asked how I'd improve it. There's usually an expectation I'll come back with a list of fixes - new sections, a table of contents, better heading structure. Maybe some of that helps at the margins. But it won't result in a step change in performance.
 
 More often than not, the real reason content doesn't rank or get cited in AI search is because it doesn't actually satisfy the user. Not technically. Emotionally.
 
 ## The missing half of 'user intent'
 
-We talk about user intent in SEO all the time. Informational, navigational, transactional — the taxonomy is well understood. But there's a second half to user intent that almost nobody talks about, and it's the part that actually determines whether content connects.
+We talk about user intent in SEO all the time. Informational, navigational, transactional - the taxonomy is well understood. But there's a second half to user intent that almost nobody talks about, and it's the part that actually determines whether content connects.
 
 The real questions are: what is the person actually trying to achieve? And where are they at emotionally when they search?
 
-Because if you can tap into that — if you can genuinely understand their situation and create content that meets them there — isn't that the whole point? We often lose sight of this and default to checklists: topic clusters, heading structures, keyword density. None of that matters if the content doesn't care about the person reading it.
+Because if you can tap into that - if you can genuinely understand their situation and create content that meets them there - isn't that the whole point? We often lose sight of this and default to checklists: topic clusters, heading structures, keyword density. None of that matters if the content doesn't care about the person reading it.
 
 Their feelings in that moment shape everything: how you open the article, how you speak to them, and how you close it. Empathy is how you win. It's how you rank. It's how you get cited in Google, ChatGPT, Perplexity, and Claude.
 
@@ -31,7 +31,7 @@ Let me give you an example. I worked with SEEK on an article about what to wear 
 
 **The emotional intent** is where the real work is.
 
-Think about the person searching for this. They've gone through a huge effort to get to this point — dozens of applications, likely some rejection. They finally have an interview and they're anxious. They have a deep fear of being judged incorrectly and losing the opportunity over something as simple as their outfit. They're hopeful but lacking confidence. They just want to be told what to wear and why.
+Think about the person searching for this. They've gone through a huge effort to get to this point - dozens of applications, likely some rejection. They finally have an interview and they're anxious. They have a deep fear of being judged incorrectly and losing the opportunity over something as simple as their outfit. They're hopeful but lacking confidence. They just want to be told what to wear and why.
 
 When you understand that, you can't write a generic tick-box article. Your entire approach changes.
 
@@ -46,16 +46,16 @@ It's technically optimised. It's also robotic and misses the human entirely.
 Here's the empathetic version:
 
 <div class="content-example">
-<p>Whether it's your first job, you're returning to the workforce, or you're changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important. Before getting ready for your interview, read this guide. And remember — no matter what you wear, you should aim to feel comfortable and confident.</p>
+<p>Whether it's your first job, you're returning to the workforce, or you're changing industries, finding the right interview clothes can be one of the most daunting parts of job seeking. You naturally want to make the best first impression possible, which is why presentation is so important. Before getting ready for your interview, read this guide. And remember - no matter what you wear, you should aim to feel comfortable and confident.</p>
 </div>
 
 See the difference? You've acknowledged their journey, validated their anxiety, and positioned your advice as the path to the confidence they're looking for. You've shown them you understand. You've given them a reason to trust you.
 
 ## From content to content as a product
 
-This is where the real shift happens. When you focus on the user's entire problem — the factual and the emotional — you stop making content and you start building a product.
+This is where the real shift happens. When you focus on the user's entire problem - the factual and the emotional - you stop making content and you start building a product.
 
-A product-led mindset means your content isn't just an asset designed to attract a click. It is the solution itself. It genuinely helps someone solve their problem. Most strategies today focus on visibility in AI systems. But visibility isn't the goal. For it to matter, you have to be the answer they're actually looking for.
+A product-led mindset means your content isn't just an asset designed to attract a click. It is the solution itself. It genuinely helps someone solve their problem. Most strategies today focus on [visibility in AI systems](/consulting/ai-search-visibility/). But visibility isn't the goal. For it to matter, you have to be the answer they're actually looking for.
 
 This is the difference between being a mention and being the answer.
 
@@ -75,8 +75,8 @@ For the interview example:
 
 ## Why this approach holds up regardless of what search becomes
 
-Google, ChatGPT, Perplexity — they all have the same job. Keep users on their platform by giving them answers that are not just correct but genuinely helpful and satisfying. They're all moving toward providing solutions, not just links.
+Google, ChatGPT, Perplexity - they all have the same job. Keep users on their platform by giving them answers that are not just correct but genuinely helpful and satisfying. They're all moving toward providing solutions, not just links.
 
 The core principle has been true for decades: solve real user problems, and the systems that connect users to solutions will find you. The interface changes. The algorithms evolve. Human nature doesn't.
 
-If you keep your focus on the human on the other side of the screen — their job to be done, their emotional state, their situation — you'll create something genuinely helpful. I can't think of an instance when that hasn't been the right direction to go.
+If you keep your focus on the human on the other side of the screen - their job to be done, their emotional state, their situation - you'll create something genuinely helpful. I can't think of an instance when that hasn't been the right direction to go.

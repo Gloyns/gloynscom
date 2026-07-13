@@ -8,8 +8,7 @@ permalink: /privacy/
 <div class="container animate">
   <div class="contact-hero" style="padding-bottom:0;">
     <div class="contact-hero__left">
-      <h1 class="contact-hero__label">Privacy Policy</h1>
-      <h2 class="contact-hero__title">Privacy Policy</h2>
+      <h1 class="contact-hero__title">Privacy Policy</h1>
       <p class="contact-hero__description">Last updated: April 2026</p>
     </div>
   </div>
@@ -46,7 +45,7 @@ We use Overtracking (overtracking.com), a privacy-focused analytics tool, to und
 - No personal data (such as IP addresses or device identifiers) is collected or stored
 - Your visit cannot be tracked across other websites
 
-The data collected by Overtracking is aggregate and anonymous — it tells us things like which pages are visited most often and general traffic volumes. It does not identify you as an individual.
+The data collected by Overtracking is aggregate and anonymous - it tells us things like which pages are visited most often and general traffic volumes. It does not identify you as an individual.
 
 ### Email communications
 

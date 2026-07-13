@@ -8,7 +8,7 @@ layout: default
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Article",
+      "@type": "BlogPosting",
       "@id": "{{ site.url }}{{ page.url }}#article",
       "headline": {{ page.title | jsonify }},
       "description": {% if page.description %}{{ page.description | jsonify }}{% else %}{{ page.content | strip_html | truncate: 160 | jsonify }}{% endif %},
@@ -18,10 +18,10 @@ layout: default
         "@id": "{{ site.url }}{{ page.url }}#webpage"
       },
       "author": {
-        "@id": "https://gloyns.com/#/schema/person/andrewgloyns"
+        "@id": "https://gloyns.com/#andrew"
       },
       "publisher": {
-        "@id": "https://gloyns.com/#organization"
+        "@id": "https://gloyns.com/#org"
       },
       {% if page.image %}"image": {
         "@type": "ImageObject",
@@ -88,9 +88,13 @@ layout: default
     <h1 class="article-hero__title">{{ page.title | escape }}</h1>
 
     <div class="article-hero__meta">
-      <span class="article-hero__author">{{ site.data.settings.author.author__name }}</span>
+      <span class="article-hero__author"><a href="/about/">{{ site.data.settings.author.author__name }}</a></span>
       <span class="article-hero__sep">&middot;</span>
       <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %Y" }}</time>
+      {% if page.updated %}
+      <span class="article-hero__sep">&middot;</span>
+      <span>Updated <time datetime="{{ page.updated | date_to_xmlschema }}">{{ page.updated | date: "%B %Y" }}</time></span>
+      {% endif %}
       <span class="article-hero__sep">&middot;</span>
       <span>{% if words < 360 %}1 min read{% else %}{{ words | divided_by:180 }} min read{% endif %}</span>
     </div>
@@ -103,6 +107,11 @@ layout: default
 
     <article class="post">
       {{ content }}
+
+      <div class="post-authorbox">
+        <img class="post-authorbox__avatar" src="{{ site.data.settings.author.author__avatar }}" alt="{{ site.data.settings.author.author__name }}" width="56" height="56" loading="lazy">
+        <p class="post-authorbox__text"><a href="/about/">Andrew Gloyns</a> is an independent AI search and SEO consultant based in Melbourne, Australia. He helps brands get found in Google and cited in AI search through <a href="/consulting/ai-search-visibility/">AI search visibility consulting</a>.</p>
+      </div>
     </article>
 
     <aside class="post-sidebar">
@@ -112,7 +121,7 @@ layout: default
         </div>
         <h3 class="post-sidebar__name">{{ site.data.settings.author.author__name }}</h3>
         <p class="post-sidebar__bio">Search consultant. Occasional goat wrangler.</p>
-        <a href="{{ site.baseurl }}/contact/" class="post-sidebar__cta">Schedule a call</a>
+        <a href="{{ site.baseurl }}/contact/" class="post-sidebar__cta">Get in touch</a>
       </div>
 
       <nav class="post-sidebar__toc" id="post-toc">

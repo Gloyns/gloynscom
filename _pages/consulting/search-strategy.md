@@ -3,13 +3,16 @@ layout: default
 title: SEO Strategy
 description: "A defined engagement that maps your search landscape across SEO and AI, then hands you a prioritised roadmap to execute."
 permalink: /consulting/seo-strategy/
+service_name: "SEO Strategy"
+service_type: "SEO Strategy Consulting"
+service_description: "A defined engagement that maps your search landscape across SEO and AI, then hands you a prioritised roadmap to execute."
 ---
 
 <div class="container animate">
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / SEO Strategy</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h2 class="service-hero__title">Know exactly where to focus and why.</h2>
+      <h1 class="service-hero__title">Know exactly where to focus and why.</h1>
       <p class="service-hero__description">A defined engagement that maps your search landscape, identifies where the real opportunity is, and hands you a prioritised roadmap your team can actually execute. Clear priorities with clear rationale.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
@@ -33,7 +36,6 @@ permalink: /consulting/seo-strategy/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Why strategy first</span>
     <h3 class="service-content__title">Tactics without direction won't move the needle.</h3>
     <div class="service-content__text">
       <p>A lot of SEO effort gets distributed across whatever feels most urgent without a coherent view of where the real opportunity lies. When providers focus on tactics, the work can start to rub against the brand and user-led principles that should be driving long-term performance.</p>
@@ -47,7 +49,6 @@ permalink: /consulting/seo-strategy/
 
 <div class="container animate">
   <div class="service-content service-content--tinted">
-    <span class="service-content__label">How it works</span>
     <h3 class="service-content__title">A defined process with a clear deliverable.</h3>
     <div class="service-grid">
       <div class="service-grid__card">
@@ -76,7 +77,6 @@ permalink: /consulting/seo-strategy/
 
 <div class="container animate">
   <div class="service-content">
-    <span class="service-content__label">Who this is for</span>
     <h3 class="service-content__title">For teams who feel like their search efforts lack direction.</h3>
     <div class="service-audience">
       <div class="service-audience__card">
@@ -111,7 +111,7 @@ permalink: /consulting/seo-strategy/
       <div class="service-proof__right">
         <div class="service-proof__card">
           <span class="service-proof__card-label">Example</span>
-          <p class="service-proof__card-text">A large classifieds site — full market share analysis, key risks and opportunities across competitive landscape</p>
+          <p class="service-proof__card-text">A large classifieds site - full market share analysis, key risks and opportunities across competitive landscape</p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Scope</span>
@@ -127,8 +127,7 @@ permalink: /consulting/seo-strategy/
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Ready to get a clear picture of your search opportunity?</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>
