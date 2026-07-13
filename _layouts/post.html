@@ -80,7 +80,7 @@ layout: default
     {% if page.tags.size >= 1 %}
     <div class="article-hero__tags">
       {% for tag in page.tags %}
-        <span class="article-hero__tag">{{ tag | upcase }}</span>
+        <span class="article-hero__tag">{{ tag }}</span>
       {% endfor %}
     </div>
     {% endif %}

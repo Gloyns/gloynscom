@@ -1,9 +1,10 @@
 ---
 layout: default
 title: SEO Strategy
-description: "A defined engagement that maps your search landscape across SEO and AI, then hands you a prioritised roadmap to execute."
+seo_title: "SEO Strategy Consultant - Andrew Gloyns, Melbourne"
+description: "Senior SEO strategy consulting for brands where organic is a revenue channel, not a checkbox. 15+ years across SEEK, Bupa, News Corp."
 permalink: /consulting/seo-strategy/
-service_name: "SEO Strategy"
+service_name: "SEO Strategy Consulting"
 service_type: "SEO Strategy Consulting"
 service_description: "A defined engagement that maps your search landscape across SEO and AI, then hands you a prioritised roadmap to execute."
 ---
@@ -12,7 +13,7 @@ service_description: "A defined engagement that maps your search landscape acros
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / SEO Strategy</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">Know exactly where to focus and why.</h1>
+      <h1 class="service-hero__title">SEO Strategy Consulting</h1>
       <p class="service-hero__description">A defined engagement that maps your search landscape, identifies where the real opportunity is, and hands you a prioritised roadmap your team can actually execute. Clear priorities with clear rationale.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>

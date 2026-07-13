@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Embedded Search Partner
-description: "A single voice of truth on search, embedded inside your team. Strategy, execution, measurement, and direct leadership reporting."
+seo_title: "Fractional Head of SEO - Embedded Search Partner"
+description: "A senior search leader inside your team without the full-time hire. I own SEO and AI search strategy and report like an executive - because I've been one."
 permalink: /consulting/embedded-search-partner/
-service_name: "Embedded Search Partner"
-service_type: "SEO & AI Search Consulting"
+service_name: "Fractional Head of SEO (Embedded Search Partner)"
+service_type: "Fractional SEO Leadership"
 service_description: "Senior search strategy across SEO, AEO, content and measurement - embedded inside your team, onsite or remote."
 ---
 
@@ -12,8 +13,10 @@ service_description: "Senior search strategy across SEO, AEO, content and measur
   <div class="service-breadcrumb"><a href="/consulting/">Services</a> / Embedded Search Partner</div>
   <div class="service-hero">
     <div class="service-hero__left">
-      <h1 class="service-hero__title">A single voice of truth on search - inside your team.</h1>
-      <p class="service-hero__description">SEO is full of subjectivity, conflicting advice, and misinformation. What most organisations actually need is someone they trust to tell them how it is clearly, honestly and without an agenda. I sit inside your team, own the strategy, help execute it, and adjust how your team thinks about acquisition channels like search along the way.</p>
+      <!-- TODO-ANDREW: confirm adoption of "Fractional Head of SEO" as the lead term before merge. -->
+      <h1 class="service-hero__title">Fractional Head of SEO</h1>
+      <p class="service-hero__subline">Also known around here as the Embedded Search Partner.</p>
+      <p class="service-hero__description">If you've been searching for a fractional head of SEO, this is that - a senior search leader embedded in your team, without the full-time hire. SEO is full of subjectivity, conflicting advice, and misinformation. What most organisations actually need is someone they trust to tell them how it is clearly, honestly and without an agenda. I sit inside your team, own the strategy, help execute it, and adjust how your team thinks about acquisition channels like search along the way.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>

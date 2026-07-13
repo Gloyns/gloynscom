@@ -20,7 +20,7 @@ description: "Thinking out loud about SEO, AI search, content strategy, and the 
       <span class="writing-list__featured-label">Latest</span>
       <div class="writing-list__tags">
         {% for tag in post.tags %}
-          <span class="writing-list__tag">{{ tag | upcase }}</span>
+          <span class="writing-list__tag">{{ tag }}</span>
         {% endfor %}
       </div>
       <h3 class="writing-list__featured-title">{{ post.title }}</h3>
@@ -39,7 +39,7 @@ description: "Thinking out loud about SEO, AI search, content strategy, and the 
       <div class="writing-list__item-left">
         <div class="writing-list__tags">
           {% for tag in post.tags %}
-            <span class="writing-list__tag">{{ tag | upcase }}</span>
+            <span class="writing-list__tag">{{ tag }}</span>
           {% endfor %}
         </div>
         <h3 class="writing-list__title">{{ post.title }}</h3>

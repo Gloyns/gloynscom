@@ -1,7 +1,8 @@
 ---
 layout: services
 title: Services
-description: "Independent SEO and AI search consulting for brands who want lasting search visibility, not quick wins that won't survive."
+seo_title: "SEO & AI Search Consulting Services - Andrew Gloyns, Melbourne"
+description: "Independent consulting across SEO strategy, AI search visibility, site migrations, traffic recovery and expert witness work. Senior-only, direct."
 permalink: /consulting/
 image: ''
 image_caption: ''
@@ -31,25 +32,29 @@ image_caption: ''
     },
     {
       "@type": "Service",
-      "name": "Embedded Search Partner",
+      "name": "Fractional Head of SEO (Embedded Search Partner)",
+      "serviceType": "Fractional SEO Leadership",
       "description": "Senior search strategy across SEO, AEO, content, and measurement embedded inside your team.",
       "provider": { "@id": "https://gloyns.com/#org" }
     },
     {
       "@type": "Service",
-      "name": "Search Strategy",
+      "name": "SEO Strategy Consulting",
+      "serviceType": "SEO Strategy Consulting",
       "description": "A defined engagement mapping your landscape and handing you a prioritised roadmap across both traditional and AI search.",
       "provider": { "@id": "https://gloyns.com/#org" }
     },
     {
       "@type": "Service",
-      "name": "Site Migration",
+      "name": "Site Migration SEO",
+      "serviceType": "Site Migration SEO",
       "description": "Hundreds of migrations over 15+ years. Minimise risk, maximise opportunity, and support through launch and beyond.",
       "provider": { "@id": "https://gloyns.com/#org" }
     },
     {
       "@type": "Service",
-      "name": "Traffic Recovery",
+      "name": "SEO Traffic Recovery",
+      "serviceType": "SEO Traffic Recovery",
       "description": "If you've taken an unexpected hit - algorithmic, technical, or otherwise - I find the cause and build the path back.",
       "provider": { "@id": "https://gloyns.com/#org" }
     },

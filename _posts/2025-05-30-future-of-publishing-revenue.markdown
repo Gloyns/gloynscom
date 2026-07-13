@@ -4,7 +4,7 @@ title: AI Search & The Future of Publishing Revenue
 description: What happens to content businesses when AI systems extract and synthesise their work and serve it back without a reason to click?
 date: 2025-05-30 23:59:59 +0000
 image: '/images/life-aquatic-ag.jpg'
-tags: [ai, content]
+tags: [AI, Content]
 ---
 
 I had a call recently with a long-standing publishing client. One of their sites was changing direction, and as part of that we were reviewing the revenue model. 

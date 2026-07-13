@@ -6,7 +6,7 @@ date: 2025-02-19 08:30:35 +0500
 updated: 2025-02-19 08:30:35 +0500
 image: '/images/malkovich.jpg'
 image_caption: "Warning: This post contains references to Being John Malkovich, which is a fantastic movie. If you haven't seen it, I highly recommend it. It's must-see viewing. Now, let's explain why you don't want to be John Malkovich"
-tags: [content]
+tags: [Content]
 bluesky_post_uri: 'https://bsky.app/profile/gloyns.com/post/3lcekoqv7z22m'
 ---
 
