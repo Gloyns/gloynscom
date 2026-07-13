@@ -1,12 +1,12 @@
 ---
 layout: default
 title: SEO Expert Witness
-seo_title: "SEO Expert Witness — Andrew Gloyns | Independent Search Expert, Australia"
-description: "Independent SEO expert witness for legal proceedings — brand misuse, algorithm-related traffic loss, SEO malpractice, damages quantification. Court-ready analysis, expert reports, and testimony from a senior practitioner."
+seo_title: "SEO Expert Witness - Andrew Gloyns | Independent Search Expert, Australia"
+description: "Independent SEO expert witness for legal proceedings - brand misuse, algorithm-related traffic loss, SEO malpractice, damages quantification. Court-ready analysis, expert reports, and testimony from a senior practitioner."
 permalink: /consulting/expert-witness/
 service_name: "SEO Expert Witness"
 service_type: "SEO Expert Witness"
-service_description: "Independent SEO expert witness for legal proceedings — expert reports, rebuttal reports, depositions and court appearances."
+service_description: "Independent SEO expert witness for legal proceedings - expert reports, rebuttal reports, depositions and court appearances."
 ---
 
 <script type="application/ld+json">
@@ -19,7 +19,7 @@ service_description: "Independent SEO expert witness for legal proceedings — e
       "name": "What does an SEO expert witness do?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An SEO expert witness provides independent, authoritative analysis for SEO and organic search related matters — helping legal teams understand what happened, why, and what the standard of practice requires. That can include an initial case assessment, formal expert reports, rebuttal of opposing expert reports, and depositions, cross-examination and court appearances."
+        "text": "An SEO expert witness provides independent, authoritative analysis for SEO and organic search related matters - helping legal teams understand what happened, why, and what the standard of practice requires. That can include an initial case assessment, formal expert reports, rebuttal of opposing expert reports, and depositions, cross-examination and court appearances."
       }
     },
     {
@@ -35,7 +35,7 @@ service_description: "Independent SEO expert witness for legal proceedings — e
       "name": "How are expert reports structured?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A formal expert report sets out the analysis, methodology, and conclusions — structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy. My obligation is to the court and to the accurate representation of search industry standards, not the client's desired outcome."
+        "text": "A formal expert report sets out the analysis, methodology, and conclusions - structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy. My obligation is to the court and to the accurate representation of search industry standards, not the client's desired outcome."
       }
     }
   ]
@@ -47,7 +47,7 @@ service_description: "Independent SEO expert witness for legal proceedings — e
   <div class="service-hero">
     <div class="service-hero__left">
       <h1 class="service-hero__title">Independent SEO expertise for legal proceedings.</h1>
-      <p class="service-hero__description">I'm available as an expert witness for SEO and organic search related matters — providing independent, authoritative analysis that helps legal teams understand what happened, why, and what the standard of practice requires. Before moving into search, I worked at law firms in London and Hampshire, UK for a number of years. I understand the process, the standards expected of expert witnesses, and what it means to work alongside legal professionals.</p>
+      <p class="service-hero__description">I'm available as an expert witness for SEO and organic search related matters - providing independent, authoritative analysis that helps legal teams understand what happened, why, and what the standard of practice requires. Before moving into search, I worked at law firms in London and Hampshire, UK for a number of years. I understand the process, the standards expected of expert witnesses, and what it means to work alongside legal professionals.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -99,7 +99,7 @@ service_description: "Independent SEO expert witness for legal proceedings — e
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>
         <h4 class="service-grid__card-title">Rebuttal reports</h4>
-        <p class="service-grid__card-desc">Analysis of opposing expert reports — identifying errors, mischaracterisations, or gaps in technical reasoning.</p>
+        <p class="service-grid__card-desc">Analysis of opposing expert reports - identifying errors, mischaracterisations, or gaps in technical reasoning.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">04</span>
@@ -120,7 +120,7 @@ service_description: "Independent SEO expert witness for legal proceedings — e
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">IP and trademark practices</h4>
-        <p class="service-audience__card-desc">Cases where search engine manipulation of branded terms is at issue — including paid and organic tactics.</p>
+        <p class="service-audience__card-desc">Cases where search engine manipulation of branded terms is at issue - including paid and organic tactics.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Technology and media practices</h4>
@@ -145,16 +145,16 @@ service_description: "Independent SEO expert witness for legal proceedings — e
       </div>
       <div class="service-proof__right">
         <div class="service-proof__card">
-          <span class="service-proof__card-label">Matter — Melbourne law firm</span>
+          <span class="service-proof__card-label">Matter - Melbourne law firm</span>
           <p class="service-proof__card-text">A Melbourne law firm hired me to create a report supporting their client's dispute over brand misuse in an SEO play. My report contributed to resolving the matter before trial.</p>
         </div>
         <div class="service-proof__card">
-          <span class="service-proof__card-label">Matter — Commercial agreement</span>
+          <span class="service-proof__card-label">Matter - Commercial agreement</span>
           <p class="service-proof__card-text">Another law firm hired me to advise a client on minimising SEO impact during a commercial agreement termination, helping them proceed with confidence.</p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Recognition</span>
-          <p class="service-proof__card-text">Judge, Global Search Awards & APAC Search Awards — peer-recognised expertise at the highest level of the industry</p>
+          <p class="service-proof__card-text">Judge, Global Search Awards & APAC Search Awards - peer-recognised expertise at the highest level of the industry</p>
         </div>
       </div>
     </div>
@@ -165,18 +165,18 @@ service_description: "Independent SEO expert witness for legal proceedings — e
   <div class="service-content">
     <h3 class="service-content__title">Common questions</h3>
     <div class="service-faq">
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">What does an SEO expert witness do?</h4>
-        <p class="service-faq__answer">An SEO expert witness provides independent, authoritative analysis for SEO and organic search related matters — helping legal teams understand what happened, why, and what the standard of practice requires. That can include an initial case assessment, formal expert reports, rebuttal of opposing expert reports, and depositions, cross-examination and court appearances.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">What matters can an SEO expert witness assist with?</h4>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">What does an SEO expert witness do?</summary>
+        <p class="service-faq__answer">An SEO expert witness provides independent, authoritative analysis for SEO and organic search related matters - helping legal teams understand what happened, why, and what the standard of practice requires. That can include an initial case assessment, formal expert reports, rebuttal of opposing expert reports, and depositions, cross-examination and court appearances.</p>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">What matters can an SEO expert witness assist with?</summary>
         <p class="service-faq__answer">Brand misuse in SEO, algorithm-related traffic loss claims, SEO malpractice or negligence, domain and IP disputes, commercial agreement terminations, and damages quantification.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">How are expert reports structured?</h4>
-        <p class="service-faq__answer">A formal expert report sets out the analysis, methodology, and conclusions — structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy. My obligation is to the court and to the accurate representation of search industry standards, not the client's desired outcome.</p>
-      </div>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">How are expert reports structured?</summary>
+        <p class="service-faq__answer">A formal expert report sets out the analysis, methodology, and conclusions - structured to meet court requirements and written to be understood by non-technical readers without sacrificing accuracy. My obligation is to the court and to the accurate representation of search industry standards, not the client's desired outcome.</p>
+      </details>
     </div>
   </div>
 </div>

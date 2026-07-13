@@ -111,7 +111,7 @@ service_description: "A defined engagement that maps your search landscape acros
       <div class="service-proof__right">
         <div class="service-proof__card">
           <span class="service-proof__card-label">Example</span>
-          <p class="service-proof__card-text">A large classifieds site — full market share analysis, key risks and opportunities across competitive landscape</p>
+          <p class="service-proof__card-text">A large classifieds site - full market share analysis, key risks and opportunities across competitive landscape</p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">Scope</span>
@@ -127,8 +127,7 @@ service_description: "A defined engagement that maps your search landscape acros
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Ready to get a clear picture of your search opportunity?</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>

@@ -5,7 +5,7 @@ description: "A direct line to 15+ years of search experience. 30 or 60-minute c
 permalink: /consulting/adhoc/
 service_name: "Adhoc Consulting"
 service_type: "SEO & AI Search Consulting Session"
-service_description: "30 or 60-minute consultations for specific SEO and AI search questions — a straight answer from an independent senior practitioner."
+service_description: "30 or 60-minute consultations for specific SEO and AI search questions - a straight answer from an independent senior practitioner."
 ---
 
 <div class="container animate">
@@ -55,7 +55,7 @@ service_description: "30 or 60-minute consultations for specific SEO and AI sear
       <div class="service-grid__card">
         <span class="service-grid__number">01</span>
         <h4 class="service-grid__card-title">Book a 30 or 60-minute slot</h4>
-        <p class="service-grid__card-desc">Get in touch to pick a time that works. Slots are available most weeks — I'll confirm within 24 hours.</p>
+        <p class="service-grid__card-desc">Get in touch to pick a time that works. Slots are available most weeks - I'll confirm within 24 hours.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">02</span>
@@ -82,7 +82,7 @@ service_description: "30 or 60-minute consultations for specific SEO and AI sear
     <div class="service-audience">
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Founders and CEOs</h4>
-        <p class="service-audience__card-desc">You want to understand your search situation without being sold to. I give you an honest read — including if I think you're fine.</p>
+        <p class="service-audience__card-desc">You want to understand your search situation without being sold to. I give you an honest read - including if I think you're fine.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">In-house marketers</h4>
@@ -106,7 +106,7 @@ service_description: "30 or 60-minute consultations for specific SEO and AI sear
       <div class="service-proof__left">
         <h3 class="service-proof__title">You're talking directly to me. Not a team, not an account manager.</h3>
         <div class="service-proof__text">
-          <p>Adhoc sessions work because you get <strong>direct access to 15+ years of experience</strong> — not filtered through a junior who's escalating your question. The questions in a one-hour session get the same level of care as the ones I tackle for my retained clients.</p>
+          <p>Adhoc sessions work because you get <strong>direct access to 15+ years of experience</strong> - not filtered through a junior who's escalating your question. The questions in a one-hour session get the same level of care as the ones I tackle for my retained clients.</p>
         </div>
       </div>
       <div class="service-proof__right">

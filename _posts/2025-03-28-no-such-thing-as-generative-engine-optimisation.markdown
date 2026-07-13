@@ -46,14 +46,14 @@ These create positive user feedback loops that AI systems will learn to trust. Y
 
 AI is collapsing the old funnel. Top-of-funnel informational queries - "what is X" - are handled instantly and better than most content can manage. Bottom-of-funnel brand and pricing queries are increasingly absorbed and answered directly too.
 
-What's left is the middle of the funnel. The messy middle — where users are weighing options, validating choices, comparing products, and building trust. This is where a product-led mindset wins.
+What's left is the middle of the funnel. The messy middle - where users are weighing options, validating choices, comparing products, and building trust. This is where a product-led mindset wins.
 
 Can your content help someone make a complex decision? Does it reflect genuine experience and real-world detail? Does it solve a problem in a way an LLM's generic summary cannot?
 
-If an LLM can explain something better than you can, you're competing on the wrong ground. But if your content reflects deep user understanding and answers questions that are genuinely hard to answer, you'll stand out — not just to users, but to the retrieval systems designed to serve them.
+If an LLM can explain something better than you can, you're competing on the wrong ground. But if your content reflects deep user understanding and answers questions that are genuinely hard to answer, you'll stand out - not just to users, but to the retrieval systems designed to serve them.
 
 ## So what actually changes?
 
-For me, this is the same SEO I've always practised. The fundamentals haven't changed — they've just become more important and harder to fake. Focus on your actual product, your customer, and creating content that earns its place by answering real questions, guiding real decisions, and building real trust.
+For me, this is the same SEO I've always practised. The fundamentals haven't changed - they've just become more important and harder to fake. Focus on your actual product, your customer, and creating content that earns its place by answering real questions, guiding real decisions, and building real trust.
 
 You don't need to optimise for the engine other than just making sure your content is highly accessible and structured effectively. How you go from good to great is ensuring you are the best solution for the person the engine is trying to serve.

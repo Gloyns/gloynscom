@@ -5,7 +5,7 @@ description: "A senior search partner your creative agency can count on. I run t
 permalink: /consulting/agency-partner/
 service_name: "Agency Partner"
 service_type: "Agency Search Partner"
-service_description: "A senior search partner for creative agencies — SEO, AI search, strategy and migrations, on a project or ongoing basis."
+service_description: "A senior search partner for creative agencies - SEO, AI search, strategy and migrations, on a project or ongoing basis."
 ---
 
 <div class="container animate">
@@ -132,8 +132,7 @@ service_description: "A senior search partner for creative agencies — SEO, AI 
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Want to talk about working together?</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>

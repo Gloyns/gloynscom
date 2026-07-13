@@ -50,7 +50,7 @@ image_caption: ''
     {
       "@type": "Service",
       "name": "Traffic Recovery",
-      "description": "If you've taken an unexpected hit — algorithmic, technical, or otherwise — I find the cause and build the path back.",
+      "description": "If you've taken an unexpected hit - algorithmic, technical, or otherwise - I find the cause and build the path back.",
       "provider": { "@id": "https://gloyns.com/#org" }
     },
     {

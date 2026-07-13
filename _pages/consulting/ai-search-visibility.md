@@ -1,12 +1,12 @@
 ---
 layout: default
 title: AI Search Visibility
-seo_title: "AI Search Visibility Consultant (AEO/GEO) — Andrew Gloyns, Melbourne"
+seo_title: "AI Search Visibility Consultant (AEO/GEO) - Andrew Gloyns, Melbourne"
 description: "Independent AI search consultant helping brands get cited and recommended in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews. AEO/GEO strategy, measurement and narrative analysis. Melbourne, Australia."
 permalink: /consulting/ai-search-visibility/
 service_name: "AI Search Visibility Consulting"
 service_type: "AI Search Consulting (AEO/GEO)"
-service_description: "Answer engine optimisation (AEO) and generative engine optimisation (GEO) consulting — audits, strategy, measurement."
+service_description: "Answer engine optimisation (AEO) and generative engine optimisation (GEO) consulting - audits, strategy, measurement."
 ---
 
 <script type="application/ld+json">
@@ -19,7 +19,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
       "name": "What does an AI search consultant do?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "An AI search consultant helps your brand appear — and appear accurately — in AI-generated answers across platforms like ChatGPT, Gemini, Perplexity and Google's AI Overviews. In practice that means auditing where you currently show up, analysing why competitors are being cited instead of you, fixing the content and brand-authority gaps, and setting up measurement so you can see what's shifting."
+        "text": "An AI search consultant helps your brand appear - and appear accurately - in AI-generated answers across platforms like ChatGPT, Gemini, Perplexity and Google's AI Overviews. In practice that means auditing where you currently show up, analysing why competitors are being cited instead of you, fixing the content and brand-authority gaps, and setting up measurement so you can see what's shifting."
       }
     },
     {
@@ -27,7 +27,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
       "name": "Is this the same as GEO or AEO?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes — generative engine optimisation (GEO) and answer engine optimisation (AEO) are the industry's labels for the same work. I tend to say AI search visibility because clients care about the outcome, not the acronym. My view: it's roughly 90% the user-first SEO I've always practised, with new considerations around brand narrative and measurement."
+        "text": "Yes - generative engine optimisation (GEO) and answer engine optimisation (AEO) are the industry's labels for the same work. I tend to say AI search visibility because clients care about the outcome, not the acronym. My view: it's roughly 90% the user-first SEO I've always practised, with new considerations around brand narrative and measurement."
       }
     },
     {
@@ -35,7 +35,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
       "name": "How do you measure AI search visibility?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "I track how often a brand is mentioned, cited and recommended across the major AI platforms for the prompts that matter to its category — alongside sentiment and the sources AI systems are drawing from. That gives us a baseline, and a way to see whether the work is moving the numbers."
+        "text": "I track how often a brand is mentioned, cited and recommended across the major AI platforms for the prompts that matter to its category - alongside sentiment and the sources AI systems are drawing from. That gives us a baseline, and a way to see whether the work is moving the numbers."
       }
     },
     {
@@ -43,7 +43,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
       "name": "How is an engagement structured?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Most clients start with an AI visibility audit — a fixed-scope piece covering where you appear, the narrative AI systems hold about you, and a prioritised roadmap. From there it's either a retainer (I run the programme) or your team executes with periodic check-ins."
+        "text": "Most clients start with an AI visibility audit - a fixed-scope piece covering where you appear, the narrative AI systems hold about you, and a prioritised roadmap. From there it's either a retainer (I run the programme) or your team executes with periodic check-ins."
       }
     },
     {
@@ -63,8 +63,8 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
   <div class="service-hero">
     <div class="service-hero__left">
       <h1 class="service-hero__title">AI Search Visibility Consulting</h1>
-      <p class="service-hero__subline">Answer engine optimisation (AEO) and generative engine optimisation (GEO) — getting your brand cited, recommended and accurately represented in AI answers.</p>
-      <p class="service-hero__description">Strong SEO doesn't always translate to AI platforms. Google rewards signals that AI systems don't weight the same way — AI platforms lean far more on context, brand authority, and how your brand is portrayed across the web. Often the work is stepping back and asking whether the story your brand tells is coherent and credible everywhere AI systems are listening.</p>
+      <p class="service-hero__subline">AEO, GEO, or whatever you want to call it - I call it AI Search, because it covers every platform. I help your brand become more visible, and more likely to be recommended, in the answers AI platforms give your customers.</p>
+      <p class="service-hero__description">Strong SEO doesn't always translate to AI platforms. Google rewards signals that AI systems don't weight the same way - AI platforms lean far more on context, brand authority, and how your brand is portrayed across the web. Often the work is stepping back and asking whether the story your brand tells is coherent and credible everywhere AI systems are listening.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -91,10 +91,10 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
     <h3 class="service-content__title">Is GEO / AEO just good SEO?</h3>
     <div class="service-content__text">
       <p>Mostly, yes. The brands showing up in AI answers aren't the ones who are doing anything special for these platforms. They're the ones who've been building genuine authority over time. What's changing is the search surface rather than the underlying principle.</p>
-      <p>That said, AI search does introduce some new considerations. The narrative your brand has built through your own content, coverage and how others talk about you matters more than it ever did in traditional search. Formatting matters too — AI systems reward content where the core information is clearly structured and easy to extract.</p>
+      <p>That said, AI search does introduce some new considerations. The narrative your brand has built through your own content, coverage and how others talk about you matters more than it ever did in traditional search. Formatting matters too - AI systems reward content where the core information is clearly structured and easy to extract.</p>
     </div>
     <blockquote class="service-quote">
-      <p>Part of what I do is help brands understand the story AI systems are telling about them — positive or negative, where that sentiment comes from, and how to influence it when it's not aligned with how the brand wants to be seen.</p>
+      <p>Part of what I do is help brands understand the story AI systems are telling about them - positive or negative, where that sentiment comes from, and how to influence it when it's not aligned with how the brand wants to be seen.</p>
     </blockquote>
   </div>
 </div>
@@ -157,7 +157,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
       <div class="service-proof__left">
         <h3 class="service-proof__title">I've been working on this longer than the label existed.</h3>
         <div class="service-proof__text">
-          <p>User intent, content depth, and brand authority have always been the foundations of how I approach SEO. What I'm finding is that clients who've been built on these principles are already well positioned in AI search because it turns out this approach makes sense for SEO, AEO, and your complete web presence. You're not optimising for a single platform — you're optimising for the brand and the user, and that approach holds wherever search goes next.</p>
+          <p>User intent, content depth, and brand authority have always been the foundations of how I approach SEO. What I'm finding is that clients who've been built on these principles are already well positioned in AI search because it turns out this approach makes sense for SEO, AEO, and your complete web presence. You're not optimising for a single platform - you're optimising for the brand and the user, and that approach holds wherever search goes next.</p>
         </div>
       </div>
       <div class="service-proof__right">
@@ -182,26 +182,26 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
   <div class="service-content">
     <h3 class="service-content__title">Common questions</h3>
     <div class="service-faq">
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">What does an AI search consultant do?</h4>
-        <p class="service-faq__answer">An AI search consultant helps your brand appear — and appear accurately — in AI-generated answers across platforms like ChatGPT, Gemini, Perplexity and Google's AI Overviews. In practice that means auditing where you currently show up, analysing why competitors are being cited instead of you, fixing the content and brand-authority gaps, and setting up measurement so you can see what's shifting.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">Is this the same as GEO or AEO?</h4>
-        <p class="service-faq__answer">Yes — generative engine optimisation (GEO) and answer engine optimisation (AEO) are the industry's labels for the same work. I tend to say AI search visibility because clients care about the outcome, not the acronym. My view: it's roughly 90% the user-first SEO I've always practised, with new considerations around brand narrative and measurement.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">How do you measure AI search visibility?</h4>
-        <p class="service-faq__answer">I track how often a brand is mentioned, cited and recommended across the major AI platforms for the prompts that matter to its category — alongside sentiment and the sources AI systems are drawing from. That gives us a baseline, and a way to see whether the work is moving the numbers.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">How is an engagement structured?</h4>
-        <p class="service-faq__answer">Most clients start with an AI visibility audit — a fixed-scope piece covering where you appear, the narrative AI systems hold about you, and a prioritised roadmap. From there it's either a retainer (I run the programme) or your team executes with periodic check-ins.</p>
-      </div>
-      <div class="service-faq__item">
-        <h4 class="service-faq__question">Do you work outside Australia?</h4>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">What does an AI search consultant do?</summary>
+        <p class="service-faq__answer">An AI search consultant helps your brand appear - and appear accurately - in AI-generated answers across platforms like ChatGPT, Gemini, Perplexity and Google's AI Overviews. In practice that means auditing where you currently show up, analysing why competitors are being cited instead of you, fixing the content and brand-authority gaps, and setting up measurement so you can see what's shifting.</p>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">Is this the same as GEO or AEO?</summary>
+        <p class="service-faq__answer">Yes - generative engine optimisation (GEO) and answer engine optimisation (AEO) are the industry's labels for the same work. I tend to say AI search visibility because clients care about the outcome, not the acronym. My view: it's roughly 90% the user-first SEO I've always practised, with new considerations around brand narrative and measurement.</p>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">How do you measure AI search visibility?</summary>
+        <p class="service-faq__answer">I track how often a brand is mentioned, cited and recommended across the major AI platforms for the prompts that matter to its category - alongside sentiment and the sources AI systems are drawing from. That gives us a baseline, and a way to see whether the work is moving the numbers.</p>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">How is an engagement structured?</summary>
+        <p class="service-faq__answer">Most clients start with an AI visibility audit - a fixed-scope piece covering where you appear, the narrative AI systems hold about you, and a prioritised roadmap. From there it's either a retainer (I run the programme) or your team executes with periodic check-ins.</p>
+      </details>
+      <details class="service-faq__item">
+        <summary class="service-faq__question">Do you work outside Australia?</summary>
         <p class="service-faq__answer">Yes. I'm based in Melbourne and most clients are Australian, but the work is remote-friendly and I've delivered for brands across APAC.</p>
-      </div>
+      </details>
     </div>
   </div>
 </div>
@@ -211,8 +211,7 @@ service_description: "Answer engine optimisation (AEO) and generative engine opt
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Want to talk about your AI search visibility?</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>

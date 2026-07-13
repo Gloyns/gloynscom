@@ -5,7 +5,7 @@ description: "Hundreds of site migrations over 15+ years. Minimise risk, maximis
 permalink: /consulting/site-migration/
 service_name: "Site Migration"
 service_type: "SEO Site Migration Consulting"
-service_description: "SEO support for site migrations — content audit, URL mapping and redirects, technical review, launch and post-launch monitoring."
+service_description: "SEO support for site migrations - content audit, URL mapping and redirects, technical review, launch and post-launch monitoring."
 ---
 
 <div class="container animate">
@@ -13,7 +13,7 @@ service_description: "SEO support for site migrations — content audit, URL map
   <div class="service-hero">
     <div class="service-hero__left">
       <h1 class="service-hero__title">Move your site without losing what you've built.</h1>
-      <p class="service-hero__description">A site migration is one of the highest-risk moments in SEO. Done well, it's an opportunity to grow. Done poorly, it can erase years of organic traffic overnight. I've supported hundreds of migrations — platform changes, full redesigns, domain moves — and I stay with you through launch and beyond.</p>
+      <p class="service-hero__description">A site migration is one of the highest-risk moments in SEO. Done well, it's an opportunity to grow. Done poorly, it can erase years of organic traffic overnight. I've supported hundreds of migrations - platform changes, full redesigns, domain moves - and I stay with you through launch and beyond.</p>
       <div class="service-hero__buttons">
         <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
         <a href="/about/" class="service-hero__btn service-hero__btn--secondary">About Andrew</a>
@@ -40,7 +40,7 @@ service_description: "SEO support for site migrations — content audit, URL map
   <div class="service-content">
     <h3 class="service-content__title">Most migrations lose traffic. They don't have to.</h3>
     <div class="service-content__text">
-      <p>The risks are well understood but routinely underestimated until it's too late. Broken redirects, lost canonical signals, crawl issues, content gaps — any one of these can cause significant traffic loss. And there's rarely just a single cause. Most migration issues come from a combination of several problems compounding.</p>
+      <p>The risks are well understood but routinely underestimated until it's too late. Broken redirects, lost canonical signals, crawl issues, content gaps - any one of these can cause significant traffic loss. And there's rarely just a single cause. Most migration issues come from a combination of several problems compounding.</p>
       <p>A migration is also an opportunity to take stock of what a site actually needs. Sometimes that means pruning old or low-quality content, improving the overall health of the site, and resetting expectations for what traffic should look like post-launch. A healthier, more relevant site performs better over time. Part of what I do is help set realistic expectations for the new traffic baseline and explain why these activities serve the long-term health of the site and brand.</p>
     </div>
     <blockquote class="service-quote">
@@ -66,12 +66,12 @@ service_description: "SEO support for site migrations — content audit, URL map
       <div class="service-grid__card">
         <span class="service-grid__number">03</span>
         <h4 class="service-grid__card-title">Pre-launch SEO checklist</h4>
-        <p class="service-grid__card-desc">Technical review of the staging environment — crawlability, indexing, canonicals, structured data, page speed, internal linking.</p>
+        <p class="service-grid__card-desc">Technical review of the staging environment - crawlability, indexing, canonicals, structured data, page speed, internal linking.</p>
       </div>
       <div class="service-grid__card">
         <span class="service-grid__number">04</span>
         <h4 class="service-grid__card-title">Launch and post-launch support</h4>
-        <p class="service-grid__card-desc">Available on launch day and in the weeks after — monitoring for issues, flagging drops, and resolving problems before they compound.</p>
+        <p class="service-grid__card-desc">Available on launch day and in the weeks after - monitoring for issues, flagging drops, and resolving problems before they compound.</p>
       </div>
     </div>
   </div>
@@ -83,7 +83,7 @@ service_description: "SEO support for site migrations — content audit, URL map
     <div class="service-audience">
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Platform or CMS migrations</h4>
-        <p class="service-audience__card-desc">Moving between platforms — the technical risks are high and the window to get it right is narrow.</p>
+        <p class="service-audience__card-desc">Moving between platforms - the technical risks are high and the window to get it right is narrow.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Redesigns with URL changes</h4>
@@ -91,11 +91,11 @@ service_description: "SEO support for site migrations — content audit, URL map
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Domain or brand migrations</h4>
-        <p class="service-audience__card-desc">Moving to a new domain from a rebrand or acquisition — carries significant authority signal risk if handled incorrectly.</p>
+        <p class="service-audience__card-desc">Moving to a new domain from a rebrand or acquisition - carries significant authority signal risk if handled incorrectly.</p>
       </div>
       <div class="service-audience__card">
         <h4 class="service-audience__card-title">Agencies and dev teams</h4>
-        <p class="service-audience__card-desc">You're building the new site. I work alongside your team as the SEO authority — making sure what you ship doesn't undo what your client has built.</p>
+        <p class="service-audience__card-desc">You're building the new site. I work alongside your team as the SEO authority - making sure what you ship doesn't undo what your client has built.</p>
       </div>
     </div>
   </div>
@@ -107,13 +107,13 @@ service_description: "SEO support for site migrations — content audit, URL map
       <div class="service-proof__left">
         <h3 class="service-proof__title">Hundreds of migrations. 15+ years of knowing where it goes wrong.</h3>
         <div class="service-proof__text">
-          <p>I've seen every failure mode a migration can produce. I know what to check and when — <strong>fewer surprises after launch</strong> and faster resolution when they do occur.</p>
+          <p>I've seen every failure mode a migration can produce. I know what to check and when - <strong>fewer surprises after launch</strong> and faster resolution when they do occur.</p>
         </div>
       </div>
       <div class="service-proof__right">
         <div class="service-proof__card">
           <span class="service-proof__card-label">Bupa</span>
-          <p class="service-proof__card-text">Migration of Bupa's health content — full SEO migration support across a large, complex health information estate</p>
+          <p class="service-proof__card-text">Migration of Bupa's health content - full SEO migration support across a large, complex health information estate</p>
         </div>
         <div class="service-proof__card">
           <span class="service-proof__card-label">ArtsHub</span>
@@ -133,8 +133,7 @@ service_description: "SEO support for site migrations — content audit, URL map
     <div class="service-cta__inner">
       <h3 class="service-cta__title">Got a migration coming up? Let's talk early.</h3>
       <div class="service-cta__buttons">
-        <a href="/contact/" class="service-hero__btn service-hero__btn--secondary">Get in touch</a>
-        <a href="{{ site.baseurl }}/contact/" class="service-hero__btn service-hero__btn--primary">Schedule a call</a>
+        <a href="/contact/" class="service-hero__btn service-hero__btn--primary">Get in touch</a>
       </div>
     </div>
   </div>

@@ -50,12 +50,9 @@ permalink: /contact/
     <div class="contact-hero__left">
       <h1 class="contact-hero__title">Let's talk about your search.</h1>
       <p class="contact-hero__description">The best place to start is a 30-minute discovery call. This is just a conversation about where you are, where you want to get to, and whether I'm the right person to help.</p>
-      <p class="contact-hero__description">Book a time directly, or send me a quick message below and I'll reply with a link.</p>
+      <p class="contact-hero__description">Send me a quick message below and I'll reply with a link to book a time that suits you.</p>
       <p class="contact-hero__note">If I'm not the right fit, I'll let you know and do my best to point you in the right direction.</p>
-      <div class="hero__buttons">
-        <a href="https://calendly.com/gloyns/discovery-call" class="button button--primary" target="_blank" rel="noopener">Schedule a call</a>
-        <a href="#contact-form" class="button button--outline">Send a message</a>
-      </div>
+      <a href="#contact-form" class="button button--primary">Send a message</a>
     </div>
   </div>
 </div>

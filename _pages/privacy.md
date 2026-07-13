@@ -45,7 +45,7 @@ We use Overtracking (overtracking.com), a privacy-focused analytics tool, to und
 - No personal data (such as IP addresses or device identifiers) is collected or stored
 - Your visit cannot be tracked across other websites
 
-The data collected by Overtracking is aggregate and anonymous — it tells us things like which pages are visited most often and general traffic volumes. It does not identify you as an individual.
+The data collected by Overtracking is aggregate and anonymous - it tells us things like which pages are visited most often and general traffic volumes. It does not identify you as an individual.
 
 ### Email communications
 

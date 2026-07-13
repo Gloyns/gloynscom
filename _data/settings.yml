@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Andrew Gloyns — AI Search & SEO Consultant
+title: Andrew Gloyns - AI Search & SEO Consultant
 logo: '/images/gloyns-logo.webp'
 description: "Andrew Gloyns is an independent AI search (AEO/GEO) and SEO consultant in Melbourne, Australia. 15+ years helping brands get found in Google and cited in ChatGPT, Gemini, Perplexity and AI Overviews."
 color_scheme: light # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -90,7 +90,7 @@ valueprop__items:
     description: "Google and AI systems are both trying to serve the same person. Optimise for that person and the approach holds no matter how search changes."
 
   - title: "A judge at the industry's top awards"
-    description: "I judge at the <a href='https://www.globalsearchawards.net/' target='_blank'>Global Search Awards</a> and <a href='https://www.apacsearchawards.com/' target='_blank'>APAC Search Awards</a> — assessing the work of the world's best agencies and in-house teams."
+    description: "I judge at the <a href='https://www.globalsearchawards.net/' target='_blank'>Global Search Awards</a> and <a href='https://www.apacsearchawards.com/' target='_blank'>APAC Search Awards</a> - assessing the work of the world's best agencies and in-house teams."
 
   - title: "Seven-year average client tenure"
     description: "Honest work and real results. I treat the relationship as seriously as the brief, and clients tend to stay."
@@ -131,7 +131,7 @@ service__items:
     badge_style: "project"
     title: "Traffic Recovery"
     url: "/consulting/traffic-recovery/"
-    description: "If you've taken an unexpected hit — algorithmic, technical, or otherwise — I find the cause and build the path back."
+    description: "If you've taken an unexpected hit - algorithmic, technical, or otherwise - I find the cause and build the path back."
 
   - badge: "Agency"
     badge_style: "dark"
@@ -144,12 +144,12 @@ service__items:
 process:
   enable: true
   process__title: "Every engagement starts the same way."
-  process__intro: "Before I make a single recommendation, I need to understand your business — your users, your team, your history, and your constraints. That understanding is what separates a generic roadmap from one your team can actually execute."
+  process__intro: "Before I make a single recommendation, I need to understand your business - your users, your team, your history, and your constraints. That understanding is what separates a generic roadmap from one your team can actually execute."
 
 process__items:
   - number: "01"
     title: "Discovery"
-    description: "I get to know your business properly — your tech stack, your customer, what you've tried, what's worked, and what hasn't."
+    description: "I get to know your business properly - your tech stack, your customer, what you've tried, what's worked, and what hasn't."
 
   - number: "02"
     title: "Competitive analysis"
@@ -157,7 +157,7 @@ process__items:
 
   - number: "03"
     title: "Roadmap"
-    description: "A clear, prioritised plan — ordered by impact and feasibility, mapped to your team's actual capacity."
+    description: "A clear, prioritised plan - ordered by impact and feasibility, mapped to your team's actual capacity."
 
   - number: "04"
     title: "Working with your team"
@@ -165,11 +165,11 @@ process__items:
 
   - number: "05"
     title: "Technical architecture"
-    description: "I get the foundations right — crawlability, structure, schema, performance — so search engines and AI systems can find and understand what you do."
+    description: "I get the foundations right - crawlability, structure, schema, performance - so search engines and AI systems can find and understand what you do."
 
   - number: "06"
     title: "Iteration and improvement"
-    description: "Search isn't a project with an end date. I measure, learn, and adapt — constantly finding new opportunities and improving on what's working."
+    description: "Search isn't a project with an end date. I measure, learn, and adapt - constantly finding new opportunities and improving on what's working."
 
 #-------------------------------
 # Newsletter
@@ -193,7 +193,7 @@ casestudy__items:
     industry: "Recruitment"
     engagement: "Embedded Search Partner"
     title: "From zero to 1M+ monthly clicks for SEEK's Career Advice"
-    description: "User-first content strategy, SEO architecture, and close collaboration with product and editorial teams — built from scratch."
+    description: "User-first content strategy, SEO architecture, and close collaboration with product and editorial teams - built from scratch."
     metric: "1M+"
     metric_description: "monthly organic clicks"
     quote: "Andrew's approach fundamentally changed how we thought about content. The results speak for themselves."
@@ -316,13 +316,11 @@ cta:
   cta__description: "Tell me what's happening with your search and I'll tell you honestly whether I can help."
   cta__button_1_text: "Get in touch"
   cta__button_1_url: "/contact/"
-  cta__button_2_text: "Schedule a call"
-  cta__button_2_url: "/contact/"
 
 #-------------------------------
 # Footer Settings
 footer__background__image: "/images/bg.jpg"
-footer_acknowledgement: "I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live and work. This country has been cared for over thousands of years. I am proud to play my small part in continuing that care \u2014 for the land, the trees, and the animals that share it."
+footer_acknowledgement: "I acknowledge the Dja Dja Wurrung people of the Kulin Nation as the traditional custodians of the lands where I live and work. This country has been cared for over thousands of years. I am proud to play my small part in continuing that care - for the land, the trees, and the animals that share it."
 footer_acknowledgement_2: "I pay my respects to elders past, present and future."
 
 #-------------------------------
