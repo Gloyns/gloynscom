@@ -38,7 +38,7 @@ Recognising the flood of generic, formulaic content and the declining satisfacti
 
 This is where the flaw in AI-driven content optimisation became apparent. These tools weren't built to add expertise, originality, or unique insight. They were built to mimic what was already ranking. The more brands leaned in, the more their content became indistinguishable from everything else. And when Google adjusted its systems to prioritise originality and genuine expertise, many of those sites saw their traffic collapse.
 
-## It's not the tool's fault. It's the strategy.
+## The strategy is the problem, not the tool
 
 This isn't an attack on any specific tool, and results depend heavily on how they're used. In the right hands they can do good.
 
@@ -76,11 +76,11 @@ But when you look at what's actually ranking, things get interesting. A signific
 
 Is someone reading "best low-calorie alcoholic drinks to order at a bar" likely to become a paying Toast customer? The traffic is real. The relevance isn't. And content built around filling gaps rather than serving an actual audience tends to age poorly.
 
-## The real problem: content without empathy
+## Content without empathy
 
-What frustrates me about this approach isn't the tools themselves. It's the mindset behind them: optimising for what the tool says to say, rather than genuinely thinking about what would help the person reading it.
+What frustrates me about this approach is the mindset behind it: optimising for what the tool says to say, rather than genuinely thinking about what would help the person reading it.
 
-There's no real care in that process. No consideration of what the reader is actually trying to figure out, what they're feeling, or what would make their situation better. It's a race to the middle - content written not to inform, engage, or inspire, but simply to rank.
+There's no real care in that process, no consideration of what the reader is actually trying to figure out, what they're feeling, or what would make their situation better. It's a race to the middle - content written not to inform, engage, or inspire, but simply to rank.
 
 History tells us that doesn't last.
 
@@ -92,10 +92,10 @@ That's why Google partnered with Reddit. Reddit discussions aren't optimised art
 
 AI content tools don't create new ideas. They scan what's ranking, identify what's different, and tell you to add it. That's the opposite of what search systems are increasingly looking for.
 
-## Stand out or blend in. Your choice.
+## The long-term cost of blending in
 
 If you follow AI-driven optimisation tools blindly - tweaking your content to fit what's already ranking - you might see short-term gains. But in the long run, you become just another version of the same thing.
 
 Google isn't looking for more of the same. It's looking for originality, genuine expertise, and real value. Content that doesn't add anything new, challenge the norm, or engage its audience meaningfully will eventually be ignored.
 
-The question worth asking: are you creating something worth reading? Or are you just another version of content that already exists?
+The brands that keep winning are the ones creating something worth reading, not just another version of what's already out there.

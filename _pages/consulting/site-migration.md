@@ -106,7 +106,7 @@ service_description: "SEO support for site migrations - content audit, URL mappi
   <div class="container">
     <div class="service-proof__inner">
       <div class="service-proof__left">
-        <h3 class="service-proof__title">Hundreds of migrations. 15+ years of knowing where it goes wrong.</h3>
+        <h3 class="service-proof__title">Hundreds of migrations, 15+ years of knowing where it goes wrong</h3>
         <div class="service-proof__text">
           <p>I've seen every failure mode a migration can produce. I know what to check and when - <strong>fewer surprises after launch</strong> and faster resolution when they do occur.</p>
         </div>

@@ -105,7 +105,7 @@ service_description: "30 or 60-minute consultations for specific SEO and AI sear
   <div class="container">
     <div class="service-proof__inner">
       <div class="service-proof__left">
-        <h3 class="service-proof__title">You're talking directly to me. Not a team, not an account manager.</h3>
+        <h3 class="service-proof__title">You're talking directly to me, not a team, not an account manager</h3>
         <div class="service-proof__text">
           <p>Adhoc sessions work because you get <strong>direct access to 15+ years of experience</strong> - not filtered through a junior who's escalating your question. The questions in a one-hour session get the same level of care as the ones I tackle for my retained clients.</p>
         </div>

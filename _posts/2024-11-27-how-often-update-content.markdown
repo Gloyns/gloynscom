@@ -44,13 +44,13 @@ Updating content is less about making it feel fresh and more about ensuring the 
 
 This concept is sometimes called information gain - the idea that content should offer something new or unique that wasn't previously available. If your article discusses sustainable gardening, a meaningful update might include new research on climate-resilient plants or recently published techniques for improving soil health. These additions give readers something they didn't already have.
 
-Rephrasing sentences or tweaking a headline doesn't satisfy this. It's not information gain. It's just noise.
+Rephrasing sentences or tweaking a headline doesn't satisfy this - it's just noise, not information gain.
 
 ## Why you can't trick Google
 
 I'm often asked whether changing a publication date or tweaking the opening paragraph is enough to signal to Google that content has been refreshed.
 
-It isn't. Because of content hashing.
+It isn't, because of content hashing.
 
 When Google indexes your content, it creates a hash - a digital fingerprint. It can detect how much has actually changed. Superficial edits, like swapping dates or reordering sentences, don't fool the system. The hash reveals how little has changed.
 
@@ -58,11 +58,11 @@ User signals compound this. If your updates don't genuinely improve the content,
 
 ## When and how to actually update content
 
-**Update when the information has genuinely changed.** If new data, statistics, or research has emerged that makes your existing content less accurate or less useful, update it. If you're covering a topic where the field has evolved, reflect that evolution.
+1. Update when the information has genuinely changed. If new data, statistics, or research has emerged that makes your existing content less accurate or less useful, update it. If you're covering a topic where the field has evolved, reflect that evolution.
 
-**Update when you've identified real gaps.** If you notice competitors covering angles or sub-topics you don't, and those additions would genuinely help your reader, add them. Review what's ranking above you and ask honestly whether it's serving the user better - and if so, why.
+2. Update when you've identified real gaps. If you notice competitors covering angles or sub-topics you don't, and those additions would genuinely help your reader, add them. Review what's ranking above you and ask honestly whether it's serving the user better - and if so, why.
 
-**Don't update for the sake of updating.** The weight SEO places on regular content refreshes is misleading and a drain on resources that could be better used elsewhere. Don't change dates, rephrase intros, or make superficial adjustments in the hope of signalling freshness. Google can see through it and users will feel it.
+3. Don't update for the sake of updating. The weight SEO places on regular content refreshes is misleading and a drain on resources that could be better used elsewhere. Don't change dates, rephrase intros, or make superficial adjustments in the hope of signalling freshness. Google can see through it and users will feel it.
 
 ## Does freshness matter for AI search?
 
@@ -74,7 +74,7 @@ Where updates do help your chances of being cited: a genuine revision that corre
 
 So the answer hasn't changed. Update when the information has genuinely changed, and it now pays off twice - in rankings and in AI citations.
 
-## Focus on value. Not freshness.
+## Focus on value, not freshness
 
 When your content consistently serves users better than anyone else's, the traffic follows. Every time.
 
