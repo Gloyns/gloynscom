@@ -40,7 +40,7 @@ service_description: "Senior search strategy across SEO, AEO, content and measur
 
 <div class="container animate">
   <div class="service-content">
-    <h3 class="service-content__title">Not audits. Not recommendations. Actual progress.</h3>
+    <h3 class="service-content__title">Not audits or recommendations - actual progress</h3>
     <div class="service-content__text">
       <p>I don't do audits - not in the traditional sense. A long document full of issues rarely moves the needle because it puts the burden of understanding and prioritisation entirely on your team. Instead I work from the inside: getting to know your business, your constraints, and your team's way of working, then driving the right priorities from within.</p>
       <p>A big part of what I do is help teams adjust how they think about search as an acquisition channel - not through workshops or training decks, but through being part of the work. The strategy, the execution, and the thinking all develop together.</p>
@@ -107,7 +107,7 @@ service_description: "Senior search strategy across SEO, AEO, content and measur
   <div class="container">
     <div class="service-proof__inner">
       <div class="service-proof__left">
-        <h3 class="service-proof__title">Seven-year average client tenure. Most here since 2015.</h3>
+        <h3 class="service-proof__title">Seven-year average client tenure, most here since 2015</h3>
         <div class="service-proof__text">
           <p>The embedded model works because the relationship compounds. The longer I'm inside an organisation, the more effective the work becomes. <strong>SEEK and others have stayed for the long term</strong> - not because they're locked in, but because the results keep coming.</p>
         </div>

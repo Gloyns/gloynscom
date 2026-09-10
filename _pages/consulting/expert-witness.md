@@ -138,7 +138,7 @@ service_description: "Independent SEO expert witness for legal proceedings - exp
   <div class="container">
     <div class="service-proof__inner">
       <div class="service-proof__left">
-        <h3 class="service-proof__title">Legal background. 15+ years of senior search practice. Both matter here.</h3>
+        <h3 class="service-proof__title">Legal background and 15+ years of senior search practice</h3>
         <div class="service-proof__text">
           <p>Before moving into search, I spent a number of years working at law firms in London and the UK. I understand the environment, the expectations placed on expert witnesses, and the standard required. That background, combined with 15+ years at the senior level of the search industry, means I can operate effectively in legal proceedings without a steep learning curve on either side.</p>
         </div>
