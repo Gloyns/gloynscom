@@ -32,8 +32,11 @@ image: '/images/andrew-gloyns.webp'
   </div>
 </section>
 
+{% include section-logos.html %}
+
 <div class="container animate" id="book">
   <div class="lp-calendar">
+    <h2 class="service-content__title">Book a call at a time that suits you</h2>
     <div id="my-cal-inline-ai-intro" class="lp-calendar__embed"></div>
   </div>
 </div>
@@ -53,7 +56,6 @@ image: '/images/andrew-gloyns.webp'
 </script>
 {% endraw %}
 
-{% include section-logos.html %}
 
 <div class="container animate">
   <div class="service-content">
