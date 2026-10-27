@@ -4,7 +4,6 @@ title: Is ChatGPT recommending your brand?
 seo_title: "Is ChatGPT recommending your brand? Book a free AI search chat - Andrew Gloyns"
 description: "Book a free chat with Andrew Gloyns, an independent AI search consultant. Find out where your brand stands in ChatGPT, Gemini, Perplexity and Google's AI Overviews."
 permalink: /chatgpt/
-booking_url: "https://cal.com/gloyns"
 noindex: true
 sitemap: false
 image: '/images/andrew-gloyns.webp'
@@ -18,9 +17,6 @@ image: '/images/andrew-gloyns.webp'
         <div class="hero__left">
           <h1 class="hero__title">Is ChatGPT recommending your brand?</h1>
           <p class="hero__description">I'm Andrew Gloyns, an independent AI search consultant. I help brands get found in Google and cited in ChatGPT, Gemini, Perplexity and Google's AI Overviews. 15+ years, working directly with every client.</p>
-          <div class="hero__buttons">
-            <a href="{{ page.booking_url }}" class="lp-btn" data-umami-event="book-call" data-umami-event-location="hero">Book your free chat</a>
-          </div>
         </div>
       </div>
 
@@ -35,6 +31,27 @@ image: '/images/andrew-gloyns.webp'
     </div>
   </div>
 </section>
+
+<div class="container animate" id="book">
+  <div class="lp-calendar">
+    <div id="my-cal-inline-ai-intro" class="lp-calendar__embed"></div>
+  </div>
+</div>
+{% raw %}
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+  Cal("init", "ai-intro", {origin:"https://app.cal.com"});
+  Cal.config = Cal.config || {};
+  Cal.config.forwardQueryParams = true;
+  Cal.ns["ai-intro"]("inline", {
+    elementOrSelector:"#my-cal-inline-ai-intro",
+    config: {"layout":"month_view","useSlotsViewOnSmallScreen":"true"},
+    calLink: "gloyns/ai-intro",
+  });
+  Cal.ns["ai-intro"]("ui", {"hideEventTypeDetails":false,"layout":"month_view"});
+  Cal.ns["ai-intro"]("on", {action: "bookingSuccessful", callback: function () { if (window.umami) { window.umami.track("booking-complete"); } }});
+</script>
+{% endraw %}
 
 {% include section-logos.html %}
 
@@ -139,11 +156,3 @@ image: '/images/andrew-gloyns.webp'
   </div>
 </div>
 
-<div class="container animate">
-  <div class="service-cta">
-    <div class="service-cta__inner">
-      <h2 class="service-cta__title">Want to talk about your AI search visibility?</h2>
-      <a href="{{ page.booking_url }}" class="lp-link" data-umami-event="book-call" data-umami-event-location="footer-link">Book your free chat</a>
-    </div>
-  </div>
-</div>

@@ -1,25 +1,4 @@
 /* Landing page (ad traffic) */
-.lp-btn {
-  display: inline-block;
-  padding: 18px 36px;
-  font-size: 16px;
-  font-weight: 600;
-  color: #fff;
-  background-color: var(--primary-color);
-  border-radius: 60px;
-  text-decoration: none;
-  transition: opacity 0.2s;
-
-  &:hover {
-    opacity: 0.85;
-    color: #fff;
-  }
-
-  @media (max-width: $mobile) {
-    padding: 16px 28px;
-  }
-}
-
 .lp-intro {
   max-width: 600px;
   margin-bottom: 32px;
@@ -121,16 +100,11 @@
   color: var(--text-alt-color);
 }
 
-.lp-link {
-  flex-shrink: 0;
-  font-size: 18px;
-  font-weight: 600;
-  color: var(--primary-color);
-  text-decoration: underline;
-  text-underline-offset: 4px;
+.lp-calendar {
+  padding: 24px 0 48px;
+}
 
-  &:hover {
-    color: var(--primary-color);
-    opacity: 0.8;
-  }
+.lp-calendar__embed {
+  width: 100%;
+  overflow: auto;
 }
