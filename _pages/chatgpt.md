@@ -59,9 +59,6 @@ image: '/images/andrew-gloyns.webp'
         <p class="lp-cols__desc">How I'd work with you and your team, if it makes sense for both of us.</p>
       </div>
     </div>
-    <div class="lp-action">
-      <a href="{{ page.booking_url }}" class="lp-btn" data-umami-event="book-call" data-umami-event-location="chat-section">Book your free chat</a>
-    </div>
   </div>
 </div>
 
@@ -146,9 +143,7 @@ image: '/images/andrew-gloyns.webp'
   <div class="service-cta">
     <div class="service-cta__inner">
       <h2 class="service-cta__title">Want to talk about your AI search visibility?</h2>
-      <div class="service-cta__buttons">
-        <a href="{{ page.booking_url }}" class="lp-btn" data-umami-event="book-call" data-umami-event-location="footer-cta">Book your free chat</a>
-      </div>
+      <a href="{{ page.booking_url }}" class="lp-link" data-umami-event="book-call" data-umami-event-location="footer-link">Book your free chat</a>
     </div>
   </div>
 </div>

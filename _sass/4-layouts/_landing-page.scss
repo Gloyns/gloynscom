@@ -1,31 +1,4 @@
 /* Landing page (ad traffic) */
-.lp-header__inner {
-  justify-content: space-between;
-}
-
-.lp-header__cta {
-  flex-shrink: 0;
-  padding: 10px 24px;
-  font-family: $heading-font-family;
-  font-size: 15px;
-  font-weight: 700;
-  color: #fff;
-  background-color: var(--primary-color);
-  border-radius: 100px;
-  text-decoration: none;
-  transition: opacity 0.2s;
-
-  &:hover {
-    opacity: 0.85;
-    color: #fff;
-  }
-
-  @media (max-width: $mobile) {
-    padding: 9px 18px;
-    font-size: 14px;
-  }
-}
-
 .lp-btn {
   display: inline-block;
   padding: 18px 36px;
@@ -94,10 +67,6 @@
   color: var(--text-alt-color);
 }
 
-.lp-action {
-  margin-top: 32px;
-}
-
 .lp-results {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -150,4 +119,18 @@
   font-size: 15px;
   line-height: 1.7;
   color: var(--text-alt-color);
+}
+
+.lp-link {
+  flex-shrink: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--primary-color);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+
+  &:hover {
+    color: var(--primary-color);
+    opacity: 0.8;
+  }
 }
